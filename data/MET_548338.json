@@ -1,0 +1,135 @@
+{
+  "id": "MET_548338",
+  "names": {
+    "ar": "نقش بارز (Relief from the Tomb of Nespekashuty)",
+    "en": "Relief from the Tomb of Nespekashuty",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Relief, Tomb of Nespekashuty (63 parts)",
+  "period": {
+    "ar": "العصر المتأخر, Saite",
+    "en": "Late Period, Saite",
+    "year_min": -656,
+    "year_max": -650
+  },
+  "dynasty": {
+    "ar": "الأسرة السادسة والعشرون",
+    "en": "Dynasty 26"
+  },
+  "material": [
+    "Limestone",
+    "paint"
+  ],
+  "dimensions": {
+    "text": "as displayed: L. 303 × H. 127 × Th. 10 cm (9 ft. 11 5/16 in. × 50 in. × 3 15/16 in.)\r\nmain section of relief as displayed: L. 245 × H. 106.5 × Th. 10 cm (96 7/16 × 41 15/16 × 3 15/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "MMA excavations, 1922–23"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 127"
+  },
+  "description": {
+    "ar": "نقش بارز مصرية قديمة، معروفة بـ«Relief from the Tomb of Nespekashuty»، تعود إلى العصر المتأخر, Saite، (الأسرة السادسة والعشرون)، مصنوعة من حجر جيري وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Relief from the Tomb of Nespekashuty — Relief, Tomb of Nespekashuty (63 parts). Period: Late Period, Saite, Dynasty 26, dated to 656–650 BC. Medium: Limestone, paint. Dimensions: as displayed: L. 303 × H. 127 × Th. 10 cm (9 ft. 11 5/16 in. × 50 in. × 3 15/16 in.)\r\nmain section of relief as displayed: L. 245 × H. 106.5 × Th. 10 cm (96 7/16 × 41 15/16 × 3 15/16 in.). Excavation: MMA excavations, 1922–23. Country of origin: Egypt. Credit: Rogers Fund, 1923.",
+    "ar_intro": "نقش بارز مصرية قديمة، معروفة بـ«Relief from the Tomb of Nespekashuty»، تعود إلى العصر المتأخر, Saite، (الأسرة السادسة والعشرون)، مصنوعة من حجر جيري وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Relief from the Tomb of Nespekashuty"
+  },
+  "images": [
+    {
+      "filename": "MET_548338_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DT555-detail.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Relief from the Tomb of Nespekashuty",
+      "object_name": "Relief, Tomb of Nespekashuty (63 parts)"
+    },
+    {
+      "filename": "MET_548338_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DT555.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Relief from the Tomb of Nespekashuty",
+      "object_name": "Relief, Tomb of Nespekashuty (63 parts)"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/548338",
+      "title": "Relief from the Tomb of Nespekashuty",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "food",
+    "men",
+    "hieroglyphs",
+    "funerals",
+    "boats"
+  ],
+  "related_ids": [
+    "MET_550755",
+    "MET_544320",
+    "MET_544766",
+    "MET_544884",
+    "MET_545213",
+    "MET_546746",
+    "MET_553027",
+    "MET_545281"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي نقش بارز (Relief from the Tomb of Nespekashuty)؟",
+      "a": "نقش بارز مصرية قديمة، معروفة بـ«Relief from the Tomb of Nespekashuty»، تعود إلى العصر المتأخر, Saite، (الأسرة السادسة والعشرون)، مصنوعة من حجر جيري وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد نقش بارز (Relief from the Tomb of Nespekashuty) حاليًا؟",
+      "a": "تُحفظ نقش بارز (Relief from the Tomb of Nespekashuty) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود نقش بارز (Relief from the Tomb of Nespekashuty)؟",
+      "a": "تعود نقش بارز (Relief from the Tomb of Nespekashuty) إلى الأسرة السادسة والعشرون.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت نقش بارز (Relief from the Tomb of Nespekashuty)؟",
+      "a": "صُنعت نقش بارز (Relief from the Tomb of Nespekashuty) من حجر جيري وpaint.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت نقش بارز (Relief from the Tomb of Nespekashuty)؟",
+      "a": "أُحضرت نقش بارز (Relief from the Tomb of Nespekashuty) من MMA excavations, 1922–23.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

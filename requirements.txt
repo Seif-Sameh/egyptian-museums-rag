@@ -1,0 +1,12 @@
+# RAG server
+fastapi>=0.110
+uvicorn>=0.29
+pydantic>=2.0
+
+# Dense retrieval (lazy-loaded by server/embeddings.py)
+sentence-transformers>=2.7
+faiss-cpu>=1.8
+numpy>=1.26
+
+# Optional generative answers are called over plain HTTP (urllib) using
+# GROQ_API_KEY / ANTHROPIC_API_KEY / OPENAI_API_KEY — no SDK required.

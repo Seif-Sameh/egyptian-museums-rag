@@ -1,0 +1,132 @@
+{
+  "id": "MET_543864",
+  "names": {
+    "ar": "تمثال (Guardian Figure)",
+    "en": "Guardian Figure",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Statue, guardian figure",
+  "period": {
+    "ar": "الدولة الوسطى",
+    "en": "Middle Kingdom",
+    "year_min": -1919,
+    "year_max": -1885
+  },
+  "dynasty": {
+    "ar": "الأسرة الثانية عشرة",
+    "en": "Dynasty 12"
+  },
+  "material": [
+    "Cedar wood",
+    "plaster",
+    "paint"
+  ],
+  "dimensions": {
+    "text": "H. 57.6 cm (22 11/16 in.); W. 11 cm (4 5/16 in.); D. 26 cm (10 1/4 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "MMA excavations, 1913–14"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 111"
+  },
+  "description": {
+    "ar": "تمثال مصرية قديمة، معروفة بـ«Guardian Figure»، تعود إلى الدولة الوسطى، (الأسرة الثانية عشرة)، مصنوعة من Cedar wood وplaster وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Guardian Figure — Statue, guardian figure. Period: Middle Kingdom, Dynasty 12, dated to ca. 1919–1885 B.C.. Medium: Cedar wood, plaster, paint. Dimensions: H. 57.6 cm (22 11/16 in.); W. 11 cm (4 5/16 in.); D. 26 cm (10 1/4 in.). Excavation: MMA excavations, 1913–14. Country of origin: Egypt. Credit: Rogers Fund and Edward S. Harkness Gift, 1914.",
+    "ar_intro": "تمثال مصرية قديمة، معروفة بـ«Guardian Figure»، تعود إلى الدولة الوسطى، (الأسرة الثانية عشرة)، مصنوعة من Cedar wood وplaster وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Guardian Figure"
+  },
+  "images": [
+    {
+      "filename": "MET_543864_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP330260.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Guardian Figure",
+      "object_name": "Statue, guardian figure"
+    },
+    {
+      "filename": "MET_543864_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP330264.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Guardian Figure",
+      "object_name": "Statue, guardian figure"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/543864",
+      "title": "Guardian Figure",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "men"
+  ],
+  "related_ids": [
+    "MET_544184",
+    "MET_544214",
+    "MET_544320",
+    "MET_545281",
+    "MET_543867",
+    "MET_544186",
+    "MET_544210",
+    "MET_544227"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال (Guardian Figure)؟",
+      "a": "تمثال مصرية قديمة، معروفة بـ«Guardian Figure»، تعود إلى الدولة الوسطى، (الأسرة الثانية عشرة)، مصنوعة من Cedar wood وplaster وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال (Guardian Figure) حاليًا؟",
+      "a": "تُحفظ تمثال (Guardian Figure) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال (Guardian Figure)؟",
+      "a": "تعود تمثال (Guardian Figure) إلى الأسرة الثانية عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال (Guardian Figure)؟",
+      "a": "صُنعت تمثال (Guardian Figure) من Cedar wood وplaster وpaint.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تمثال (Guardian Figure)؟",
+      "a": "أُحضرت تمثال (Guardian Figure) من MMA excavations, 1913–14.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

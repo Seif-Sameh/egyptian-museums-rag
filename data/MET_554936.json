@@ -1,0 +1,119 @@
+{
+  "id": "MET_554936",
+  "names": {
+    "ar": "Cone, Iky, circular impression, overseer, cattle, steward, prophets of Montu (Funerary Cone of the Overseer of Cattle Iky)",
+    "en": "Funerary Cone of the Overseer of Cattle Iky",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Cone, Iky, circular impression, overseer, cattle, steward, prophets of Montu",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1550,
+    "year_max": -1295
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Pottery"
+  ],
+  "dimensions": {
+    "text": "L. 12 × Diam. 7 cm (4 3/4 × 2 3/4 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 117"
+  },
+  "description": {
+    "ar": "Cone, Iky, circular impression, overseer, cattle, steward, prophets of Montu مصرية قديمة، معروفة بـ«Funerary Cone of the Overseer of Cattle Iky»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من فخار، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Funerary Cone of the Overseer of Cattle Iky — Cone, Iky, circular impression, overseer, cattle, steward, prophets of Montu. Period: New Kingdom, Dynasty 18, dated to ca. 1550–1295 B.C.. Medium: Pottery. Dimensions: L. 12 × Diam. 7 cm (4 3/4 × 2 3/4 in.). Country of origin: Egypt. Credit: Gift of Norman de Garis Davies, 1930.",
+    "ar_intro": "Cone, Iky, circular impression, overseer, cattle, steward, prophets of Montu مصرية قديمة، معروفة بـ«Funerary Cone of the Overseer of Cattle Iky»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من فخار، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Funerary Cone of the Overseer of Cattle Iky"
+  },
+  "images": [
+    {
+      "filename": "MET_554936_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/30.6.77-acc.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Funerary Cone of the Overseer of Cattle Iky",
+      "object_name": "Cone, Iky, circular impression, overseer, cattle, steward, prophets of Montu"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/554936",
+      "title": "Funerary Cone of the Overseer of Cattle Iky",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "hieroglyphs"
+  ],
+  "related_ids": [
+    "MET_544692",
+    "MET_544826",
+    "MET_546012",
+    "MET_547687",
+    "MET_554367",
+    "MET_554915",
+    "MET_554935",
+    "MET_554948"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي Cone, Iky, circular impression, overseer, cattle, steward, prophets of Montu (Funerary Cone of the Overseer of Cattle Iky)؟",
+      "a": "Cone, Iky, circular impression, overseer, cattle, steward, prophets of Montu مصرية قديمة، معروفة بـ«Funerary Cone of the Overseer of Cattle Iky»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من فخار، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد Cone, Iky, circular impression, overseer, cattle, steward, prophets of Montu (Funerary Cone of the Overseer of Cattle Iky) حاليًا؟",
+      "a": "تُحفظ Cone, Iky, circular impression, overseer, cattle, steward, prophets of Montu (Funerary Cone of the Overseer of Cattle Iky) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود Cone, Iky, circular impression, overseer, cattle, steward, prophets of Montu (Funerary Cone of the Overseer of Cattle Iky)؟",
+      "a": "تعود Cone, Iky, circular impression, overseer, cattle, steward, prophets of Montu (Funerary Cone of the Overseer of Cattle Iky) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت Cone, Iky, circular impression, overseer, cattle, steward, prophets of Montu (Funerary Cone of the Overseer of Cattle Iky)؟",
+      "a": "صُنعت Cone, Iky, circular impression, overseer, cattle, steward, prophets of Montu (Funerary Cone of the Overseer of Cattle Iky) من فخار.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت Cone, Iky, circular impression, overseer, cattle, steward, prophets of Montu (Funerary Cone of the Overseer of Cattle Iky)؟",
+      "a": "أُحضرت Cone, Iky, circular impression, overseer, cattle, steward, prophets of Montu (Funerary Cone of the Overseer of Cattle Iky) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

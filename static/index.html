@@ -1,0 +1,110 @@
+<!doctype html>
+<html lang="ar" dir="rtl">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>المتاحف المصرية — اسأل واكتشف</title>
+<link rel="stylesheet" href="/static/app.css?v=4">
+</head>
+<body>
+
+<nav class="topnav">
+  <div class="brand">
+    <span class="logo">𓋹</span>
+    <span class="brand-text">المتاحف المصرية</span>
+  </div>
+  <div class="nav-links">
+    <a href="/" class="active">اسأل · Ask</a>
+    <a href="/browse">تصفّح · Browse</a>
+    <a href="/api/docs" target="_blank">API</a>
+  </div>
+</nav>
+
+<main id="rag">
+  <!-- HERO -->
+  <section class="hero" id="hero">
+    <h1>اسأل عن أي قطعة أثرية أو متحف.</h1>
+    <p class="subtitle">
+      نظام استرجاع وإجابة باللغة العربية على ٢٢٥ قطعة أثرية مصرية موزّعة على ٩ متاحف،
+      مع صور وقاعات وحقب زمنية. اسأل بطبيعتك.
+    </p>
+    <form id="askForm" autocomplete="off">
+      <input
+        id="askInput"
+        placeholder="مثلًا: أين قناع توت عنخ آمون؟"
+        autofocus
+      >
+      <button type="submit">اسأل</button>
+    </form>
+
+    <div class="mode-toggle">
+      <label class="mode-pill">
+        <input type="radio" name="mode" value="extractive" checked>
+        <span>استرجاع مباشر <small>(فوري · بدون مفتاح)</small></span>
+      </label>
+      <label class="mode-pill">
+        <input type="radio" name="mode" value="generative">
+        <span>إجابة مولّدة بنموذج LLM <small>(Groq · يحتاج مفتاح)</small></span>
+      </label>
+    </div>
+
+    <div class="suggestions" id="suggestions"></div>
+  </section>
+
+  <!-- ANSWER -->
+  <section class="answer-section" id="answerSection" hidden>
+    <div class="answer-loader" id="answerLoader" hidden>
+      <div class="dot"></div><div class="dot"></div><div class="dot"></div>
+    </div>
+
+    <div id="answerWrap" hidden>
+      <!-- Hero artifact card with image + answer text -->
+      <div class="answer-card" id="answerCard"></div>
+
+      <!-- Source chunks ("the model retrieved these") -->
+      <div class="sources-block" id="sourcesBlock">
+        <h3>المراجع المُسترجعة <span class="dim">— من قاعدة البيانات</span></h3>
+        <div class="sources-grid" id="sourcesGrid"></div>
+      </div>
+
+      <!-- Related artifacts -->
+      <div class="related-block" id="relatedBlock" hidden>
+        <h3>قطع ذات صلة</h3>
+        <div class="related-grid" id="relatedGrid"></div>
+      </div>
+
+      <!-- Follow-up suggestions -->
+      <div class="followups" id="followupsBlock" hidden>
+        <h3>تساؤلات أخرى</h3>
+        <div class="followups-row" id="followupsRow"></div>
+      </div>
+    </div>
+  </section>
+
+  <!-- HISTORY (recent questions) -->
+  <section class="history-section" id="historySection" hidden>
+    <h3>الأسئلة السابقة</h3>
+    <div class="history-list" id="historyList"></div>
+  </section>
+</main>
+
+<footer>
+  <span>مبني على ١٣١٥ مقطع نصي · ٦٧٤ صورة · ٩ متاحف</span>
+  <span class="dim">الصور: Wikimedia Commons + The Met OA · النصوص: Wikipedia AR/EN</span>
+</footer>
+
+<!-- Detail modal (reused for clicks on artifact cards) -->
+<div class="detail-modal" id="detailModal" hidden>
+  <div class="detail-wrap">
+    <button class="close-btn" onclick="closeDetail()">✕</button>
+    <div id="detailBody"></div>
+  </div>
+</div>
+
+<div id="image-modal" onclick="this.classList.remove('show')">
+  <img id="modal-img">
+</div>
+
+<script src="/static/app.js?v=4"></script>
+</body>
+</html>

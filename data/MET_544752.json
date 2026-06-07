@@ -1,0 +1,133 @@
+{
+  "id": "MET_544752",
+  "names": {
+    "ar": "خاتم (Head of King Seti II Wearing the Blue Crown)",
+    "en": "Head of King Seti II Wearing the Blue Crown",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Head, Amenmesse, Seti II, blue crown",
+  "period": {
+    "ar": "الدولة الحديثة, Ramesside",
+    "en": "New Kingdom, Ramesside",
+    "year_min": -1200,
+    "year_max": -1194
+  },
+  "dynasty": {
+    "ar": "الأسرة التاسعة عشرة",
+    "en": "Dynasty 19"
+  },
+  "material": [
+    "Quartzite",
+    "paint"
+  ],
+  "dimensions": {
+    "text": "H. 44.5 × W. 30.5 × D. 34.5 cm (17 1/2 × 12 × 13 9/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 123"
+  },
+  "description": {
+    "ar": "خاتم مصرية قديمة، معروفة بـ«Head of King Seti II Wearing the Blue Crown»، تعود إلى الدولة الحديثة, Ramesside، (الأسرة التاسعة عشرة)، مصنوعة من كوارتزيت وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Head of King Seti II Wearing the Blue Crown — Head, Amenmesse, Seti II, blue crown. Period: New Kingdom, Ramesside, Dynasty 19, dated to ca. 1200–1194 B.C.. Medium: Quartzite, paint. Dimensions: H. 44.5 × W. 30.5 × D. 34.5 cm (17 1/2 × 12 × 13 9/16 in.). Country of origin: Egypt. Credit: Rogers Fund, 1934.",
+    "ar_intro": "خاتم مصرية قديمة، معروفة بـ«Head of King Seti II Wearing the Blue Crown»، تعود إلى الدولة الحديثة, Ramesside، (الأسرة التاسعة عشرة)، مصنوعة من كوارتزيت وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Head of King Seti II Wearing the Blue Crown"
+  },
+  "images": [
+    {
+      "filename": "MET_544752_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-24217-001.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Head of King Seti II Wearing the Blue Crown",
+      "object_name": "Head, Amenmesse, Seti II, blue crown"
+    },
+    {
+      "filename": "MET_544752_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/34.2.2_EGDP011841.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Head of King Seti II Wearing the Blue Crown",
+      "object_name": "Head, Amenmesse, Seti II, blue crown"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544752",
+      "title": "Head of King Seti II Wearing the Blue Crown",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "kings",
+    "men",
+    "crowns"
+  ],
+  "related_ids": [
+    "SETI_I_TOMB",
+    "MET_544740",
+    "MET_545870",
+    "MET_554769",
+    "MET_544066",
+    "MET_544702",
+    "MET_547704",
+    "MET_543882"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي خاتم (Head of King Seti II Wearing the Blue Crown)؟",
+      "a": "خاتم مصرية قديمة، معروفة بـ«Head of King Seti II Wearing the Blue Crown»، تعود إلى الدولة الحديثة, Ramesside، (الأسرة التاسعة عشرة)، مصنوعة من كوارتزيت وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد خاتم (Head of King Seti II Wearing the Blue Crown) حاليًا؟",
+      "a": "تُحفظ خاتم (Head of King Seti II Wearing the Blue Crown) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود خاتم (Head of King Seti II Wearing the Blue Crown)؟",
+      "a": "تعود خاتم (Head of King Seti II Wearing the Blue Crown) إلى الأسرة التاسعة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت خاتم (Head of King Seti II Wearing the Blue Crown)؟",
+      "a": "صُنعت خاتم (Head of King Seti II Wearing the Blue Crown) من كوارتزيت وpaint.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت خاتم (Head of King Seti II Wearing the Blue Crown)؟",
+      "a": "أُحضرت خاتم (Head of King Seti II Wearing the Blue Crown) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

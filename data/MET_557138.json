@@ -1,0 +1,126 @@
+{
+  "id": "MET_557138",
+  "names": {
+    "ar": "تميمة (Animal amulet)",
+    "en": "Animal amulet",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Amulet, kind of ba bird",
+  "period": {
+    "ar": "الدولة الوسطى–Early الدولة الحديثة",
+    "en": "Middle Kingdom–Early New Kingdom",
+    "year_min": -1850,
+    "year_max": -1640
+  },
+  "dynasty": {
+    "ar": "الأسرة الثانية عشرة, late–early 13",
+    "en": "Dynasty 12, late–early 13"
+  },
+  "material": [
+    "Faience"
+  ],
+  "dimensions": {
+    "text": "H. 1.6 cm (5/8 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "MMA excavations, 1913–14"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 109"
+  },
+  "description": {
+    "ar": "تميمة مصرية قديمة، معروفة بـ«Animal amulet»، تعود إلى الدولة الوسطى–Early الدولة الحديثة، (الأسرة الثانية عشرة, late–early 13)، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Animal amulet — Amulet, kind of ba bird. Period: Middle Kingdom–Early New Kingdom, Dynasty 12, late–early 13, dated to ca. 1850–1640 B.C.. Medium: Faience. Dimensions: H. 1.6 cm (5/8 in.). Excavation: MMA excavations, 1913–14. Country of origin: Egypt. Credit: Rogers Fund, 1915.",
+    "ar_intro": "تميمة مصرية قديمة، معروفة بـ«Animal amulet»، تعود إلى الدولة الوسطى–Early الدولة الحديثة، (الأسرة الثانية عشرة, late–early 13)، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Animal amulet"
+  },
+  "images": [
+    {
+      "filename": "MET_557138_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/15.3.216_EGDP015430.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Animal amulet",
+      "object_name": "Amulet, kind of ba bird"
+    },
+    {
+      "filename": "MET_557138_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/15.3.216_EGDP015431.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Animal amulet",
+      "object_name": "Amulet, kind of ba bird"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/557138",
+      "title": "Animal amulet",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "animals"
+  ],
+  "related_ids": [
+    "MET_543867",
+    "MET_544068",
+    "MET_544070",
+    "MET_548584"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تميمة (Animal amulet)؟",
+      "a": "تميمة مصرية قديمة، معروفة بـ«Animal amulet»، تعود إلى الدولة الوسطى–Early الدولة الحديثة، (الأسرة الثانية عشرة, late–early 13)، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تميمة (Animal amulet) حاليًا؟",
+      "a": "تُحفظ تميمة (Animal amulet) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تميمة (Animal amulet)؟",
+      "a": "تعود تميمة (Animal amulet) إلى الأسرة الثانية عشرة, late–early 13.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تميمة (Animal amulet)؟",
+      "a": "صُنعت تميمة (Animal amulet) من خزف فاينس.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تميمة (Animal amulet)؟",
+      "a": "أُحضرت تميمة (Animal amulet) من MMA excavations, 1913–14.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

@@ -1,0 +1,131 @@
+{
+  "id": "MET_587760",
+  "names": {
+    "ar": "تمثال (Kushite official, subsequently modified)",
+    "en": "Kushite official, subsequently modified",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Statue, king, priest",
+  "period": {
+    "ar": "عصر الانتقال الثالث",
+    "en": "Third Intermediate Period",
+    "year_min": -712,
+    "year_max": -664
+  },
+  "dynasty": {
+    "ar": "الأسرة الخامسة والعشرون (Kushite)",
+    "en": "Dynasty 25 (Kushite)"
+  },
+  "material": [
+    "Leaded bronze",
+    "gold leaf"
+  ],
+  "dimensions": {
+    "text": "H. 21 x D. 5.5 cm (8 1/4 x 2 3/16 in)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 125"
+  },
+  "description": {
+    "ar": "تمثال مصرية قديمة، معروفة بـ«Kushite official, subsequently modified»، تعود إلى عصر الانتقال الثالث، (الأسرة الخامسة والعشرون (Kushite))، مصنوعة من Leaded bronze وgold leaf، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Kushite official, subsequently modified — Statue, king, priest. Period: Third Intermediate Period, Dynasty 25 (Kushite), dated to ca. 712–664 B.C.. Medium: Leaded bronze, gold leaf. Dimensions: H. 21 x D. 5.5 cm (8 1/4 x 2 3/16 in). Country of origin: Egypt. Credit: Purchase, Gift in memory of Manuel Schnitzer and Lila Acheson Wallace Gift, 2010.",
+    "ar_intro": "تمثال مصرية قديمة، معروفة بـ«Kushite official, subsequently modified»، تعود إلى عصر الانتقال الثالث، (الأسرة الخامسة والعشرون (Kushite))، مصنوعة من Leaded bronze وgold leaf، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Kushite official, subsequently modified"
+  },
+  "images": [
+    {
+      "filename": "MET_587760_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP236108.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Kushite official, subsequently modified",
+      "object_name": "Statue, king, priest"
+    },
+    {
+      "filename": "MET_587760_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP236670.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Kushite official, subsequently modified",
+      "object_name": "Statue, king, priest"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/587760",
+      "title": "Kushite official, subsequently modified",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "men"
+  ],
+  "related_ids": [
+    "MET_543864",
+    "MET_543882",
+    "MET_543896",
+    "MET_543899",
+    "MET_543901",
+    "MET_543903",
+    "MET_544056",
+    "MET_544076"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال (Kushite official, subsequently modified)؟",
+      "a": "تمثال مصرية قديمة، معروفة بـ«Kushite official, subsequently modified»، تعود إلى عصر الانتقال الثالث، (الأسرة الخامسة والعشرون (Kushite))، مصنوعة من Leaded bronze وgold leaf، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال (Kushite official, subsequently modified) حاليًا؟",
+      "a": "تُحفظ تمثال (Kushite official, subsequently modified) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال (Kushite official, subsequently modified)؟",
+      "a": "تعود تمثال (Kushite official, subsequently modified) إلى الأسرة الخامسة والعشرون (Kushite).",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال (Kushite official, subsequently modified)؟",
+      "a": "صُنعت تمثال (Kushite official, subsequently modified) من Leaded bronze وgold leaf.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تمثال (Kushite official, subsequently modified)؟",
+      "a": "أُحضرت تمثال (Kushite official, subsequently modified) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

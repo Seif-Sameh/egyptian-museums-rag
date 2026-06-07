@@ -1,0 +1,116 @@
+{
+  "id": "MET_548328",
+  "names": {
+    "ar": "Tile, Asian captive (Wall Tile Depicting an Asian Captive)",
+    "en": "Wall Tile Depicting an Asian Captive",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Tile, Asian captive",
+  "period": {
+    "ar": "الدولة الحديثة, Ramesside",
+    "en": "New Kingdom, Ramesside",
+    "year_min": -1200,
+    "year_max": -1085
+  },
+  "dynasty": {
+    "ar": "الأسرة العشرون",
+    "en": "Dynasty 20"
+  },
+  "material": [
+    "Faience"
+  ],
+  "dimensions": {
+    "text": "H. 9.3 × W. 7.5 × D. 2.6 cm (3 11/16 × 2 15/16 × 1 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": ""
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 124"
+  },
+  "description": {
+    "ar": "Tile, Asian captive مصرية قديمة، معروفة بـ«Wall Tile Depicting an Asian Captive»، تعود إلى الدولة الحديثة, Ramesside، (الأسرة العشرون)، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Wall Tile Depicting an Asian Captive — Tile, Asian captive. Period: New Kingdom, Ramesside, Dynasty 20, dated to ca. 1200–1085 B.C.. Medium: Faience. Dimensions: H. 9.3 × W. 7.5 × D. 2.6 cm (3 11/16 × 2 15/16 × 1 in.). Credit: Purchase, Edward S. Harkness Gift, 1926.",
+    "ar_intro": "Tile, Asian captive مصرية قديمة، معروفة بـ«Wall Tile Depicting an Asian Captive»، تعود إلى الدولة الحديثة, Ramesside، (الأسرة العشرون)، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Wall Tile Depicting an Asian Captive"
+  },
+  "images": [
+    {
+      "filename": "MET_548328_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/LC-26_7_969_EGDP031168.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Wall Tile Depicting an Asian Captive",
+      "object_name": "Tile, Asian captive"
+    },
+    {
+      "filename": "MET_548328_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/vs26_7_969.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Wall Tile Depicting an Asian Captive",
+      "object_name": "Tile, Asian captive"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/548328",
+      "title": "Wall Tile Depicting an Asian Captive",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [],
+  "related_ids": [
+    "MET_544076",
+    "MET_544766"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي Tile, Asian captive (Wall Tile Depicting an Asian Captive)؟",
+      "a": "Tile, Asian captive مصرية قديمة، معروفة بـ«Wall Tile Depicting an Asian Captive»، تعود إلى الدولة الحديثة, Ramesside، (الأسرة العشرون)، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد Tile, Asian captive (Wall Tile Depicting an Asian Captive) حاليًا؟",
+      "a": "تُحفظ Tile, Asian captive (Wall Tile Depicting an Asian Captive) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود Tile, Asian captive (Wall Tile Depicting an Asian Captive)؟",
+      "a": "تعود Tile, Asian captive (Wall Tile Depicting an Asian Captive) إلى الأسرة العشرون.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت Tile, Asian captive (Wall Tile Depicting an Asian Captive)؟",
+      "a": "صُنعت Tile, Asian captive (Wall Tile Depicting an Asian Captive) من خزف فاينس.",
+      "evidence": "material",
+      "type": "material"
+    }
+  ],
+  "highlight": false
+}

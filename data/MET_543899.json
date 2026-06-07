@@ -1,0 +1,149 @@
+{
+  "id": "MET_543899",
+  "names": {
+    "ar": "تمثال (The King's Acquaintances Memi and Sabu)",
+    "en": "The King's Acquaintances Memi and Sabu",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Statue, standing pair, Memi, Sabu",
+  "period": {
+    "ar": "الدولة القديمة",
+    "en": "Old Kingdom",
+    "year_min": -2575,
+    "year_max": -2465
+  },
+  "dynasty": {
+    "ar": "الأسرة الرابعة",
+    "en": "Dynasty 4"
+  },
+  "material": [
+    "Limestone",
+    "paint"
+  ],
+  "dimensions": {
+    "text": "H. 62 × W. 24.5 × D. 16 cm, 28.8 kg (24 7/16 × 9 5/8 × 6 5/16 in., 63.4 lb.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": ""
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 103"
+  },
+  "description": {
+    "ar": "تمثال مصرية قديمة، معروفة بـ«The King's Acquaintances Memi and Sabu»، تعود إلى الدولة القديمة، (الأسرة الرابعة)، مصنوعة من حجر جيري وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "The King's Acquaintances Memi and Sabu — Statue, standing pair, Memi, Sabu. Period: Old Kingdom, Dynasty 4, dated to ca. 2575–2465 B.C.. Medium: Limestone, paint. Dimensions: H. 62 × W. 24.5 × D. 16 cm, 28.8 kg (24 7/16 × 9 5/8 × 6 5/16 in., 63.4 lb.). Credit: Rogers Fund, 1948.",
+    "ar_intro": "تمثال مصرية قديمة، معروفة بـ«The King's Acquaintances Memi and Sabu»، تعود إلى الدولة القديمة، (الأسرة الرابعة)، مصنوعة من حجر جيري وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "The King's Acquaintances Memi and Sabu"
+  },
+  "images": [
+    {
+      "filename": "MET_543899_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DT8836.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "The King's Acquaintances Memi and Sabu",
+      "object_name": "Statue, standing pair, Memi, Sabu"
+    },
+    {
+      "filename": "MET_543899_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DT259189.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "The King's Acquaintances Memi and Sabu",
+      "object_name": "Statue, standing pair, Memi, Sabu"
+    },
+    {
+      "filename": "MET_543899_03.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/48.111_01.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "The King's Acquaintances Memi and Sabu",
+      "object_name": "Statue, standing pair, Memi, Sabu"
+    },
+    {
+      "filename": "MET_543899_04.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/48.111_03.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "The King's Acquaintances Memi and Sabu",
+      "object_name": "Statue, standing pair, Memi, Sabu"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/543899",
+      "title": "The King's Acquaintances Memi and Sabu",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "couples",
+    "men",
+    "women"
+  ],
+  "related_ids": [
+    "MET_543896",
+    "MET_543903",
+    "MET_544740",
+    "MET_543901",
+    "MET_544776",
+    "MET_543864",
+    "MET_543882",
+    "MET_544056"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال (The King's Acquaintances Memi and Sabu)؟",
+      "a": "تمثال مصرية قديمة، معروفة بـ«The King's Acquaintances Memi and Sabu»، تعود إلى الدولة القديمة، (الأسرة الرابعة)، مصنوعة من حجر جيري وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال (The King's Acquaintances Memi and Sabu) حاليًا؟",
+      "a": "تُحفظ تمثال (The King's Acquaintances Memi and Sabu) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال (The King's Acquaintances Memi and Sabu)؟",
+      "a": "تعود تمثال (The King's Acquaintances Memi and Sabu) إلى الأسرة الرابعة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال (The King's Acquaintances Memi and Sabu)؟",
+      "a": "صُنعت تمثال (The King's Acquaintances Memi and Sabu) من حجر جيري وpaint.",
+      "evidence": "material",
+      "type": "material"
+    }
+  ],
+  "highlight": false
+}

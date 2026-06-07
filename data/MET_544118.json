@@ -1,0 +1,121 @@
+{
+  "id": "MET_544118",
+  "names": {
+    "ar": "تمثال صغير (Cat Statuette intended to contain a mummified cat)",
+    "en": "Cat Statuette intended to contain a mummified cat",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Statuette, cat",
+  "period": {
+    "ar": "العصر البطلمي",
+    "en": "Ptolemaic Period",
+    "year_min": -332,
+    "year_max": -30
+  },
+  "dynasty": {
+    "ar": "",
+    "en": ""
+  },
+  "material": [
+    "Leaded bronze"
+  ],
+  "dimensions": {
+    "text": "H. 27.4 × W. 11.9 × D. 23.3 cm, 2.5 kg (10 13/16 × 4 11/16 × 9 3/16 in., 5.5 lb.); With tangs: H. 32 cm (12 5/8 in.); With mount: 3.7 kg (8.2 lb.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 134"
+  },
+  "description": {
+    "ar": "تمثال صغير مصرية قديمة، معروفة بـ«Cat Statuette intended to contain a mummified cat»، تعود إلى العصر البطلمي، مصنوعة من Leaded bronze، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Cat Statuette intended to contain a mummified cat — Statuette, cat. Period: Ptolemaic Period, dated to 332–30 BCE. Medium: Leaded bronze. Dimensions: H. 27.4 × W. 11.9 × D. 23.3 cm, 2.5 kg (10 13/16 × 4 11/16 × 9 3/16 in., 5.5 lb.); With tangs: H. 32 cm (12 5/8 in.); With mount: 3.7 kg (8.2 lb.). Country of origin: Egypt. Credit: Harris Brisbane Dick Fund, 1956.",
+    "ar_intro": "تمثال صغير مصرية قديمة، معروفة بـ«Cat Statuette intended to contain a mummified cat»، تعود إلى العصر البطلمي، مصنوعة من Leaded bronze، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Cat Statuette intended to contain a mummified cat"
+  },
+  "images": [
+    {
+      "filename": "MET_544118_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-38628-001.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Cat Statuette intended to contain a mummified cat",
+      "object_name": "Statuette, cat"
+    },
+    {
+      "filename": "MET_544118_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP-38628-002.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Cat Statuette intended to contain a mummified cat",
+      "object_name": "Statuette, cat"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544118",
+      "title": "Cat Statuette intended to contain a mummified cat",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "cats"
+  ],
+  "related_ids": [],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال صغير (Cat Statuette intended to contain a mummified cat)؟",
+      "a": "تمثال صغير مصرية قديمة، معروفة بـ«Cat Statuette intended to contain a mummified cat»، تعود إلى العصر البطلمي، مصنوعة من Leaded bronze، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال صغير (Cat Statuette intended to contain a mummified cat) حاليًا؟",
+      "a": "تُحفظ تمثال صغير (Cat Statuette intended to contain a mummified cat) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال صغير (Cat Statuette intended to contain a mummified cat)؟",
+      "a": "تعود تمثال صغير (Cat Statuette intended to contain a mummified cat) إلى العصر البطلمي.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال صغير (Cat Statuette intended to contain a mummified cat)؟",
+      "a": "صُنعت تمثال صغير (Cat Statuette intended to contain a mummified cat) من Leaded bronze.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تمثال صغير (Cat Statuette intended to contain a mummified cat)؟",
+      "a": "أُحضرت تمثال صغير (Cat Statuette intended to contain a mummified cat) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

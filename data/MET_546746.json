@@ -1,0 +1,128 @@
+{
+  "id": "MET_546746",
+  "names": {
+    "ar": "تمثال صغير (Statuette of a Royal (?)  Woman with the Cartouches of Necho II on her Arms)",
+    "en": "Statuette of a Royal (?)  Woman with the Cartouches of Necho II on her Arms",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Female statuette with cartouches of Necho II on her arms",
+  "period": {
+    "ar": "العصر المتأخر, Saite",
+    "en": "Late Period, Saite",
+    "year_min": -610,
+    "year_max": -595
+  },
+  "dynasty": {
+    "ar": "الأسرة السادسة والعشرون",
+    "en": "Dynasty 26"
+  },
+  "material": [
+    "Silver"
+  ],
+  "dimensions": {
+    "text": "H. 23.8 × W. 5.5 × D. 5.4 cm (9 3/8 × 2 3/16 × 2 1/8 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 127"
+  },
+  "description": {
+    "ar": "تمثال صغير مصرية قديمة، معروفة بـ«Statuette of a Royal (?)  Woman with the Cartouches of Necho II on her Arms»، تعود إلى العصر المتأخر, Saite، (الأسرة السادسة والعشرون)، مصنوعة من فضة، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Statuette of a Royal (?)  Woman with the Cartouches of Necho II on her Arms — Female statuette with cartouches of Necho II on her arms. Period: Late Period, Saite, Dynasty 26, dated to 610–595 B.C.. Medium: Silver. Dimensions: H. 23.8 × W. 5.5 × D. 5.4 cm (9 3/8 × 2 3/16 × 2 1/8 in.). Country of origin: Egypt. Credit: Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915.",
+    "ar_intro": "تمثال صغير مصرية قديمة، معروفة بـ«Statuette of a Royal (?)  Woman with the Cartouches of Necho II on her Arms»، تعود إلى العصر المتأخر, Saite، (الأسرة السادسة والعشرون)، مصنوعة من فضة، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Statuette of a Royal (?)  Woman with the Cartouches of Necho II on her Arms"
+  },
+  "images": [
+    {
+      "filename": "MET_546746_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP139132.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Statuette of a Royal (?)  Woman with the Cartouches of Necho II on her Arms",
+      "object_name": "Female statuette with cartouches of Necho II on her arms"
+    },
+    {
+      "filename": "MET_546746_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP139134.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Statuette of a Royal (?)  Woman with the Cartouches of Necho II on her Arms",
+      "object_name": "Female statuette with cartouches of Necho II on her arms"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/546746",
+      "title": "Statuette of a Royal (?)  Woman with the Cartouches of Necho II on her Arms",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "cartouches",
+    "female nudes"
+  ],
+  "related_ids": [
+    "MET_544884",
+    "MET_545213",
+    "MET_548338",
+    "MET_550755",
+    "MET_553027"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال صغير (Statuette of a Royal (?)  Woman with the Cartouches of Necho II on her Arms)؟",
+      "a": "تمثال صغير مصرية قديمة، معروفة بـ«Statuette of a Royal (?)  Woman with the Cartouches of Necho II on her Arms»، تعود إلى العصر المتأخر, Saite، (الأسرة السادسة والعشرون)، مصنوعة من فضة، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال صغير (Statuette of a Royal (?)  Woman with the Cartouches of Necho II on her Arms) حاليًا؟",
+      "a": "تُحفظ تمثال صغير (Statuette of a Royal (?)  Woman with the Cartouches of Necho II on her Arms) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال صغير (Statuette of a Royal (?)  Woman with the Cartouches of Necho II on her Arms)؟",
+      "a": "تعود تمثال صغير (Statuette of a Royal (?)  Woman with the Cartouches of Necho II on her Arms) إلى الأسرة السادسة والعشرون.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال صغير (Statuette of a Royal (?)  Woman with the Cartouches of Necho II on her Arms)؟",
+      "a": "صُنعت تمثال صغير (Statuette of a Royal (?)  Woman with the Cartouches of Necho II on her Arms) من فضة.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تمثال صغير (Statuette of a Royal (?)  Woman with the Cartouches of Necho II on her Arms)؟",
+      "a": "أُحضرت تمثال صغير (Statuette of a Royal (?)  Woman with the Cartouches of Necho II on her Arms) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

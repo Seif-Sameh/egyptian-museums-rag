@@ -1,0 +1,115 @@
+{
+  "id": "MET_544702",
+  "names": {
+    "ar": "إناء (Jar from the tomb of Sennedjem)",
+    "en": "Jar from the tomb of Sennedjem",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Jar, wine",
+  "period": {
+    "ar": "الدولة الحديثة, Ramesside",
+    "en": "New Kingdom, Ramesside",
+    "year_min": -1279,
+    "year_max": -1213
+  },
+  "dynasty": {
+    "ar": "الأسرة التاسعة عشرة",
+    "en": "Dynasty 19"
+  },
+  "material": [
+    "Painted red pottery"
+  ],
+  "dimensions": {
+    "text": "H. 30.5 cm (12 in); w. 16 cm (6 5/16 in)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egyptian Antiquities Service/Maspero excavations, 1885–86"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 126"
+  },
+  "description": {
+    "ar": "إناء مصرية قديمة، معروفة بـ«Jar from the tomb of Sennedjem»، تعود إلى الدولة الحديثة, Ramesside، (الأسرة التاسعة عشرة)، مصنوعة من Painted red pottery، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Jar from the tomb of Sennedjem — Jar, wine. Period: New Kingdom, Ramesside, Dynasty 19, dated to ca. 1279–1213 B.C.. Medium: Painted red pottery. Dimensions: H. 30.5 cm (12 in); w. 16 cm (6 5/16 in). Excavation: Egyptian Antiquities Service/Maspero excavations, 1885–86. Country of origin: Egypt. Credit: Funds from various donors, 1886.",
+    "ar_intro": "إناء مصرية قديمة، معروفة بـ«Jar from the tomb of Sennedjem»، تعود إلى الدولة الحديثة, Ramesside، (الأسرة التاسعة عشرة)، مصنوعة من Painted red pottery، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Jar from the tomb of Sennedjem"
+  },
+  "images": [
+    {
+      "filename": "MET_544702_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DT202024.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Jar from the tomb of Sennedjem",
+      "object_name": "Jar, wine"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544702",
+      "title": "Jar from the tomb of Sennedjem",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [],
+  "related_ids": [
+    "MET_544066",
+    "MET_544740",
+    "MET_544752",
+    "MET_545870",
+    "MET_547704",
+    "MET_554769"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي إناء (Jar from the tomb of Sennedjem)؟",
+      "a": "إناء مصرية قديمة، معروفة بـ«Jar from the tomb of Sennedjem»، تعود إلى الدولة الحديثة, Ramesside، (الأسرة التاسعة عشرة)، مصنوعة من Painted red pottery، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد إناء (Jar from the tomb of Sennedjem) حاليًا؟",
+      "a": "تُحفظ إناء (Jar from the tomb of Sennedjem) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود إناء (Jar from the tomb of Sennedjem)؟",
+      "a": "تعود إناء (Jar from the tomb of Sennedjem) إلى الأسرة التاسعة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت إناء (Jar from the tomb of Sennedjem)؟",
+      "a": "صُنعت إناء (Jar from the tomb of Sennedjem) من Painted red pottery.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت إناء (Jar from the tomb of Sennedjem)؟",
+      "a": "أُحضرت إناء (Jar from the tomb of Sennedjem) من Egyptian Antiquities Service/Maspero excavations, 1885–86.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

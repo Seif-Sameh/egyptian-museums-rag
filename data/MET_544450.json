@@ -1,0 +1,132 @@
+{
+  "id": "MET_544450",
+  "names": {
+    "ar": "تمثال (Seated Statue of Hatshepsut)",
+    "en": "Seated Statue of Hatshepsut",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Statue, Hatshepsut, king, seated; Hatshepsut-sculpture",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1479,
+    "year_max": -1458
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Indurated limestone",
+    "paint"
+  ],
+  "dimensions": {
+    "text": "H. 213 cm (83 7/8 in.); W. 50 cm (19 11/16); D. 119 cm (46 7/8 in.); 2750 lbs."
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "MMA excavations, 1926–28/Lepsius 1843–45"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 115"
+  },
+  "description": {
+    "ar": "تمثال مصرية قديمة، معروفة بـ«Seated Statue of Hatshepsut»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من Indurated limestone وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Seated Statue of Hatshepsut — Statue, Hatshepsut, king, seated; Hatshepsut-sculpture. Period: New Kingdom, Dynasty 18, dated to ca. 1479–1458 B.C.. Medium: Indurated limestone, paint. Dimensions: H. 213 cm (83 7/8 in.); W. 50 cm (19 11/16); D. 119 cm (46 7/8 in.); 2750 lbs.. Excavation: MMA excavations, 1926–28/Lepsius 1843–45. Country of origin: Egypt. Credit: Rogers Fund, 1929.",
+    "ar_intro": "تمثال مصرية قديمة، معروفة بـ«Seated Statue of Hatshepsut»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من Indurated limestone وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Seated Statue of Hatshepsut"
+  },
+  "images": [
+    {
+      "filename": "MET_544450_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-24215-002.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Seated Statue of Hatshepsut",
+      "object_name": "Statue, Hatshepsut, king, seated; Hatshepsut-sculpture"
+    },
+    {
+      "filename": "MET_544450_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP-24215-003.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Seated Statue of Hatshepsut",
+      "object_name": "Statue, Hatshepsut, king, seated; Hatshepsut-sculpture"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544450",
+      "title": "Seated Statue of Hatshepsut",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "kings",
+    "women"
+  ],
+  "related_ids": [
+    "MET_544442",
+    "HATSHEPSUT_TEMPLE",
+    "MET_544453",
+    "MET_544689",
+    "MET_547692",
+    "MET_547772",
+    "MET_548584",
+    "MET_544056"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال (Seated Statue of Hatshepsut)؟",
+      "a": "تمثال مصرية قديمة، معروفة بـ«Seated Statue of Hatshepsut»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من Indurated limestone وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال (Seated Statue of Hatshepsut) حاليًا؟",
+      "a": "تُحفظ تمثال (Seated Statue of Hatshepsut) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال (Seated Statue of Hatshepsut)؟",
+      "a": "تعود تمثال (Seated Statue of Hatshepsut) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال (Seated Statue of Hatshepsut)؟",
+      "a": "صُنعت تمثال (Seated Statue of Hatshepsut) من Indurated limestone وpaint.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تمثال (Seated Statue of Hatshepsut)؟",
+      "a": "أُحضرت تمثال (Seated Statue of Hatshepsut) من MMA excavations, 1926–28/Lepsius 1843–45.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": true
+}

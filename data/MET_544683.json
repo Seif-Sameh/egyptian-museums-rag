@@ -1,0 +1,126 @@
+{
+  "id": "MET_544683",
+  "names": {
+    "ar": "تمثال (Statue of two men and a boy that served as a domestic icon)",
+    "en": "Statue of two men and a boy that served as a domestic icon",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Statue group, two men, boy",
+  "period": {
+    "ar": "الدولة الحديثة, Amarna Period",
+    "en": "New Kingdom, Amarna Period",
+    "year_min": -1353,
+    "year_max": -1336
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Limestone",
+    "paint"
+  ],
+  "dimensions": {
+    "text": "h. 17 cm (6 11/16 in); w. 12.5 cm (4 15/16 in); \r\nD of base next to man 5.7 cm (2 1/4 in); D next to boy 4.8 cm (1 7/8 in)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": ""
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 121"
+  },
+  "description": {
+    "ar": "تمثال مصرية قديمة، معروفة بـ«Statue of two men and a boy that served as a domestic icon»، تعود إلى الدولة الحديثة, Amarna Period، (الأسرة الثامنة عشرة)، مصنوعة من حجر جيري وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Statue of two men and a boy that served as a domestic icon — Statue group, two men, boy. Period: New Kingdom, Amarna Period, Dynasty 18, dated to ca. 1353–1336 B.C.. Medium: Limestone, paint. Dimensions: h. 17 cm (6 11/16 in); w. 12.5 cm (4 15/16 in); \r\nD of base next to man 5.7 cm (2 1/4 in); D next to boy 4.8 cm (1 7/8 in). Credit: Rogers Fund, 1911.",
+    "ar_intro": "تمثال مصرية قديمة، معروفة بـ«Statue of two men and a boy that served as a domestic icon»، تعود إلى الدولة الحديثة, Amarna Period، (الأسرة الثامنة عشرة)، مصنوعة من حجر جيري وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Statue of two men and a boy that served as a domestic icon"
+  },
+  "images": [
+    {
+      "filename": "MET_544683_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP206147.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Statue of two men and a boy that served as a domestic icon",
+      "object_name": "Statue group, two men, boy"
+    },
+    {
+      "filename": "MET_544683_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP206143.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Statue of two men and a boy that served as a domestic icon",
+      "object_name": "Statue group, two men, boy"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544683",
+      "title": "Statue of two men and a boy that served as a domestic icon",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "boys",
+    "men"
+  ],
+  "related_ids": [
+    "MET_544056",
+    "MET_544453",
+    "MET_544478",
+    "MET_544686",
+    "MET_544692",
+    "MET_544720",
+    "MET_547684",
+    "MET_547687"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال (Statue of two men and a boy that served as a domestic icon)؟",
+      "a": "تمثال مصرية قديمة، معروفة بـ«Statue of two men and a boy that served as a domestic icon»، تعود إلى الدولة الحديثة, Amarna Period، (الأسرة الثامنة عشرة)، مصنوعة من حجر جيري وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال (Statue of two men and a boy that served as a domestic icon) حاليًا؟",
+      "a": "تُحفظ تمثال (Statue of two men and a boy that served as a domestic icon) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال (Statue of two men and a boy that served as a domestic icon)؟",
+      "a": "تعود تمثال (Statue of two men and a boy that served as a domestic icon) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال (Statue of two men and a boy that served as a domestic icon)؟",
+      "a": "صُنعت تمثال (Statue of two men and a boy that served as a domestic icon) من حجر جيري وpaint.",
+      "evidence": "material",
+      "type": "material"
+    }
+  ],
+  "highlight": false
+}

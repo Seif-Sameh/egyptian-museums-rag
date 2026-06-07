@@ -1,0 +1,129 @@
+{
+  "id": "MET_544067",
+  "names": {
+    "ar": "مشط (Hair Comb Decorated with Rows of Wild Animals)",
+    "en": "Hair Comb Decorated with Rows of Wild Animals",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Comb, ornamental (teeth missing)",
+  "period": {
+    "ar": "Predynastic, Late Naqada III",
+    "en": "Predynastic, Late Naqada III",
+    "year_min": -3200,
+    "year_max": -3100
+  },
+  "dynasty": {
+    "ar": "",
+    "en": ""
+  },
+  "material": [
+    "Ivory"
+  ],
+  "dimensions": {
+    "text": "h. 5.5 cm (2 3/16 in); w. 3.9 cm (1 9/16 in); th. 0.5 cm (3/16 in)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": ""
+  },
+  "description": {
+    "ar": "مشط مصرية قديمة، معروفة بـ«Hair Comb Decorated with Rows of Wild Animals»، تعود إلى Predynastic, Late Naqada III، مصنوعة من عاج، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Hair Comb Decorated with Rows of Wild Animals — Comb, ornamental (teeth missing). Period: Predynastic, Late Naqada III, dated to ca. 3200–3100 B.C.. Medium: Ivory. Dimensions: h. 5.5 cm (2 3/16 in); w. 3.9 cm (1 9/16 in); th. 0.5 cm (3/16 in). Country of origin: Egypt. Credit: Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915.",
+    "ar_intro": "مشط مصرية قديمة، معروفة بـ«Hair Comb Decorated with Rows of Wild Animals»، تعود إلى Predynastic, Late Naqada III، مصنوعة من عاج، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Hair Comb Decorated with Rows of Wild Animals"
+  },
+  "images": [
+    {
+      "filename": "MET_544067_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP247659.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Hair Comb Decorated with Rows of Wild Animals",
+      "object_name": "Comb, ornamental (teeth missing)"
+    },
+    {
+      "filename": "MET_544067_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP249011.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Hair Comb Decorated with Rows of Wild Animals",
+      "object_name": "Comb, ornamental (teeth missing)"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544067",
+      "title": "Hair Comb Decorated with Rows of Wild Animals",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "birds",
+    "boars",
+    "elephants",
+    "snakes"
+  ],
+  "related_ids": [
+    "MET_544092",
+    "MET_544822",
+    "MET_548339",
+    "MET_547376"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي مشط (Hair Comb Decorated with Rows of Wild Animals)؟",
+      "a": "مشط مصرية قديمة، معروفة بـ«Hair Comb Decorated with Rows of Wild Animals»، تعود إلى Predynastic, Late Naqada III، مصنوعة من عاج، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد مشط (Hair Comb Decorated with Rows of Wild Animals) حاليًا؟",
+      "a": "تُحفظ مشط (Hair Comb Decorated with Rows of Wild Animals) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود مشط (Hair Comb Decorated with Rows of Wild Animals)؟",
+      "a": "تعود مشط (Hair Comb Decorated with Rows of Wild Animals) إلى Predynastic, Late Naqada III.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت مشط (Hair Comb Decorated with Rows of Wild Animals)؟",
+      "a": "صُنعت مشط (Hair Comb Decorated with Rows of Wild Animals) من عاج.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت مشط (Hair Comb Decorated with Rows of Wild Animals)؟",
+      "a": "أُحضرت مشط (Hair Comb Decorated with Rows of Wild Animals) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

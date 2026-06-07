@@ -1,0 +1,115 @@
+{
+  "id": "MET_544056",
+  "names": {
+    "ar": "Talatat, Akhenaten, duck (Akhenaten Sacrificing a Duck)",
+    "en": "Akhenaten Sacrificing a Duck",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Talatat, Akhenaten, duck",
+  "period": {
+    "ar": "الدولة الحديثة, Amarna Period",
+    "en": "New Kingdom, Amarna Period",
+    "year_min": -1353,
+    "year_max": -1336
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Limestone",
+    "paint"
+  ],
+  "dimensions": {
+    "text": "H. 25 × W. 55 × D. 3.3 cm (9 13/16 × 21 5/8 × 1 5/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": ""
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 121"
+  },
+  "description": {
+    "ar": "Talatat, Akhenaten, duck مصرية قديمة، معروفة بـ«Akhenaten Sacrificing a Duck»، تعود إلى الدولة الحديثة, Amarna Period، (الأسرة الثامنة عشرة)، مصنوعة من حجر جيري وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Akhenaten Sacrificing a Duck — Talatat, Akhenaten, duck. Period: New Kingdom, Amarna Period, Dynasty 18, dated to ca. 1353–1336 B.C.. Medium: Limestone, paint. Dimensions: H. 25 × W. 55 × D. 3.3 cm (9 13/16 × 21 5/8 × 1 5/16 in.). Credit: Gift of Norbert Schimmel, 1985.",
+    "ar_intro": "Talatat, Akhenaten, duck مصرية قديمة، معروفة بـ«Akhenaten Sacrificing a Duck»، تعود إلى الدولة الحديثة, Amarna Period، (الأسرة الثامنة عشرة)، مصنوعة من حجر جيري وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Akhenaten Sacrificing a Duck"
+  },
+  "images": [
+    {
+      "filename": "MET_544056_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DT545.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Akhenaten Sacrificing a Duck",
+      "object_name": "Talatat, Akhenaten, duck"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544056",
+      "title": "Akhenaten Sacrificing a Duck",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "ducks",
+    "men"
+  ],
+  "related_ids": [
+    "MET_544686",
+    "MET_544453",
+    "MET_544478",
+    "MET_544683",
+    "MET_544692",
+    "MET_544720",
+    "MET_547684",
+    "MET_547687"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي Talatat, Akhenaten, duck (Akhenaten Sacrificing a Duck)؟",
+      "a": "Talatat, Akhenaten, duck مصرية قديمة، معروفة بـ«Akhenaten Sacrificing a Duck»، تعود إلى الدولة الحديثة, Amarna Period، (الأسرة الثامنة عشرة)، مصنوعة من حجر جيري وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد Talatat, Akhenaten, duck (Akhenaten Sacrificing a Duck) حاليًا؟",
+      "a": "تُحفظ Talatat, Akhenaten, duck (Akhenaten Sacrificing a Duck) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود Talatat, Akhenaten, duck (Akhenaten Sacrificing a Duck)؟",
+      "a": "تعود Talatat, Akhenaten, duck (Akhenaten Sacrificing a Duck) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت Talatat, Akhenaten, duck (Akhenaten Sacrificing a Duck)؟",
+      "a": "صُنعت Talatat, Akhenaten, duck (Akhenaten Sacrificing a Duck) من حجر جيري وpaint.",
+      "evidence": "material",
+      "type": "material"
+    }
+  ],
+  "highlight": true
+}

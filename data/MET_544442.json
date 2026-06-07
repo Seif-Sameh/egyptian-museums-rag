@@ -1,0 +1,131 @@
+{
+  "id": "MET_544442",
+  "names": {
+    "ar": "تمثال أبو الهول (Sphinx of Hatshepsut)",
+    "en": "Sphinx of Hatshepsut",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Sphinx, Hatshepsut; Hatshepsut-sculpture",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1479,
+    "year_max": -1458
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Granite",
+    "paint"
+  ],
+  "dimensions": {
+    "text": "H: 164 cm (64 9/16 in.); L: 343 cm (135 1/16 in.); Wt: 6758.6 kg (14900 lb.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "MMA excavations, 1926–28"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 131"
+  },
+  "description": {
+    "ar": "تمثال أبو الهول مصرية قديمة، معروفة بـ«Sphinx of Hatshepsut»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من جرانيت وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Sphinx of Hatshepsut — Sphinx, Hatshepsut; Hatshepsut-sculpture. Period: New Kingdom, Dynasty 18, dated to ca. 1479–1458 B.C.. Medium: Granite, paint. Dimensions: H: 164 cm (64 9/16 in.); L: 343 cm (135 1/16 in.); Wt: 6758.6 kg (14900 lb.). Excavation: MMA excavations, 1926–28. Country of origin: Egypt. Credit: Rogers Fund, 1931.",
+    "ar_intro": "تمثال أبو الهول مصرية قديمة، معروفة بـ«Sphinx of Hatshepsut»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من جرانيت وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Sphinx of Hatshepsut"
+  },
+  "images": [
+    {
+      "filename": "MET_544442_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-24216-003.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Sphinx of Hatshepsut",
+      "object_name": "Sphinx, Hatshepsut; Hatshepsut-sculpture"
+    },
+    {
+      "filename": "MET_544442_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP-24216-005.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Sphinx of Hatshepsut",
+      "object_name": "Sphinx, Hatshepsut; Hatshepsut-sculpture"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544442",
+      "title": "Sphinx of Hatshepsut",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "sphinx"
+  ],
+  "related_ids": [
+    "MET_544450",
+    "HATSHEPSUT_TEMPLE",
+    "MET_544498",
+    "MET_544826",
+    "MET_544056",
+    "MET_544060",
+    "MET_544068",
+    "MET_544453"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال أبو الهول (Sphinx of Hatshepsut)؟",
+      "a": "تمثال أبو الهول مصرية قديمة، معروفة بـ«Sphinx of Hatshepsut»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من جرانيت وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال أبو الهول (Sphinx of Hatshepsut) حاليًا؟",
+      "a": "تُحفظ تمثال أبو الهول (Sphinx of Hatshepsut) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال أبو الهول (Sphinx of Hatshepsut)؟",
+      "a": "تعود تمثال أبو الهول (Sphinx of Hatshepsut) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال أبو الهول (Sphinx of Hatshepsut)؟",
+      "a": "صُنعت تمثال أبو الهول (Sphinx of Hatshepsut) من جرانيت وpaint.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تمثال أبو الهول (Sphinx of Hatshepsut)؟",
+      "a": "أُحضرت تمثال أبو الهول (Sphinx of Hatshepsut) من MMA excavations, 1926–28.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": true
+}

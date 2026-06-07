@@ -1,0 +1,138 @@
+{
+  "id": "MET_548264",
+  "names": {
+    "ar": "تابوت (Outer Coffin of the Chantress of Amun-Re Henettawy)",
+    "en": "Outer Coffin of the Chantress of Amun-Re Henettawy",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Outer coffin, Singer of Amun-Re, Henettawy F; D21-Nested-Coffins",
+  "period": {
+    "ar": "عصر الانتقال الثالث",
+    "en": "Third Intermediate Period",
+    "year_min": -1000,
+    "year_max": -945
+  },
+  "dynasty": {
+    "ar": "late الأسرة الحادية والعشرون",
+    "en": "late Dynasty 21"
+  },
+  "material": [
+    "Wood",
+    "gesso",
+    "paint",
+    "varnish"
+  ],
+  "dimensions": {
+    "text": "L. 203 cm (79 15/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "MMA excavations, 1923–24"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 126"
+  },
+  "description": {
+    "ar": "تابوت مصرية قديمة، معروفة بـ«Outer Coffin of the Chantress of Amun-Re Henettawy»، تعود إلى عصر الانتقال الثالث، (late الأسرة الحادية والعشرون)، مصنوعة من خشب وgesso وpaint وvarnish، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Outer Coffin of the Chantress of Amun-Re Henettawy — Outer coffin, Singer of Amun-Re, Henettawy F; D21-Nested-Coffins. Period: Third Intermediate Period, late Dynasty 21, dated to ca. 1000–945 B.C.. Medium: Wood, gesso, paint, varnish. Dimensions: L. 203 cm (79 15/16 in.). Excavation: MMA excavations, 1923–24. Country of origin: Egypt. Credit: Rogers Fund, 1925.",
+    "ar_intro": "تابوت مصرية قديمة، معروفة بـ«Outer Coffin of the Chantress of Amun-Re Henettawy»، تعود إلى عصر الانتقال الثالث، (late الأسرة الحادية والعشرون)، مصنوعة من خشب وgesso وpaint وvarnish، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Outer Coffin of the Chantress of Amun-Re Henettawy"
+  },
+  "images": [
+    {
+      "filename": "MET_548264_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP319009.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Outer Coffin of the Chantress of Amun-Re Henettawy",
+      "object_name": "Outer coffin, Singer of Amun-Re, Henettawy F; D21-Nested-Coffins"
+    },
+    {
+      "filename": "MET_548264_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/25.3.182a_b_EGDP022918.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Outer Coffin of the Chantress of Amun-Re Henettawy",
+      "object_name": "Outer coffin, Singer of Amun-Re, Henettawy F; D21-Nested-Coffins"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/548264",
+      "title": "Outer Coffin of the Chantress of Amun-Re Henettawy",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "hieroglyphs",
+    "anubis",
+    "horus",
+    "isis",
+    "coffins",
+    "d21-coffins"
+  ],
+  "related_ids": [
+    "MET_548344",
+    "MET_544326",
+    "MET_546037",
+    "MET_548310",
+    "MET_544186",
+    "MET_544228",
+    "MET_544232",
+    "MET_544320"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تابوت (Outer Coffin of the Chantress of Amun-Re Henettawy)؟",
+      "a": "تابوت مصرية قديمة، معروفة بـ«Outer Coffin of the Chantress of Amun-Re Henettawy»، تعود إلى عصر الانتقال الثالث، (late الأسرة الحادية والعشرون)، مصنوعة من خشب وgesso وpaint وvarnish، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تابوت (Outer Coffin of the Chantress of Amun-Re Henettawy) حاليًا؟",
+      "a": "تُحفظ تابوت (Outer Coffin of the Chantress of Amun-Re Henettawy) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تابوت (Outer Coffin of the Chantress of Amun-Re Henettawy)؟",
+      "a": "تعود تابوت (Outer Coffin of the Chantress of Amun-Re Henettawy) إلى late الأسرة الحادية والعشرون.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تابوت (Outer Coffin of the Chantress of Amun-Re Henettawy)؟",
+      "a": "صُنعت تابوت (Outer Coffin of the Chantress of Amun-Re Henettawy) من خشب وgesso وpaint وvarnish.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تابوت (Outer Coffin of the Chantress of Amun-Re Henettawy)؟",
+      "a": "أُحضرت تابوت (Outer Coffin of the Chantress of Amun-Re Henettawy) من MMA excavations, 1923–24.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

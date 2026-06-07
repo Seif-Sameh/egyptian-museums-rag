@@ -1,0 +1,131 @@
+{
+  "id": "MET_543882",
+  "names": {
+    "ar": "تمثال (King Sahure Accompanied by a Divine Figure)",
+    "en": "King Sahure Accompanied by a Divine Figure",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Statue group, King Sahure, Nome God",
+  "period": {
+    "ar": "الدولة القديمة",
+    "en": "Old Kingdom",
+    "year_min": -2458,
+    "year_max": -2446
+  },
+  "dynasty": {
+    "ar": "الأسرة الخامسة",
+    "en": "Dynasty 5"
+  },
+  "material": [
+    "Gneiss"
+  ],
+  "dimensions": {
+    "text": "H. 64 × W. 46 × D. 41.5 cm, 127 kg (25 3/16 × 18 1/8 × 16 5/16 in., 280 lb.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 103"
+  },
+  "description": {
+    "ar": "تمثال مصرية قديمة، معروفة بـ«King Sahure Accompanied by a Divine Figure»، تعود إلى الدولة القديمة، (الأسرة الخامسة)، مصنوعة من Gneiss، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "King Sahure Accompanied by a Divine Figure — Statue group, King Sahure, Nome God. Period: Old Kingdom, Dynasty 5, dated to ca. 2458–2446 B.C.. Medium: Gneiss. Dimensions: H. 64 × W. 46 × D. 41.5 cm, 127 kg (25 3/16 × 18 1/8 × 16 5/16 in., 280 lb.). Country of origin: Egypt. Credit: Rogers Fund, 1918.",
+    "ar_intro": "تمثال مصرية قديمة، معروفة بـ«King Sahure Accompanied by a Divine Figure»، تعود إلى الدولة القديمة، (الأسرة الخامسة)، مصنوعة من Gneiss، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "King Sahure Accompanied by a Divine Figure"
+  },
+  "images": [
+    {
+      "filename": "MET_543882_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-1691-03.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "King Sahure Accompanied by a Divine Figure",
+      "object_name": "Statue group, King Sahure, Nome God"
+    },
+    {
+      "filename": "MET_543882_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP-1691-01.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "King Sahure Accompanied by a Divine Figure",
+      "object_name": "Statue group, King Sahure, Nome God"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/543882",
+      "title": "King Sahure Accompanied by a Divine Figure",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "kings",
+    "men"
+  ],
+  "related_ids": [
+    "MET_543901",
+    "MET_543937",
+    "MET_544184",
+    "MET_544453",
+    "MET_544752",
+    "MET_547772",
+    "MET_547773",
+    "MET_544450"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال (King Sahure Accompanied by a Divine Figure)؟",
+      "a": "تمثال مصرية قديمة، معروفة بـ«King Sahure Accompanied by a Divine Figure»، تعود إلى الدولة القديمة، (الأسرة الخامسة)، مصنوعة من Gneiss، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال (King Sahure Accompanied by a Divine Figure) حاليًا؟",
+      "a": "تُحفظ تمثال (King Sahure Accompanied by a Divine Figure) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال (King Sahure Accompanied by a Divine Figure)؟",
+      "a": "تعود تمثال (King Sahure Accompanied by a Divine Figure) إلى الأسرة الخامسة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال (King Sahure Accompanied by a Divine Figure)؟",
+      "a": "صُنعت تمثال (King Sahure Accompanied by a Divine Figure) من Gneiss.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تمثال (King Sahure Accompanied by a Divine Figure)؟",
+      "a": "أُحضرت تمثال (King Sahure Accompanied by a Divine Figure) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

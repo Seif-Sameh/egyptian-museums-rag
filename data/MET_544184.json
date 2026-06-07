@@ -1,0 +1,134 @@
+{
+  "id": "MET_544184",
+  "names": {
+    "ar": "Head, Senwosret III; 12th-Dyn-King (Face of Senwosret III)",
+    "en": "Face of Senwosret III",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Head, Senwosret III; 12th-Dyn-King",
+  "period": {
+    "ar": "الدولة الوسطى",
+    "en": "Middle Kingdom",
+    "year_min": -1878,
+    "year_max": -1840
+  },
+  "dynasty": {
+    "ar": "الأسرة الثانية عشرة",
+    "en": "Dynasty 12"
+  },
+  "material": [
+    "Red quartzite"
+  ],
+  "dimensions": {
+    "text": "H. 16.5 × W. 12.6 × D. 11.4 cm (6 1/2 × 4 15/16 × 4 1/2 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 111"
+  },
+  "description": {
+    "ar": "Head, Senwosret III; 12th-Dyn-King مصرية قديمة، معروفة بـ«Face of Senwosret III»، تعود إلى الدولة الوسطى، (الأسرة الثانية عشرة)، مصنوعة من Red quartzite، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Face of Senwosret III — Head, Senwosret III; 12th-Dyn-King. Period: Middle Kingdom, Dynasty 12, dated to ca. 1878–1840 B.C.. Medium: Red quartzite. Dimensions: H. 16.5 × W. 12.6 × D. 11.4 cm (6 1/2 × 4 15/16 × 4 1/2 in.). Country of origin: Egypt. Credit: Purchase, Edward S. Harkness Gift, 1926.",
+    "ar_intro": "Head, Senwosret III; 12th-Dyn-King مصرية قديمة، معروفة بـ«Face of Senwosret III»، تعود إلى الدولة الوسطى، (الأسرة الثانية عشرة)، مصنوعة من Red quartzite، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Face of Senwosret III"
+  },
+  "images": [
+    {
+      "filename": "MET_544184_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP323868.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Face of Senwosret III",
+      "object_name": "Head, Senwosret III; 12th-Dyn-King"
+    },
+    {
+      "filename": "MET_544184_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/LC-26_7_1394_EGDP026357.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Face of Senwosret III",
+      "object_name": "Head, Senwosret III; 12th-Dyn-King"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544184",
+      "title": "Face of Senwosret III",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "kings",
+    "faces",
+    "men",
+    "portraits",
+    "mk-kings"
+  ],
+  "related_ids": [
+    "MET_543864",
+    "MET_544186",
+    "MET_544214",
+    "MET_544320",
+    "MET_545281",
+    "MET_543867",
+    "MET_544210",
+    "MET_544227"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي Head, Senwosret III; 12th-Dyn-King (Face of Senwosret III)؟",
+      "a": "Head, Senwosret III; 12th-Dyn-King مصرية قديمة، معروفة بـ«Face of Senwosret III»، تعود إلى الدولة الوسطى، (الأسرة الثانية عشرة)، مصنوعة من Red quartzite، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد Head, Senwosret III; 12th-Dyn-King (Face of Senwosret III) حاليًا؟",
+      "a": "تُحفظ Head, Senwosret III; 12th-Dyn-King (Face of Senwosret III) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود Head, Senwosret III; 12th-Dyn-King (Face of Senwosret III)؟",
+      "a": "تعود Head, Senwosret III; 12th-Dyn-King (Face of Senwosret III) إلى الأسرة الثانية عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت Head, Senwosret III; 12th-Dyn-King (Face of Senwosret III)؟",
+      "a": "صُنعت Head, Senwosret III; 12th-Dyn-King (Face of Senwosret III) من Red quartzite.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت Head, Senwosret III; 12th-Dyn-King (Face of Senwosret III)؟",
+      "a": "أُحضرت Head, Senwosret III; 12th-Dyn-King (Face of Senwosret III) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

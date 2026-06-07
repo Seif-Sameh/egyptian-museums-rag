@@ -1,0 +1,134 @@
+{
+  "id": "MET_544740",
+  "names": {
+    "ar": "تمثال (Yuny and His Wife Renenutet)",
+    "en": "Yuny and His Wife Renenutet",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Statue, Yuny, Renenutet, pair, menat, music",
+  "period": {
+    "ar": "الدولة الحديثة, Ramesside",
+    "en": "New Kingdom, Ramesside",
+    "year_min": -1294,
+    "year_max": -1279
+  },
+  "dynasty": {
+    "ar": "الأسرة التاسعة عشرة",
+    "en": "Dynasty 19"
+  },
+  "material": [
+    "Limestone",
+    "paint"
+  ],
+  "dimensions": {
+    "text": "H. 84.5 × W. 54.5 × D. 73 cm (33 1/4 × 21 7/16 × 28 3/4 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Khashaba excavations, 1913"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": ""
+  },
+  "description": {
+    "ar": "تمثال مصرية قديمة، معروفة بـ«Yuny and His Wife Renenutet»، تعود إلى الدولة الحديثة, Ramesside، (الأسرة التاسعة عشرة)، مصنوعة من حجر جيري وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Yuny and His Wife Renenutet — Statue, Yuny, Renenutet, pair, menat, music. Period: New Kingdom, Ramesside, Dynasty 19, dated to ca. 1294–1279 B.C.. Medium: Limestone, paint. Dimensions: H. 84.5 × W. 54.5 × D. 73 cm (33 1/4 × 21 7/16 × 28 3/4 in.). Excavation: Khashaba excavations, 1913. Country of origin: Egypt. Credit: Rogers Fund, 1915.",
+    "ar_intro": "تمثال مصرية قديمة، معروفة بـ«Yuny and His Wife Renenutet»، تعود إلى الدولة الحديثة, Ramesside، (الأسرة التاسعة عشرة)، مصنوعة من حجر جيري وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Yuny and His Wife Renenutet"
+  },
+  "images": [
+    {
+      "filename": "MET_544740_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DT549.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Yuny and His Wife Renenutet",
+      "object_name": "Statue, Yuny, Renenutet, pair, menat, music"
+    },
+    {
+      "filename": "MET_544740_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/15.2.1_227910.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Yuny and His Wife Renenutet",
+      "object_name": "Statue, Yuny, Renenutet, pair, menat, music"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544740",
+      "title": "Yuny and His Wife Renenutet",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "couples",
+    "men",
+    "women",
+    "hieroglyphs"
+  ],
+  "related_ids": [
+    "MET_554769",
+    "MET_544752",
+    "MET_545870",
+    "MET_543899",
+    "MET_544776",
+    "MET_544066",
+    "MET_544702",
+    "MET_547704"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال (Yuny and His Wife Renenutet)؟",
+      "a": "تمثال مصرية قديمة، معروفة بـ«Yuny and His Wife Renenutet»، تعود إلى الدولة الحديثة, Ramesside، (الأسرة التاسعة عشرة)، مصنوعة من حجر جيري وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال (Yuny and His Wife Renenutet) حاليًا؟",
+      "a": "تُحفظ تمثال (Yuny and His Wife Renenutet) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال (Yuny and His Wife Renenutet)؟",
+      "a": "تعود تمثال (Yuny and His Wife Renenutet) إلى الأسرة التاسعة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال (Yuny and His Wife Renenutet)؟",
+      "a": "صُنعت تمثال (Yuny and His Wife Renenutet) من حجر جيري وpaint.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تمثال (Yuny and His Wife Renenutet)؟",
+      "a": "أُحضرت تمثال (Yuny and His Wife Renenutet) من Khashaba excavations, 1913.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

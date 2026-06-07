@@ -1,0 +1,128 @@
+{
+  "id": "MET_544326",
+  "names": {
+    "ar": "تابوت (Coffin of Khnumnakht)",
+    "en": "Coffin of Khnumnakht",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Coffin, Khnumnakht",
+  "period": {
+    "ar": "الدولة الوسطى",
+    "en": "Middle Kingdom",
+    "year_min": -1850,
+    "year_max": -1750
+  },
+  "dynasty": {
+    "ar": "Late 12 to mid-13 Dynasty",
+    "en": "Late 12 to mid-13 Dynasty"
+  },
+  "material": [
+    "Wood",
+    "paint"
+  ],
+  "dimensions": {
+    "text": "L. 207.5 cm (81 11/16 in); W. 51.8 cm (20 3/8 in); H. 68 cm (26 3/4 in)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": ""
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 112"
+  },
+  "description": {
+    "ar": "تابوت مصرية قديمة، معروفة بـ«Coffin of Khnumnakht»، تعود إلى الدولة الوسطى، (Late 12 to mid-13 Dynasty)، مصنوعة من خشب وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Coffin of Khnumnakht — Coffin, Khnumnakht. Period: Middle Kingdom, Late 12 to mid-13 Dynasty, dated to ca. 1850–1750 B.C.. Medium: Wood, paint. Dimensions: L. 207.5 cm (81 11/16 in); W. 51.8 cm (20 3/8 in); H. 68 cm (26 3/4 in). Credit: Rogers Fund, 1915.",
+    "ar_intro": "تابوت مصرية قديمة، معروفة بـ«Coffin of Khnumnakht»، تعود إلى الدولة الوسطى، (Late 12 to mid-13 Dynasty)، مصنوعة من خشب وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Coffin of Khnumnakht"
+  },
+  "images": [
+    {
+      "filename": "MET_544326_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP354909.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Coffin of Khnumnakht",
+      "object_name": "Coffin, Khnumnakht"
+    },
+    {
+      "filename": "MET_544326_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP354910.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Coffin of Khnumnakht",
+      "object_name": "Coffin, Khnumnakht"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544326",
+      "title": "Coffin of Khnumnakht",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "eyes",
+    "hieroglyphs",
+    "goddess",
+    "coffins"
+  ],
+  "related_ids": [
+    "MET_548264",
+    "MET_544186",
+    "MET_544228",
+    "MET_544232",
+    "MET_544320",
+    "MET_544692",
+    "MET_544740",
+    "MET_544766"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تابوت (Coffin of Khnumnakht)؟",
+      "a": "تابوت مصرية قديمة، معروفة بـ«Coffin of Khnumnakht»، تعود إلى الدولة الوسطى، (Late 12 to mid-13 Dynasty)، مصنوعة من خشب وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تابوت (Coffin of Khnumnakht) حاليًا؟",
+      "a": "تُحفظ تابوت (Coffin of Khnumnakht) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تابوت (Coffin of Khnumnakht)؟",
+      "a": "تعود تابوت (Coffin of Khnumnakht) إلى Late 12 to mid-13 Dynasty.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تابوت (Coffin of Khnumnakht)؟",
+      "a": "صُنعت تابوت (Coffin of Khnumnakht) من خشب وpaint.",
+      "evidence": "material",
+      "type": "material"
+    }
+  ],
+  "highlight": false
+}

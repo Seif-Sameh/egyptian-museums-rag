@@ -1,0 +1,133 @@
+{
+  "id": "MET_544453",
+  "names": {
+    "ar": "تمثال (Head from a Statue of King Amenhotep I)",
+    "en": "Head from a Statue of King Amenhotep I",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Head, Amenhotep I",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1525,
+    "year_max": -1504
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Sandstone",
+    "paint"
+  ],
+  "dimensions": {
+    "text": "H. 20 cm (7 7/8 in); weight 6.4 kg (14 lbs)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "MMA excavations, 1921–22"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 115"
+  },
+  "description": {
+    "ar": "تمثال مصرية قديمة، معروفة بـ«Head from a Statue of King Amenhotep I»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من حجر رملي وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Head from a Statue of King Amenhotep I — Head, Amenhotep I. Period: New Kingdom, Dynasty 18, dated to ca. 1525–1504 B.C.. Medium: Sandstone, paint. Dimensions: H. 20 cm (7 7/8 in); weight 6.4 kg (14 lbs). Excavation: MMA excavations, 1921–22. Country of origin: Egypt. Credit: Rogers Fund, 1926.",
+    "ar_intro": "تمثال مصرية قديمة، معروفة بـ«Head from a Statue of King Amenhotep I»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من حجر رملي وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Head from a Statue of King Amenhotep I"
+  },
+  "images": [
+    {
+      "filename": "MET_544453_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP115769.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Head from a Statue of King Amenhotep I",
+      "object_name": "Head, Amenhotep I"
+    },
+    {
+      "filename": "MET_544453_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP115770.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Head from a Statue of King Amenhotep I",
+      "object_name": "Head, Amenhotep I"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544453",
+      "title": "Head from a Statue of King Amenhotep I",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "kings",
+    "heads",
+    "men"
+  ],
+  "related_ids": [
+    "MET_544478",
+    "MET_544498",
+    "MET_544502",
+    "MET_547772",
+    "MET_544056",
+    "MET_544060",
+    "MET_544450",
+    "MET_544683"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال (Head from a Statue of King Amenhotep I)؟",
+      "a": "تمثال مصرية قديمة، معروفة بـ«Head from a Statue of King Amenhotep I»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من حجر رملي وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال (Head from a Statue of King Amenhotep I) حاليًا؟",
+      "a": "تُحفظ تمثال (Head from a Statue of King Amenhotep I) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال (Head from a Statue of King Amenhotep I)؟",
+      "a": "تعود تمثال (Head from a Statue of King Amenhotep I) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال (Head from a Statue of King Amenhotep I)؟",
+      "a": "صُنعت تمثال (Head from a Statue of King Amenhotep I) من حجر رملي وpaint.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تمثال (Head from a Statue of King Amenhotep I)؟",
+      "a": "أُحضرت تمثال (Head from a Statue of King Amenhotep I) من MMA excavations, 1921–22.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": true
+}

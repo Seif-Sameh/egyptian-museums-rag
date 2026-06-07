@@ -1,0 +1,124 @@
+{
+  "id": "MET_546194",
+  "names": {
+    "ar": "Music, harp, arched, naviform, boat shaped (Arched Harp (shoulder harp))",
+    "en": "Arched Harp (shoulder harp)",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Music, harp, arched, naviform, boat shaped",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1390,
+    "year_max": -1295
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة, late",
+    "en": "Dynasty 18, late"
+  },
+  "material": [
+    "Wood"
+  ],
+  "dimensions": {
+    "text": "L. (diagonally) 82 cm (32 5/16 in.); soundbox: L. 36 cm (14 3/16 in."
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 130"
+  },
+  "description": {
+    "ar": "Music, harp, arched, naviform, boat shaped مصرية قديمة، معروفة بـ«Arched Harp (shoulder harp)»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة, late)، مصنوعة من خشب، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Arched Harp (shoulder harp) — Music, harp, arched, naviform, boat shaped. Period: New Kingdom, Dynasty 18, late, dated to ca. 1390–1295 B.C.. Medium: Wood. Dimensions: L. (diagonally) 82 cm (32 5/16 in.); soundbox: L. 36 cm (14 3/16 in.. Country of origin: Egypt. Credit: Rogers Fund, 1943.",
+    "ar_intro": "Music, harp, arched, naviform, boat shaped مصرية قديمة، معروفة بـ«Arched Harp (shoulder harp)»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة, late)، مصنوعة من خشب، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Arched Harp (shoulder harp)"
+  },
+  "images": [
+    {
+      "filename": "MET_546194_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP302724.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Arched Harp (shoulder harp)",
+      "object_name": "Music, harp, arched, naviform, boat shaped"
+    },
+    {
+      "filename": "MET_546194_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP321279.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Arched Harp (shoulder harp)",
+      "object_name": "Music, harp, arched, naviform, boat shaped"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/546194",
+      "title": "Arched Harp (shoulder harp)",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "musical instruments"
+  ],
+  "related_ids": [
+    "MET_544509",
+    "MET_544680"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي Music, harp, arched, naviform, boat shaped (Arched Harp (shoulder harp))؟",
+      "a": "Music, harp, arched, naviform, boat shaped مصرية قديمة، معروفة بـ«Arched Harp (shoulder harp)»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة, late)، مصنوعة من خشب، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد Music, harp, arched, naviform, boat shaped (Arched Harp (shoulder harp)) حاليًا؟",
+      "a": "تُحفظ Music, harp, arched, naviform, boat shaped (Arched Harp (shoulder harp)) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود Music, harp, arched, naviform, boat shaped (Arched Harp (shoulder harp))؟",
+      "a": "تعود Music, harp, arched, naviform, boat shaped (Arched Harp (shoulder harp)) إلى الأسرة الثامنة عشرة, late.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت Music, harp, arched, naviform, boat shaped (Arched Harp (shoulder harp))؟",
+      "a": "صُنعت Music, harp, arched, naviform, boat shaped (Arched Harp (shoulder harp)) من خشب.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت Music, harp, arched, naviform, boat shaped (Arched Harp (shoulder harp))؟",
+      "a": "أُحضرت Music, harp, arched, naviform, boat shaped (Arched Harp (shoulder harp)) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

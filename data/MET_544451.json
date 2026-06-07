@@ -1,0 +1,132 @@
+{
+  "id": "MET_544451",
+  "names": {
+    "ar": "تمثال صغير (Statuette of the Child Amenemhab)",
+    "en": "Statuette of the Child Amenemhab",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Statuette, standing boy, nude, Amenemhab, child",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1550,
+    "year_max": -1479
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة, early",
+    "en": "Dynasty 18, early"
+  },
+  "material": [
+    "Bronze",
+    "separate silver lotus",
+    "wood base with pigmented inlays"
+  ],
+  "dimensions": {
+    "text": "h. 13 cm (5 1/8 in); w. 4.9 cm (1 15/16 in); d. 9 cm (3 9/16 in)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Carnarvon/Carter excavations, 1911"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 114"
+  },
+  "description": {
+    "ar": "تمثال صغير مصرية قديمة، معروفة بـ«Statuette of the Child Amenemhab»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة, early)، مصنوعة من برونز وseparate silver lotus وwood base with pigmented inlays، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Statuette of the Child Amenemhab — Statuette, standing boy, nude, Amenemhab, child. Period: New Kingdom, Dynasty 18, early, dated to ca. 1550–1479 B.C.. Medium: Bronze, separate silver lotus, wood base with pigmented inlays. Dimensions: h. 13 cm (5 1/8 in); w. 4.9 cm (1 15/16 in); d. 9 cm (3 9/16 in). Excavation: Carnarvon/Carter excavations, 1911. Country of origin: Egypt. Credit: Purchase, Edward S. Harkness Gift, 1926.",
+    "ar_intro": "تمثال صغير مصرية قديمة، معروفة بـ«Statuette of the Child Amenemhab»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة, early)، مصنوعة من برونز وseparate silver lotus وwood base with pigmented inlays، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Statuette of the Child Amenemhab"
+  },
+  "images": [
+    {
+      "filename": "MET_544451_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP115775.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Statuette of the Child Amenemhab",
+      "object_name": "Statuette, standing boy, nude, Amenemhab, child"
+    },
+    {
+      "filename": "MET_544451_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP115777.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Statuette of the Child Amenemhab",
+      "object_name": "Statuette, standing boy, nude, Amenemhab, child"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544451",
+      "title": "Statuette of the Child Amenemhab",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "boys",
+    "male nudes",
+    "lotuses"
+  ],
+  "related_ids": [
+    "MET_545146",
+    "MET_547031",
+    "MET_544683",
+    "MET_547951",
+    "MET_547900",
+    "MET_548339"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال صغير (Statuette of the Child Amenemhab)؟",
+      "a": "تمثال صغير مصرية قديمة، معروفة بـ«Statuette of the Child Amenemhab»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة, early)، مصنوعة من برونز وseparate silver lotus وwood base with pigmented inlays، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال صغير (Statuette of the Child Amenemhab) حاليًا؟",
+      "a": "تُحفظ تمثال صغير (Statuette of the Child Amenemhab) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال صغير (Statuette of the Child Amenemhab)؟",
+      "a": "تعود تمثال صغير (Statuette of the Child Amenemhab) إلى الأسرة الثامنة عشرة, early.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال صغير (Statuette of the Child Amenemhab)؟",
+      "a": "صُنعت تمثال صغير (Statuette of the Child Amenemhab) من برونز وseparate silver lotus وwood base with pigmented inlays.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تمثال صغير (Statuette of the Child Amenemhab)؟",
+      "a": "أُحضرت تمثال صغير (Statuette of the Child Amenemhab) من Carnarvon/Carter excavations, 1911.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

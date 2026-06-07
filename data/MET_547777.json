@@ -1,0 +1,128 @@
+{
+  "id": "MET_547777",
+  "names": {
+    "ar": "تمثال (Male god)",
+    "en": "Male god",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Statue, god",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1390,
+    "year_max": -1352
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Granodiorite"
+  ],
+  "dimensions": {
+    "text": "Height: 91.8 cm (36 1/8 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 119"
+  },
+  "description": {
+    "ar": "تمثال مصرية قديمة، معروفة بـ«Male god»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من جرانوديوريت، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Male god — Statue, god. Period: New Kingdom, Dynasty 18, dated to ca. 1390–1352 B.C.. Medium: Granodiorite. Dimensions: Height: 91.8 cm (36 1/8 in.). Country of origin: Egypt. Credit: Rogers Fund, 1919 (19.2.15); Fletcher Fund, 1996 (1996.362).",
+    "ar_intro": "تمثال مصرية قديمة، معروفة بـ«Male god»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من جرانوديوريت، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Male god"
+  },
+  "images": [
+    {
+      "filename": "MET_547777_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-24214-001.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Male god",
+      "object_name": "Statue, god"
+    },
+    {
+      "filename": "MET_547777_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP-24214-002.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Male god",
+      "object_name": "Statue, god"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/547777",
+      "title": "Male god",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [],
+  "related_ids": [
+    "MET_544056",
+    "MET_544060",
+    "MET_544068",
+    "MET_544442",
+    "MET_544450",
+    "MET_544453",
+    "MET_544478",
+    "MET_544498"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال (Male god)؟",
+      "a": "تمثال مصرية قديمة، معروفة بـ«Male god»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من جرانوديوريت، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال (Male god) حاليًا؟",
+      "a": "تُحفظ تمثال (Male god) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال (Male god)؟",
+      "a": "تعود تمثال (Male god) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال (Male god)؟",
+      "a": "صُنعت تمثال (Male god) من جرانوديوريت.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تمثال (Male god)؟",
+      "a": "أُحضرت تمثال (Male god) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

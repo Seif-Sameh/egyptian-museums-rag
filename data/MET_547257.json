@@ -1,0 +1,150 @@
+{
+  "id": "MET_547257",
+  "names": {
+    "ar": "كرتوناج (Mummy Mask of a Woman)",
+    "en": "Mummy Mask of a Woman",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Mask, cartonnage, woman",
+  "period": {
+    "ar": "العصر الروماني",
+    "en": "Roman Period",
+    "year_min": 60,
+    "year_max": 70
+  },
+  "dynasty": {
+    "ar": "",
+    "en": ""
+  },
+  "material": [
+    "Cartonnage",
+    "plaster",
+    "paint",
+    "plant fibers"
+  ],
+  "dimensions": {
+    "text": "l. 63 cm (24 13/16 in); w. 33 cm (13 in); h. 53 (20 7/8  in)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": ""
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 133"
+  },
+  "description": {
+    "ar": "كرتوناج مصرية قديمة، معروفة بـ«Mummy Mask of a Woman»، تعود إلى العصر الروماني، مصنوعة من Cartonnage وplaster وpaint وplant fibers، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Mummy Mask of a Woman — Mask, cartonnage, woman. Period: Roman Period, dated to A.D. 60–70. Medium: Cartonnage, plaster, paint, plant fibers. Dimensions: l. 63 cm (24 13/16 in); w. 33 cm (13 in); h. 53 (20 7/8  in). Credit: Rogers Fund, 1919.",
+    "ar_intro": "كرتوناج مصرية قديمة، معروفة بـ«Mummy Mask of a Woman»، تعود إلى العصر الروماني، مصنوعة من Cartonnage وplaster وpaint وplant fibers، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Mummy Mask of a Woman"
+  },
+  "images": [
+    {
+      "filename": "MET_547257_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DT10852.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Mummy Mask of a Woman",
+      "object_name": "Mask, cartonnage, woman"
+    },
+    {
+      "filename": "MET_547257_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/CT_19281.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Mummy Mask of a Woman",
+      "object_name": "Mask, cartonnage, woman"
+    },
+    {
+      "filename": "MET_547257_03.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/CT_19283.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Mummy Mask of a Woman",
+      "object_name": "Mask, cartonnage, woman"
+    },
+    {
+      "filename": "MET_547257_04.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/CT_19284.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Mummy Mask of a Woman",
+      "object_name": "Mask, cartonnage, woman"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/547257",
+      "title": "Mummy Mask of a Woman",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "masks",
+    "women"
+  ],
+  "related_ids": [
+    "MET_543899",
+    "MET_543901",
+    "MET_544210",
+    "MET_544450",
+    "MET_544514",
+    "MET_544689",
+    "MET_544740",
+    "MET_544776"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي كرتوناج (Mummy Mask of a Woman)؟",
+      "a": "كرتوناج مصرية قديمة، معروفة بـ«Mummy Mask of a Woman»، تعود إلى العصر الروماني، مصنوعة من Cartonnage وplaster وpaint وplant fibers، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد كرتوناج (Mummy Mask of a Woman) حاليًا؟",
+      "a": "تُحفظ كرتوناج (Mummy Mask of a Woman) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود كرتوناج (Mummy Mask of a Woman)؟",
+      "a": "تعود كرتوناج (Mummy Mask of a Woman) إلى العصر الروماني.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت كرتوناج (Mummy Mask of a Woman)؟",
+      "a": "صُنعت كرتوناج (Mummy Mask of a Woman) من Cartonnage وplaster وpaint وplant fibers.",
+      "evidence": "material",
+      "type": "material"
+    }
+  ],
+  "highlight": false
+}

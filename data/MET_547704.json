@@ -1,0 +1,130 @@
+{
+  "id": "MET_547704",
+  "names": {
+    "ar": "Head, goddess (Head of a goddess)",
+    "en": "Head of a goddess",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Head, goddess",
+  "period": {
+    "ar": "الدولة الحديثة, Ramesside",
+    "en": "New Kingdom, Ramesside",
+    "year_min": -1295,
+    "year_max": -1270
+  },
+  "dynasty": {
+    "ar": "الأسرة التاسعة عشرة",
+    "en": "Dynasty 19"
+  },
+  "material": [
+    "quartzite"
+  ],
+  "dimensions": {
+    "text": "H. 16 × W. 11.3 × D. 8 cm (6 5/16 × 4 7/16 × 3 1/8 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 124"
+  },
+  "description": {
+    "ar": "Head, goddess مصرية قديمة، معروفة بـ«Head of a goddess»، تعود إلى الدولة الحديثة, Ramesside، (الأسرة التاسعة عشرة)، مصنوعة من quartzite، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Head of a goddess — Head, goddess. Period: New Kingdom, Ramesside, Dynasty 19, dated to ca. 1295–1270 B.C.. Medium: quartzite. Dimensions: H. 16 × W. 11.3 × D. 8 cm (6 5/16 × 4 7/16 × 3 1/8 in.). Country of origin: Egypt. Credit: Purchase, Lila Acheson Wallace Gift, 2000.",
+    "ar_intro": "Head, goddess مصرية قديمة، معروفة بـ«Head of a goddess»، تعود إلى الدولة الحديثة, Ramesside، (الأسرة التاسعة عشرة)، مصنوعة من quartzite، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Head of a goddess"
+  },
+  "images": [
+    {
+      "filename": "MET_547704_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DT4632.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Head of a goddess",
+      "object_name": "Head, goddess"
+    },
+    {
+      "filename": "MET_547704_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DT4633.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Head of a goddess",
+      "object_name": "Head, goddess"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/547704",
+      "title": "Head of a goddess",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "heads"
+  ],
+  "related_ids": [
+    "MET_544066",
+    "MET_544702",
+    "MET_544740",
+    "MET_544752",
+    "MET_545870",
+    "MET_554769",
+    "MET_544060",
+    "MET_544453"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي Head, goddess (Head of a goddess)؟",
+      "a": "Head, goddess مصرية قديمة، معروفة بـ«Head of a goddess»، تعود إلى الدولة الحديثة, Ramesside، (الأسرة التاسعة عشرة)، مصنوعة من quartzite، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد Head, goddess (Head of a goddess) حاليًا؟",
+      "a": "تُحفظ Head, goddess (Head of a goddess) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود Head, goddess (Head of a goddess)؟",
+      "a": "تعود Head, goddess (Head of a goddess) إلى الأسرة التاسعة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت Head, goddess (Head of a goddess)؟",
+      "a": "صُنعت Head, goddess (Head of a goddess) من quartzite.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت Head, goddess (Head of a goddess)؟",
+      "a": "أُحضرت Head, goddess (Head of a goddess) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

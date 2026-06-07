@@ -1,0 +1,113 @@
+{
+  "id": "MET_544319",
+  "names": {
+    "ar": "Writing Board (Writing board)",
+    "en": "Writing board",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Writing Board",
+  "period": {
+    "ar": "الدولة الوسطى",
+    "en": "Middle Kingdom",
+    "year_min": -1981,
+    "year_max": -1802
+  },
+  "dynasty": {
+    "ar": "الأسرة الثانية عشرة",
+    "en": "Dynasty 12"
+  },
+  "material": [
+    "Wood",
+    "gesso",
+    "paint"
+  ],
+  "dimensions": {
+    "text": "L. 43 cm (16 15/16 in); w. 19 cm (7 1/2 in)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": ""
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 109"
+  },
+  "description": {
+    "ar": "Writing Board مصرية قديمة، معروفة بـ«Writing board»، تعود إلى الدولة الوسطى، (الأسرة الثانية عشرة)، مصنوعة من خشب وgesso وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Writing board. Period: Middle Kingdom, Dynasty 12, dated to ca. 1981–1802 B.C.. Medium: Wood, gesso, paint. Dimensions: L. 43 cm (16 15/16 in); w. 19 cm (7 1/2 in). Credit: Gift of Edward S. Harkness, 1928.",
+    "ar_intro": "Writing Board مصرية قديمة، معروفة بـ«Writing board»، تعود إلى الدولة الوسطى، (الأسرة الثانية عشرة)، مصنوعة من خشب وgesso وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Writing board"
+  },
+  "images": [
+    {
+      "filename": "MET_544319_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP234742.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Writing board",
+      "object_name": "Writing Board"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544319",
+      "title": "Writing board",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [],
+  "related_ids": [
+    "MET_543864",
+    "MET_543867",
+    "MET_544184",
+    "MET_544186",
+    "MET_544210",
+    "MET_544214",
+    "MET_544227",
+    "MET_544228"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي Writing Board (Writing board)؟",
+      "a": "Writing Board مصرية قديمة، معروفة بـ«Writing board»، تعود إلى الدولة الوسطى، (الأسرة الثانية عشرة)، مصنوعة من خشب وgesso وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد Writing Board (Writing board) حاليًا؟",
+      "a": "تُحفظ Writing Board (Writing board) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود Writing Board (Writing board)؟",
+      "a": "تعود Writing Board (Writing board) إلى الأسرة الثانية عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت Writing Board (Writing board)؟",
+      "a": "صُنعت Writing Board (Writing board) من خشب وgesso وpaint.",
+      "evidence": "material",
+      "type": "material"
+    }
+  ],
+  "highlight": false
+}

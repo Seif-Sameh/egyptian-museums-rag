@@ -1,0 +1,127 @@
+{
+  "id": "MET_544887",
+  "names": {
+    "ar": "تمثال (Statue of Horus as a falcon protecting King Nectanebo II)",
+    "en": "Statue of Horus as a falcon protecting King Nectanebo II",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Statue, Horus, King Nectanebo II; Dendur-decoded",
+  "period": {
+    "ar": "العصر المتأخر",
+    "en": "Late Period",
+    "year_min": -360,
+    "year_max": -343
+  },
+  "dynasty": {
+    "ar": "الأسرة الثلاثون",
+    "en": "Dynasty 30"
+  },
+  "material": [
+    "Metagraywacke"
+  ],
+  "dimensions": {
+    "text": "H. 72 × W. 20 × D. 46.5 cm, 55.3 kg (28 3/8 × 7 7/8 × 18 5/16 in., 122 lb.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": ""
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 128"
+  },
+  "description": {
+    "ar": "تمثال مصرية قديمة، معروفة بـ«Statue of Horus as a falcon protecting King Nectanebo II»، تعود إلى العصر المتأخر، (الأسرة الثلاثون)، مصنوعة من Metagraywacke، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Statue of Horus as a falcon protecting King Nectanebo II — Statue, Horus, King Nectanebo II; Dendur-decoded. Period: Late Period, Dynasty 30, dated to 360–343 BCE. Medium: Metagraywacke. Dimensions: H. 72 × W. 20 × D. 46.5 cm, 55.3 kg (28 3/8 × 7 7/8 × 18 5/16 in., 122 lb.). Credit: Rogers Fund, 1934.",
+    "ar_intro": "تمثال مصرية قديمة، معروفة بـ«Statue of Horus as a falcon protecting King Nectanebo II»، تعود إلى العصر المتأخر، (الأسرة الثلاثون)، مصنوعة من Metagraywacke، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Statue of Horus as a falcon protecting King Nectanebo II"
+  },
+  "images": [
+    {
+      "filename": "MET_544887_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-38684-002.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Statue of Horus as a falcon protecting King Nectanebo II",
+      "object_name": "Statue, Horus, King Nectanebo II; Dendur-decoded"
+    },
+    {
+      "filename": "MET_544887_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP152085.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Statue of Horus as a falcon protecting King Nectanebo II",
+      "object_name": "Statue, Horus, King Nectanebo II; Dendur-decoded"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544887",
+      "title": "Statue of Horus as a falcon protecting King Nectanebo II",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "falcons",
+    "men",
+    "horus",
+    "crowns"
+  ],
+  "related_ids": [
+    "MET_547556",
+    "MET_546037",
+    "MET_545870",
+    "MET_544752",
+    "MET_544232",
+    "MET_544826",
+    "MET_552062",
+    "MET_555577"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال (Statue of Horus as a falcon protecting King Nectanebo II)؟",
+      "a": "تمثال مصرية قديمة، معروفة بـ«Statue of Horus as a falcon protecting King Nectanebo II»، تعود إلى العصر المتأخر، (الأسرة الثلاثون)، مصنوعة من Metagraywacke، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال (Statue of Horus as a falcon protecting King Nectanebo II) حاليًا؟",
+      "a": "تُحفظ تمثال (Statue of Horus as a falcon protecting King Nectanebo II) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال (Statue of Horus as a falcon protecting King Nectanebo II)؟",
+      "a": "تعود تمثال (Statue of Horus as a falcon protecting King Nectanebo II) إلى الأسرة الثلاثون.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال (Statue of Horus as a falcon protecting King Nectanebo II)؟",
+      "a": "صُنعت تمثال (Statue of Horus as a falcon protecting King Nectanebo II) من Metagraywacke.",
+      "evidence": "material",
+      "type": "material"
+    }
+  ],
+  "highlight": false
+}

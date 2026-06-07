@@ -1,0 +1,432 @@
+[
+  {
+    "id": "GEM",
+    "names": {
+      "ar": "المتحف المصري الكبير",
+      "en": "Grand Egyptian Museum",
+      "alt_ar": [
+        "متحف الجيزة الكبير",
+        "المتحف الكبير"
+      ]
+    },
+    "city": {
+      "ar": "الجيزة",
+      "en": "Giza"
+    },
+    "country": "Egypt",
+    "coordinates": {
+      "lat": 29.9942,
+      "lon": 31.1196
+    },
+    "opened": "2024-10-16 (partial), 2025-11-01 (full opening)",
+    "area_m2": 500000,
+    "summary": {
+      "ar": "المتحف المصري الكبير هو أكبر متحف أثري في العالم مخصص لحضارة واحدة. يقع على مسافة كيلومترين من أهرامات الجيزة، وقد افتُتح جزئياً في 16 أكتوبر 2024 وافتتاحه الرسمي الكامل في 1 نوفمبر 2025. يضم أكثر من 100,000 قطعة أثرية تغطي 7,000 سنة من التاريخ المصري، من بينها مجموعة توت عنخ آمون كاملة لأول مرة (نحو 5,400 قطعة)، ومركب خوفو الشمسية، وتمثال رمسيس الثاني الذي ينتصب في البهو الرئيسي.",
+      "en": "The largest archaeological museum in the world devoted to a single civilization. Located 2km from the Giza Pyramids, partially opened on 16 October 2024 with full inauguration on 1 November 2025. Houses over 100,000 artifacts spanning 7,000 years of Egyptian history, including the complete Tutankhamun collection (~5,400 objects displayed together for the first time), the Khufu Solar Boat, and the colossus of Ramesses II in the atrium."
+    },
+    "halls": [
+      {
+        "id": "GEM_ATRIUM",
+        "names": {
+          "ar": "البهو الرئيسي",
+          "en": "Atrium"
+        },
+        "summary": {
+          "ar": "يستقبل الزوار بتمثال الملك رمسيس الثاني العملاق الذي نُقل من ميدان رمسيس بالقاهرة عام 2006 ووُضع في موقعه الحالي عام 2018. ارتفاعه يبلغ نحو 11 متراً ووزنه 83 طنّاً.",
+          "en": "Welcomes visitors with the colossal statue of Ramesses II, transferred from Cairo's Ramesses Square in 2006 and placed here in 2018. ~11 m tall, weighs 83 tons."
+        }
+      },
+      {
+        "id": "GEM_GRAND_STAIRCASE",
+        "names": {
+          "ar": "السلم العظيم",
+          "en": "Grand Staircase"
+        },
+        "summary": {
+          "ar": "سلم احتفالي بطول 64 متراً يصعد ست طوابق نحو نافذة مطلة مباشرة على أهرامات الجيزة. يصطف على جانبيه نحو 87 تمثالاً ضخمًا تمثل أهم ملوك مصر القديمة عبر العصور.",
+          "en": "A 64-metre ceremonial staircase rising six storeys to a panoramic window framing the Giza Pyramids. Lined with ~87 colossal statues of Egypt's most important kings across all eras."
+        }
+      },
+      {
+        "id": "GEM_TUT_GALLERIES",
+        "names": {
+          "ar": "قاعات توت عنخ آمون",
+          "en": "Tutankhamun Galleries"
+        },
+        "summary": {
+          "ar": "تعرض كامل مقتنيات الملك توت عنخ آمون البالغ عددها نحو 5,400 قطعة لأول مرة في التاريخ في مكان واحد، بما في ذلك القناع الذهبي، التابوت الذهبي الداخلي، العرش، الخنجر النيزكي، الصناديق الكانوبية، العربات، وتجهيزات المقبرة كاملة.",
+          "en": "Displays the entire Tutankhamun collection (~5,400 objects) together for the first time in history, including the gold mask, innermost gold coffin, throne, meteoric-iron dagger, canopic shrine, chariots, and the complete tomb assemblage."
+        }
+      },
+      {
+        "id": "GEM_KHUFU_BOAT_HALL",
+        "names": {
+          "ar": "قاعة مركب خوفو الشمسية",
+          "en": "Khufu Solar Boat Hall"
+        },
+        "summary": {
+          "ar": "تستضيف مركب الملك خوفو الجنائزية، وهي أقدم وأكبر سفينة خشبية محفوظة في العالم. يبلغ طولها 43.6 متراً، وقد عُثر عليها مفككة في حفرة بجوار الهرم الأكبر عام 1954، ونُقلت إلى المتحف الكبير عام 2021.",
+          "en": "Hosts the Khufu Solar Boat, the oldest and largest preserved wooden ship in the world. Measures 43.6 m. Discovered dismantled in a pit beside the Great Pyramid in 1954; transferred to GEM in 2021."
+        }
+      },
+      {
+        "id": "GEM_MAIN_GALLERIES_PRE_OK",
+        "names": {
+          "ar": "القاعات الرئيسية: عصر ما قبل الأسرات حتى الدولة القديمة",
+          "en": "Main Galleries: Predynastic to Old Kingdom"
+        },
+        "summary": {
+          "ar": "أربع قاعات تستعرض البدايات الأولى للحضارة المصرية: تشكُّل الدولة، الكتابة، نشأة الملكية، وبناء الأهرامات. تشمل قطعاً مثل صلاية نعرمر، تمثال خوفو، تماثيل خفرع ومنكاورع، وثنائي رع حتب ونفرت.",
+          "en": "Four galleries tracing the rise of Egyptian civilization — state formation, writing, the birth of kingship, and the pyramid age. Includes pieces such as the Narmer Palette, the Khufu statuette, statues of Khafre and Menkaure, and the Rahotep–Nofret pair."
+        }
+      },
+      {
+        "id": "GEM_MAIN_GALLERIES_MK",
+        "names": {
+          "ar": "القاعات الرئيسية: الدولة الوسطى",
+          "en": "Main Galleries: Middle Kingdom"
+        },
+        "summary": {
+          "ar": "تضم قطعاً من الأسرتين الحادية عشرة والثانية عشرة، وأبرزها تماثيل سنوسرت الأول وأمنمحات الثالث، بالإضافة إلى نماذج مقابر بني حسن.",
+          "en": "Pieces from the 11th–12th Dynasties: statues of Senusret I, Amenemhat III, and tomb models from Beni Hasan."
+        }
+      },
+      {
+        "id": "GEM_MAIN_GALLERIES_NK",
+        "names": {
+          "ar": "القاعات الرئيسية: الدولة الحديثة",
+          "en": "Main Galleries: New Kingdom"
+        },
+        "summary": {
+          "ar": "ذروة الإمبراطورية المصرية في الأسر 18 و19 و20. تضم تماثيل حتشبسوت، تحتمس الثالث، أمنحتب الثالث، أخناتون، والملوك الرعامسة. كذلك أعمدة الحفل السد وتماثيل سخمت الكثيرة.",
+          "en": "Egypt's imperial peak under the 18th, 19th, and 20th Dynasties. Includes statues of Hatshepsut, Thutmose III, Amenhotep III, Akhenaten, and the Ramesside kings; many Sekhmet statues and Heb-Sed pillars."
+        }
+      },
+      {
+        "id": "GEM_MAIN_GALLERIES_LATE",
+        "names": {
+          "ar": "القاعات الرئيسية: العصر المتأخر والبطلمي والروماني",
+          "en": "Main Galleries: Late, Ptolemaic & Roman Periods"
+        },
+        "summary": {
+          "ar": "تستعرض حضارة مصر بعد نهاية الدولة الحديثة، وتشمل قطعاً ساوية، فارسية، وبطلمية، إضافة إلى تمثيل العصر الروماني والقبطي.",
+          "en": "Egypt after the New Kingdom — Saite, Persian, and Ptolemaic objects, plus Roman and early Coptic representation."
+        }
+      },
+      {
+        "id": "GEM_CHILDREN_MUSEUM",
+        "names": {
+          "ar": "متحف الأطفال",
+          "en": "Children's Museum"
+        },
+        "summary": {
+          "ar": "قاعات تفاعلية تعليمية مخصصة لتعريف الأطفال من 6 إلى 12 سنة بالحضارة المصرية القديمة عبر اللعب والمحاكاة.",
+          "en": "Interactive educational galleries for children aged 6–12, exploring ancient Egyptian civilization through play and simulation."
+        }
+      },
+      {
+        "id": "GEM_CONSERVATION",
+        "names": {
+          "ar": "مركز الترميم والصيانة",
+          "en": "Conservation Centre"
+        },
+        "summary": {
+          "ar": "أكبر مركز ترميم في الشرق الأوسط، يضم 19 معملاً متخصصاً ويُتاح للزوار جزء منه عبر زيارات مجدولة.",
+          "en": "Largest conservation centre in the Middle East — 19 specialized labs, with limited public access via scheduled tours."
+        }
+      }
+    ]
+  },
+  {
+    "id": "EMC",
+    "names": {
+      "ar": "المتحف المصري بالتحرير",
+      "en": "Egyptian Museum"
+    },
+    "city": {
+      "ar": "القاهرة",
+      "en": "Cairo"
+    },
+    "country": "Egypt",
+    "coordinates": {
+      "lat": 30.0478,
+      "lon": 31.2336
+    },
+    "opened": "1902",
+    "summary": {
+      "ar": "أقدم متحف أثري في الشرق الأوسط، صممه المعماري الفرنسي مارسيل دورنيون وافتُتح عام 1902 بميدان التحرير. ضم على مدار قرن أكبر مجموعة من الآثار الفرعونية في العالم. مع افتتاح المتحف المصري الكبير ومتحف الحضارة، نُقلت قطع كبرى لكنّه يحتفظ بمقتنيات أساسية مثل صلاية نعرمر وكنوز يويا وتويا.",
+      "en": "Oldest archaeological museum in the Middle East, designed by French architect Marcel Dourgnon and opened on Tahrir Square in 1902. Held the world's largest pharaonic collection for over a century. With the GEM and NMEC openings many flagship pieces have moved, but it retains key holdings including the Narmer Palette and the Yuya & Thuya treasure."
+    },
+    "halls": [
+      {
+        "id": "EMC_GROUND_FLOOR",
+        "names": {
+          "ar": "الطابق الأرضي",
+          "en": "Ground Floor"
+        },
+        "summary": {
+          "ar": "يعرض القطع الكبيرة الحجم وفق تسلسل زمني من عصر ما قبل الأسرات حتى العصر اليوناني الروماني، بما في ذلك صلاية نعرمر، تمثال زوسر، وتماثيل ضخمة لرمسيس الثاني.",
+          "en": "Displays large-scale objects in chronological order from Predynastic to Greco-Roman, including the Narmer Palette, the Djoser statue, and colossal statues of Ramesses II."
+        }
+      },
+      {
+        "id": "EMC_UPPER_FLOOR",
+        "names": {
+          "ar": "الطابق العلوي",
+          "en": "Upper Floor"
+        },
+        "summary": {
+          "ar": "يضم القطع الصغيرة مرتبة موضوعياً، بما في ذلك مقتنيات يويا وتويا، الحلي، التوابيت الخشبية، والأواني الكانوبية.",
+          "en": "Small objects arranged thematically, including the Yuya and Thuya treasure, jewellery, wooden coffins, and canopic jars."
+        }
+      },
+      {
+        "id": "EMC_CENTRAL_ATRIUM",
+        "names": {
+          "ar": "البهو الأوسط",
+          "en": "Central Atrium"
+        },
+        "summary": {
+          "ar": "بهو مركزي يعرض قطعاً ضخمة منها لوحة مرنبتاح والتمثال الكبير لأمنحتب الثالث وزوجته تي.",
+          "en": "Central atrium with monumental pieces including the Merneptah Stele and the colossal statue of Amenhotep III with his queen Tiye."
+        }
+      }
+    ]
+  },
+  {
+    "id": "NMEC",
+    "names": {
+      "ar": "المتحف القومي للحضارة المصرية",
+      "en": "National Museum of Egyptian Civilization"
+    },
+    "city": {
+      "ar": "الفسطاط، القاهرة",
+      "en": "Fustat, Cairo"
+    },
+    "country": "Egypt",
+    "coordinates": {
+      "lat": 30.0064,
+      "lon": 31.2293
+    },
+    "opened": "2017 (partial), 2021 (full)",
+    "summary": {
+      "ar": "متحف موضوعي يستعرض الحضارة المصرية من ما قبل التاريخ حتى العصر الحديث على مساحة 130,000 متر مربع. اشتُهر باستضافة موكب المومياوات الملكية الذهبي في 3 أبريل 2021 الذي نقل 22 مومياء ملكية من المتحف المصري بالتحرير.",
+      "en": "Thematic museum (130,000 m²) showcasing Egyptian civilization from prehistory to modern times. Famously hosted the Pharaohs' Golden Parade on 3 April 2021, in which 22 royal mummies were transferred from the Egyptian Museum at Tahrir."
+    },
+    "halls": [
+      {
+        "id": "NMEC_ROYAL_MUMMIES",
+        "names": {
+          "ar": "قاعة المومياوات الملكية",
+          "en": "Royal Mummies Hall"
+        },
+        "summary": {
+          "ar": "تضم 22 مومياء ملكية من ملوك وملكات الدولة الحديثة، من بينها مومياوات سقنن رع تاعا الثاني، تحتمس الثالث، حتشبسوت، أمنحتب الأول، سيتي الأول، رمسيس الثاني ومرنبتاح. القاعة مظلمة ومضبوطة الحرارة والرطوبة لمحاكاة بيئة المقبرة.",
+          "en": "Holds 22 royal mummies of New Kingdom kings and queens, including Seqenenre Tao II, Thutmose III, Hatshepsut, Amenhotep I, Seti I, Ramesses II, and Merneptah. Dimly lit with controlled humidity and temperature to simulate tomb conditions."
+        }
+      },
+      {
+        "id": "NMEC_MAIN_GALLERY",
+        "names": {
+          "ar": "القاعة الرئيسية",
+          "en": "Main Hall"
+        },
+        "summary": {
+          "ar": "تستعرض الحضارة المصرية موضوعياً عبر العصور: الفجر، النيل، الكتابة، الدولة، المجتمع، المعتقدات، الأفكار والإبداع.",
+          "en": "Thematic exploration of Egyptian civilization across eras: Dawn, Nile, Writing, State, Society, Beliefs, Ideas & Creativity."
+        }
+      }
+    ]
+  },
+  {
+    "id": "LUX",
+    "names": {
+      "ar": "متحف الأقصر",
+      "en": "Luxor Museum"
+    },
+    "city": {
+      "ar": "الأقصر",
+      "en": "Luxor"
+    },
+    "country": "Egypt",
+    "coordinates": {
+      "lat": 25.7032,
+      "lon": 32.645
+    },
+    "opened": "1975",
+    "summary": {
+      "ar": "متحف أنيق المساحة وجيد العرض على الضفة الشرقية للنيل بالأقصر. يضم قطعاً مختارة من معبدي الكرنك والأقصر، ومجموعة كاش الأقصر التي اكتُشفت عام 1989 وتشمل تماثيل ضخمة لأمنحتب الثالث وحورمحب.",
+      "en": "Compact, well-curated museum on the East Bank of the Nile in Luxor. Holds selected pieces from Karnak and Luxor temples, plus the Luxor Cachette discovered in 1989 (large statues of Amenhotep III and Horemheb)."
+    },
+    "halls": [
+      {
+        "id": "LUX_MAIN",
+        "names": {
+          "ar": "قاعة العرض الرئيسية",
+          "en": "Main Display Hall"
+        },
+        "summary": {
+          "ar": "تعرض القطع المختارة من معابد الأقصر، بما فيها التمثال الكامل للملك تحتمس الثالث، وتمثال أمنحتب الثالث المكتشف عام 1989.",
+          "en": "Showcases curated pieces from Luxor temples, including the complete statue of Thutmose III and the Amenhotep III statue from the 1989 cachette."
+        }
+      },
+      {
+        "id": "LUX_MUMMIFICATION",
+        "names": {
+          "ar": "قاعة التحنيط",
+          "en": "Mummification Hall"
+        },
+        "summary": {
+          "ar": "تستعرض عملية التحنيط بمعدّاتها وأدواتها وأقمشتها عبر مومياء كاملة وأدوات أصلية.",
+          "en": "Walks through mummification with original tools, linens, and a complete mummy."
+        }
+      }
+    ]
+  },
+  {
+    "id": "MET",
+    "names": {
+      "ar": "متحف المتروبوليتان للفنون",
+      "en": "The Metropolitan Museum of Art"
+    },
+    "city": {
+      "ar": "نيويورك",
+      "en": "New York"
+    },
+    "country": "USA",
+    "coordinates": {
+      "lat": 40.7794,
+      "lon": -73.9632
+    },
+    "opened": "1880",
+    "summary": {
+      "ar": "يضم قسم الفن المصري بالمتروبوليتان أكثر من 26,000 قطعة، ويستعرضها في 40 صالة بشكل دائم. أبرز معروضاته: معبد دندور المُعاد بناؤه (هدية مصر للولايات المتحدة 1965)، مقابر مير، تمثال حتشبسوت الجالسة، وكنز سيت حتحور يونت.",
+      "en": "The Met's Egyptian Department holds over 26,000 objects displayed in 40 permanent galleries. Highlights include the reassembled Temple of Dendur (gifted by Egypt to the US in 1965), the Meir tombs, the Seated Hatshepsut statue, and the Sit-Hathor-Yunet treasure."
+    },
+    "halls": [
+      {
+        "id": "MET_DENDUR",
+        "names": {
+          "ar": "قاعة معبد دندور",
+          "en": "Temple of Dendur Hall (Sackler Wing)"
+        },
+        "summary": {
+          "ar": "صالة شاسعة تستضيف معبد دندور النوبي بالكامل، الذي بُني في عهد أغسطس قيصر نحو عام 15 ق.م. وأُهدي إلى الولايات المتحدة عام 1965.",
+          "en": "Vast gallery housing the entire Nubian Temple of Dendur, built under Augustus Caesar c. 15 BC and gifted to the US in 1965."
+        }
+      }
+    ]
+  },
+  {
+    "id": "BM",
+    "names": {
+      "ar": "المتحف البريطاني",
+      "en": "British Museum"
+    },
+    "city": {
+      "ar": "لندن",
+      "en": "London"
+    },
+    "country": "UK",
+    "coordinates": {
+      "lat": 51.5194,
+      "lon": -0.127
+    },
+    "opened": "1759",
+    "summary": {
+      "ar": "يضم قسم الفن المصري بالمتحف البريطاني أكبر مجموعة آثار مصرية خارج القاهرة. يشمل حجر رشيد، بردية آني، تمثال رمسيس الثاني الكبير في القاعة المصرية الكبرى، وأكثر من 100,000 قطعة.",
+      "en": "Holds the largest Egyptian collection outside Cairo: the Rosetta Stone, the Papyrus of Ani, the colossal statue of Ramesses II in the Egyptian Sculpture Gallery, and over 100,000 objects."
+    },
+    "halls": [
+      {
+        "id": "BM_EGY_SCULPTURE",
+        "names": {
+          "ar": "قاعة النحت المصري",
+          "en": "Egyptian Sculpture Gallery (Room 4)"
+        },
+        "summary": {
+          "ar": "تعرض القطع الكبيرة وحجر رشيد والتمثال الكبير لرمسيس الثاني.",
+          "en": "Houses the colossal sculptures, the Rosetta Stone, and the colossal Ramesses II."
+        }
+      }
+    ]
+  },
+  {
+    "id": "BERLIN",
+    "names": {
+      "ar": "المتحف الجديد ببرلين (متحف نفرتيتي)",
+      "en": "Neues Museum"
+    },
+    "city": {
+      "ar": "برلين",
+      "en": "Berlin"
+    },
+    "country": "Germany",
+    "coordinates": {
+      "lat": 52.5208,
+      "lon": 13.3973
+    },
+    "opened": "1855 (reopened 2009 after WWII)",
+    "summary": {
+      "ar": "يستضيف تمثال الملكة نفرتيتي الشهير، وألواح تل العمارنة، ومجموعة الأميرة وارد.",
+      "en": "Hosts the iconic Nefertiti Bust, the Amarna Letters, and Berlin's Egyptian Museum collection."
+    },
+    "halls": [
+      {
+        "id": "BERLIN_NEFERTITI",
+        "names": {
+          "ar": "قاعة نفرتيتي",
+          "en": "Nefertiti Gallery"
+        },
+        "summary": {
+          "ar": "تستضيف تمثال نفرتيتي الفريد ضمن قاعة منعزلة ومضاءة بدقة.",
+          "en": "Holds the unique Nefertiti Bust in a dedicated, dramatically lit gallery."
+        }
+      }
+    ]
+  },
+  {
+    "id": "LOUVRE",
+    "names": {
+      "ar": "متحف اللوفر",
+      "en": "Louvre"
+    },
+    "city": {
+      "ar": "باريس",
+      "en": "Paris"
+    },
+    "country": "France",
+    "coordinates": {
+      "lat": 48.8606,
+      "lon": 2.3376
+    },
+    "opened": "1793",
+    "summary": {
+      "ar": "قسم الآثار المصرية باللوفر هو ثاني أكبر مجموعة في أوروبا، يضم تمثال الكاتب الجالس، أبو الهول الكبير، صلاية الثيران، وبروج دندرة.",
+      "en": "The Louvre's Egyptian Antiquities is the second-largest in Europe, holding the Seated Scribe, the Great Sphinx of Tanis, the Bull Palette, and the Dendera Zodiac."
+    },
+    "halls": []
+  },
+  {
+    "id": "TURIN",
+    "names": {
+      "ar": "المتحف المصري بتورينو",
+      "en": "Museo Egizio (Turin)"
+    },
+    "city": {
+      "ar": "تورينو",
+      "en": "Turin"
+    },
+    "country": "Italy",
+    "coordinates": {
+      "lat": 45.0686,
+      "lon": 7.6849
+    },
+    "opened": "1824",
+    "summary": {
+      "ar": "أقدم متحف في العالم مخصص للحضارة المصرية القديمة، يضم تمثال رمسيس الثاني الجالس وبردية تورين الملكية.",
+      "en": "The world's oldest museum devoted exclusively to ancient Egyptian civilization. Holds the seated statue of Ramesses II and the Turin King List papyrus."
+    },
+    "halls": []
+  }
+]

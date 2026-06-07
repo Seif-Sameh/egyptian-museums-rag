@@ -1,0 +1,131 @@
+{
+  "id": "MET_545027",
+  "names": {
+    "ar": "تمثال صغير (Statue of a kneeling Kushite king)",
+    "en": "Statue of a kneeling Kushite king",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Statuette, kneeling king",
+  "period": {
+    "ar": "عصر الانتقال الثالث, Kushite Period",
+    "en": "Third Intermediate Period, Kushite Period",
+    "year_min": -733,
+    "year_max": -664
+  },
+  "dynasty": {
+    "ar": "الأسرة الخامسة والعشرون",
+    "en": "Dynasty 25"
+  },
+  "material": [
+    "Bronze",
+    "gold leaf"
+  ],
+  "dimensions": {
+    "text": "H. 7.3 × W. 3.2 × D. 3.7 cm (2 7/8 × 1 1/4 × 1 7/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt and Sudan"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 125"
+  },
+  "description": {
+    "ar": "تمثال صغير مصرية قديمة، معروفة بـ«Statue of a kneeling Kushite king»، تعود إلى عصر الانتقال الثالث, Kushite Period، (الأسرة الخامسة والعشرون)، مصنوعة من برونز وgold leaf، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Statue of a kneeling Kushite king — Statuette, kneeling king. Period: Third Intermediate Period, Kushite Period, Dynasty 25, dated to ca. 733–664 BCE. Medium: Bronze; gold leaf. Dimensions: H. 7.3 × W. 3.2 × D. 3.7 cm (2 7/8 × 1 1/4 × 1 7/16 in.). Country of origin: Egypt and Sudan. Credit: Purchase, Lila Acheson Wallace Gift and Anne and John V. Hansen Egyptian Purchase Fund, 2002.",
+    "ar_intro": "تمثال صغير مصرية قديمة، معروفة بـ«Statue of a kneeling Kushite king»، تعود إلى عصر الانتقال الثالث, Kushite Period، (الأسرة الخامسة والعشرون)، مصنوعة من برونز وgold leaf، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Statue of a kneeling Kushite king"
+  },
+  "images": [
+    {
+      "filename": "MET_545027_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-38848-005.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Statue of a kneeling Kushite king",
+      "object_name": "Statuette, kneeling king"
+    },
+    {
+      "filename": "MET_545027_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP-38848-001.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Statue of a kneeling Kushite king",
+      "object_name": "Statuette, kneeling king"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/545027",
+      "title": "Statue of a kneeling Kushite king",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "men"
+  ],
+  "related_ids": [
+    "MET_547771",
+    "MET_587591",
+    "MET_543864",
+    "MET_543882",
+    "MET_543896",
+    "MET_543899",
+    "MET_543901",
+    "MET_543903"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال صغير (Statue of a kneeling Kushite king)؟",
+      "a": "تمثال صغير مصرية قديمة، معروفة بـ«Statue of a kneeling Kushite king»، تعود إلى عصر الانتقال الثالث, Kushite Period، (الأسرة الخامسة والعشرون)، مصنوعة من برونز وgold leaf، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال صغير (Statue of a kneeling Kushite king) حاليًا؟",
+      "a": "تُحفظ تمثال صغير (Statue of a kneeling Kushite king) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال صغير (Statue of a kneeling Kushite king)؟",
+      "a": "تعود تمثال صغير (Statue of a kneeling Kushite king) إلى الأسرة الخامسة والعشرون.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال صغير (Statue of a kneeling Kushite king)؟",
+      "a": "صُنعت تمثال صغير (Statue of a kneeling Kushite king) من برونز وgold leaf.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تمثال صغير (Statue of a kneeling Kushite king)؟",
+      "a": "أُحضرت تمثال صغير (Statue of a kneeling Kushite king) من Egypt and Sudan.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

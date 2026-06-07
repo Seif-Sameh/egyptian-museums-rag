@@ -1,0 +1,131 @@
+{
+  "id": "MET_547684",
+  "names": {
+    "ar": "كسرة فخارية (Artist's Gridded Sketch of Senenmut)",
+    "en": "Artist's Gridded Sketch of Senenmut",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Ostracon, figured, grid, Senenmut",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1479,
+    "year_max": -1458
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Limestone",
+    "ink"
+  ],
+  "dimensions": {
+    "text": "h. 22.5 cm (8 7/8 in); w. 18 cm (7 1/16 in); th. 3.3 cm (1 3/8 in)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "MMA excavations, 1935–36"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 116"
+  },
+  "description": {
+    "ar": "كسرة فخارية مصرية قديمة، معروفة بـ«Artist's Gridded Sketch of Senenmut»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من حجر جيري وink، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Artist's Gridded Sketch of Senenmut — Ostracon, figured, grid, Senenmut. Period: New Kingdom, Dynasty 18, dated to ca. 1479–1458 B.C.. Medium: Limestone, ink. Dimensions: h. 22.5 cm (8 7/8 in); w. 18 cm (7 1/16 in); th. 3.3 cm (1 3/8 in). Excavation: MMA excavations, 1935–36. Country of origin: Egypt. Credit: Rogers Fund, 1936.",
+    "ar_intro": "كسرة فخارية مصرية قديمة، معروفة بـ«Artist's Gridded Sketch of Senenmut»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من حجر جيري وink، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Artist's Gridded Sketch of Senenmut"
+  },
+  "images": [
+    {
+      "filename": "MET_547684_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DT1534.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Artist's Gridded Sketch of Senenmut",
+      "object_name": "Ostracon, figured, grid, Senenmut"
+    },
+    {
+      "filename": "MET_547684_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/36.3.252_EGDP013666.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Artist's Gridded Sketch of Senenmut",
+      "object_name": "Ostracon, figured, grid, Senenmut"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/547684",
+      "title": "Artist's Gridded Sketch of Senenmut",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "men"
+  ],
+  "related_ids": [
+    "MET_544056",
+    "MET_544453",
+    "MET_544478",
+    "MET_544683",
+    "MET_544686",
+    "MET_544692",
+    "MET_544720",
+    "MET_547687"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي كسرة فخارية (Artist's Gridded Sketch of Senenmut)؟",
+      "a": "كسرة فخارية مصرية قديمة، معروفة بـ«Artist's Gridded Sketch of Senenmut»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من حجر جيري وink، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد كسرة فخارية (Artist's Gridded Sketch of Senenmut) حاليًا؟",
+      "a": "تُحفظ كسرة فخارية (Artist's Gridded Sketch of Senenmut) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود كسرة فخارية (Artist's Gridded Sketch of Senenmut)؟",
+      "a": "تعود كسرة فخارية (Artist's Gridded Sketch of Senenmut) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت كسرة فخارية (Artist's Gridded Sketch of Senenmut)؟",
+      "a": "صُنعت كسرة فخارية (Artist's Gridded Sketch of Senenmut) من حجر جيري وink.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت كسرة فخارية (Artist's Gridded Sketch of Senenmut)؟",
+      "a": "أُحضرت كسرة فخارية (Artist's Gridded Sketch of Senenmut) من MMA excavations, 1935–36.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

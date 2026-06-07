@@ -1,0 +1,123 @@
+{
+  "id": "MET_547031",
+  "names": {
+    "ar": "أدوات تجميل (Cosmetic Box with a Swivel Top)",
+    "en": "Cosmetic Box with a Swivel Top",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Cosmetic box, swivel top",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1550,
+    "year_max": -1458
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة, early",
+    "en": "Dynasty 18, early"
+  },
+  "material": [
+    "Ivory",
+    "Egyptian Blue"
+  ],
+  "dimensions": {
+    "text": "L. 9.2 cm (3 5/8 in.); W. 7.7 cm (3 1/16 in.); H. 3.3cm (1 5/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "MMA excavations, 1915–16"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 114"
+  },
+  "description": {
+    "ar": "أدوات تجميل مصرية قديمة، معروفة بـ«Cosmetic Box with a Swivel Top»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة, early)، مصنوعة من عاج وEgyptian Blue، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Cosmetic Box with a Swivel Top — Cosmetic box, swivel top. Period: New Kingdom, Dynasty 18, early, dated to ca. 1550–1458 B.C.. Medium: Ivory, Egyptian Blue. Dimensions: L. 9.2 cm (3 5/8 in.); W. 7.7 cm (3 1/16 in.); H. 3.3cm (1 5/16 in.). Excavation: MMA excavations, 1915–16. Country of origin: Egypt. Credit: Rogers Fund, 1916.",
+    "ar_intro": "أدوات تجميل مصرية قديمة، معروفة بـ«Cosmetic Box with a Swivel Top»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة, early)، مصنوعة من عاج وEgyptian Blue، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Cosmetic Box with a Swivel Top"
+  },
+  "images": [
+    {
+      "filename": "MET_547031_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP116089.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Cosmetic Box with a Swivel Top",
+      "object_name": "Cosmetic box, swivel top"
+    },
+    {
+      "filename": "MET_547031_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/16.10.425.top_open.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Cosmetic Box with a Swivel Top",
+      "object_name": "Cosmetic box, swivel top"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/547031",
+      "title": "Cosmetic Box with a Swivel Top",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [],
+  "related_ids": [
+    "MET_544451",
+    "MET_545146"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي أدوات تجميل (Cosmetic Box with a Swivel Top)؟",
+      "a": "أدوات تجميل مصرية قديمة، معروفة بـ«Cosmetic Box with a Swivel Top»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة, early)، مصنوعة من عاج وEgyptian Blue، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد أدوات تجميل (Cosmetic Box with a Swivel Top) حاليًا؟",
+      "a": "تُحفظ أدوات تجميل (Cosmetic Box with a Swivel Top) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود أدوات تجميل (Cosmetic Box with a Swivel Top)؟",
+      "a": "تعود أدوات تجميل (Cosmetic Box with a Swivel Top) إلى الأسرة الثامنة عشرة, early.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت أدوات تجميل (Cosmetic Box with a Swivel Top)؟",
+      "a": "صُنعت أدوات تجميل (Cosmetic Box with a Swivel Top) من عاج وEgyptian Blue.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت أدوات تجميل (Cosmetic Box with a Swivel Top)؟",
+      "a": "أُحضرت أدوات تجميل (Cosmetic Box with a Swivel Top) من MMA excavations, 1915–16.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

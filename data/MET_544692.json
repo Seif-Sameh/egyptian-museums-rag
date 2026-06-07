@@ -1,0 +1,125 @@
+{
+  "id": "MET_544692",
+  "names": {
+    "ar": "تمثال (Haremhab as a Scribe of the King)",
+    "en": "Haremhab as a Scribe of the King",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Statue, scribe, Haremhab",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1336,
+    "year_max": -1323
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Granodiorite"
+  ],
+  "dimensions": {
+    "text": "h. 113 cm (44 1/2 in); w. 71 cm (27 15/16 in); d. 55.5 cm (21 7/8 in)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": ""
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 121"
+  },
+  "description": {
+    "ar": "تمثال مصرية قديمة، معروفة بـ«Haremhab as a Scribe of the King»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من جرانوديوريت، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Haremhab as a Scribe of the King — Statue, scribe, Haremhab. Period: New Kingdom, Dynasty 18, dated to ca. 1336–1323 B.C.. Medium: Granodiorite. Dimensions: h. 113 cm (44 1/2 in); w. 71 cm (27 15/16 in); d. 55.5 cm (21 7/8 in). Credit: Gift of Mr. and Mrs. V. Everit Macy, 1923.",
+    "ar_intro": "تمثال مصرية قديمة، معروفة بـ«Haremhab as a Scribe of the King»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من جرانوديوريت، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Haremhab as a Scribe of the King"
+  },
+  "images": [
+    {
+      "filename": "MET_544692_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP238391.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Haremhab as a Scribe of the King",
+      "object_name": "Statue, scribe, Haremhab"
+    },
+    {
+      "filename": "MET_544692_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP238356.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Haremhab as a Scribe of the King",
+      "object_name": "Statue, scribe, Haremhab"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544692",
+      "title": "Haremhab as a Scribe of the King",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "men",
+    "hieroglyphs"
+  ],
+  "related_ids": [
+    "MET_547687",
+    "MET_544056",
+    "MET_544453",
+    "MET_544478",
+    "MET_544683",
+    "MET_544686",
+    "MET_544720",
+    "MET_544826"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال (Haremhab as a Scribe of the King)؟",
+      "a": "تمثال مصرية قديمة، معروفة بـ«Haremhab as a Scribe of the King»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من جرانوديوريت، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال (Haremhab as a Scribe of the King) حاليًا؟",
+      "a": "تُحفظ تمثال (Haremhab as a Scribe of the King) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال (Haremhab as a Scribe of the King)؟",
+      "a": "تعود تمثال (Haremhab as a Scribe of the King) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال (Haremhab as a Scribe of the King)؟",
+      "a": "صُنعت تمثال (Haremhab as a Scribe of the King) من جرانوديوريت.",
+      "evidence": "material",
+      "type": "material"
+    }
+  ],
+  "highlight": false
+}

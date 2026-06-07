@@ -1,0 +1,131 @@
+{
+  "id": "MET_544519",
+  "names": {
+    "ar": "تمثال صغير (Mechanical Dog)",
+    "en": "Mechanical Dog",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Figurine, dog",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1390,
+    "year_max": -1352
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Ivory (elephant)",
+    "paint"
+  ],
+  "dimensions": {
+    "text": "L. 18.2 × H. 6.1 × W. 3.6 cm (7 3/16 × 2 3/8 × 1 7/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 119"
+  },
+  "description": {
+    "ar": "تمثال صغير مصرية قديمة، معروفة بـ«Mechanical Dog»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من Ivory (elephant) وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Mechanical Dog — Figurine, dog. Period: New Kingdom, Dynasty 18, dated to ca. 1390–1352 B.C.. Medium: Ivory (elephant), paint. Dimensions: L. 18.2 × H. 6.1 × W. 3.6 cm (7 3/16 × 2 3/8 × 1 7/16 in.). Country of origin: Egypt. Credit: Rogers Fund, 1940.",
+    "ar_intro": "تمثال صغير مصرية قديمة، معروفة بـ«Mechanical Dog»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من Ivory (elephant) وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Mechanical Dog"
+  },
+  "images": [
+    {
+      "filename": "MET_544519_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/0227r2_SEC501K.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Mechanical Dog",
+      "object_name": "Figurine, dog"
+    },
+    {
+      "filename": "MET_544519_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP228714.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Mechanical Dog",
+      "object_name": "Figurine, dog"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544519",
+      "title": "Mechanical Dog",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "dogs"
+  ],
+  "related_ids": [
+    "MET_544056",
+    "MET_544060",
+    "MET_544068",
+    "MET_544442",
+    "MET_544450",
+    "MET_544453",
+    "MET_544478",
+    "MET_544498"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال صغير (Mechanical Dog)؟",
+      "a": "تمثال صغير مصرية قديمة، معروفة بـ«Mechanical Dog»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من Ivory (elephant) وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال صغير (Mechanical Dog) حاليًا؟",
+      "a": "تُحفظ تمثال صغير (Mechanical Dog) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال صغير (Mechanical Dog)؟",
+      "a": "تعود تمثال صغير (Mechanical Dog) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال صغير (Mechanical Dog)؟",
+      "a": "صُنعت تمثال صغير (Mechanical Dog) من Ivory (elephant) وpaint.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تمثال صغير (Mechanical Dog)؟",
+      "a": "أُحضرت تمثال صغير (Mechanical Dog) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

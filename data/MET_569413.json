@@ -1,0 +1,128 @@
+{
+  "id": "MET_569413",
+  "names": {
+    "ar": "لوحة منقوشة (Plaque with Hathor, Mistress of Iwnw on one side, text on opposite side)",
+    "en": "Plaque with Hathor, Mistress of Iwnw on one side, text on opposite side",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Amulet, plaque, oval",
+  "period": {
+    "ar": "الدولة الحديثة, Ramesside",
+    "en": "New Kingdom, Ramesside",
+    "year_min": -20,
+    "year_max": -19
+  },
+  "dynasty": {
+    "ar": "الأسرة التاسعة عشرة–20",
+    "en": "Dynasty 19–20"
+  },
+  "material": [
+    "Steatite"
+  ],
+  "dimensions": {
+    "text": "L. 1.6 × W. 1.2 × H. 0.5 cm (5/8 × 1/2 × 3/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 122"
+  },
+  "description": {
+    "ar": "لوحة منقوشة مصرية قديمة، معروفة بـ«Plaque with Hathor, Mistress of Iwnw on one side, text on opposite side»، تعود إلى الدولة الحديثة, Ramesside، (الأسرة التاسعة عشرة–20)، مصنوعة من حجر صابوني، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Plaque with Hathor, Mistress of Iwnw on one side, text on opposite side — Amulet, plaque, oval. Period: New Kingdom, Ramesside, Dynasty 19–20, dated to ca. 1295–1070 B.C.. Medium: Steatite. Dimensions: L. 1.6 × W. 1.2 × H. 0.5 cm (5/8 × 1/2 × 3/16 in.). Country of origin: Egypt. Credit: Gift of Darius Ogden Mills, 1904.",
+    "ar_intro": "لوحة منقوشة مصرية قديمة، معروفة بـ«Plaque with Hathor, Mistress of Iwnw on one side, text on opposite side»، تعود إلى الدولة الحديثة, Ramesside، (الأسرة التاسعة عشرة–20)، مصنوعة من حجر صابوني، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Plaque with Hathor, Mistress of Iwnw on one side, text on opposite side"
+  },
+  "images": [
+    {
+      "filename": "MET_569413_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-31064-001.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Plaque with Hathor, Mistress of Iwnw on one side, text on opposite side",
+      "object_name": "Amulet, plaque, oval"
+    },
+    {
+      "filename": "MET_569413_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP-31064-002.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Plaque with Hathor, Mistress of Iwnw on one side, text on opposite side",
+      "object_name": "Amulet, plaque, oval"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/569413",
+      "title": "Plaque with Hathor, Mistress of Iwnw on one side, text on opposite side",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [],
+  "related_ids": [
+    "MET_545919",
+    "MET_555398",
+    "MET_569388",
+    "MET_569389",
+    "MET_569390",
+    "MET_569391",
+    "MET_569392",
+    "MET_569393"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي لوحة منقوشة (Plaque with Hathor, Mistress of Iwnw on one side, text on opposite side)؟",
+      "a": "لوحة منقوشة مصرية قديمة، معروفة بـ«Plaque with Hathor, Mistress of Iwnw on one side, text on opposite side»، تعود إلى الدولة الحديثة, Ramesside، (الأسرة التاسعة عشرة–20)، مصنوعة من حجر صابوني، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد لوحة منقوشة (Plaque with Hathor, Mistress of Iwnw on one side, text on opposite side) حاليًا؟",
+      "a": "تُحفظ لوحة منقوشة (Plaque with Hathor, Mistress of Iwnw on one side, text on opposite side) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود لوحة منقوشة (Plaque with Hathor, Mistress of Iwnw on one side, text on opposite side)؟",
+      "a": "تعود لوحة منقوشة (Plaque with Hathor, Mistress of Iwnw on one side, text on opposite side) إلى الأسرة التاسعة عشرة–20.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت لوحة منقوشة (Plaque with Hathor, Mistress of Iwnw on one side, text on opposite side)؟",
+      "a": "صُنعت لوحة منقوشة (Plaque with Hathor, Mistress of Iwnw on one side, text on opposite side) من حجر صابوني.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت لوحة منقوشة (Plaque with Hathor, Mistress of Iwnw on one side, text on opposite side)؟",
+      "a": "أُحضرت لوحة منقوشة (Plaque with Hathor, Mistress of Iwnw on one side, text on opposite side) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

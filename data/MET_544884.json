@@ -1,0 +1,119 @@
+{
+  "id": "MET_544884",
+  "names": {
+    "ar": "Head fragment, Apries (Fragment of a Royal Head, Probably Apries)",
+    "en": "Fragment of a Royal Head, Probably Apries",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Head fragment, Apries",
+  "period": {
+    "ar": "العصر المتأخر, Saite",
+    "en": "Late Period, Saite",
+    "year_min": -589,
+    "year_max": -570
+  },
+  "dynasty": {
+    "ar": "الأسرة السادسة والعشرون",
+    "en": "Dynasty 26"
+  },
+  "material": [
+    "Black diorite"
+  ],
+  "dimensions": {
+    "text": "H. 30 × W. 21.3 × D. 12.9 cm, 9.6 kg (11 13/16 × 8 3/8 × 5 1/16 in., 21.2 lb.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 127"
+  },
+  "description": {
+    "ar": "Head fragment, Apries مصرية قديمة، معروفة بـ«Fragment of a Royal Head, Probably Apries»، تعود إلى العصر المتأخر, Saite، (الأسرة السادسة والعشرون)، مصنوعة من Black diorite، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Fragment of a Royal Head, Probably Apries — Head fragment, Apries. Period: Late Period, Saite, Dynasty 26, dated to 589–570 B.C.. Medium: Black diorite. Dimensions: H. 30 × W. 21.3 × D. 12.9 cm, 9.6 kg (11 13/16 × 8 3/8 × 5 1/16 in., 21.2 lb.). Country of origin: Egypt. Credit: Purchase, Lila Acheson Wallace Gift, 1994.",
+    "ar_intro": "Head fragment, Apries مصرية قديمة، معروفة بـ«Fragment of a Royal Head, Probably Apries»، تعود إلى العصر المتأخر, Saite، (الأسرة السادسة والعشرون)، مصنوعة من Black diorite، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Fragment of a Royal Head, Probably Apries"
+  },
+  "images": [
+    {
+      "filename": "MET_544884_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DT3837.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Fragment of a Royal Head, Probably Apries",
+      "object_name": "Head fragment, Apries"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544884",
+      "title": "Fragment of a Royal Head, Probably Apries",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "heads"
+  ],
+  "related_ids": [
+    "MET_545213",
+    "MET_546746",
+    "MET_548338",
+    "MET_550755",
+    "MET_553027",
+    "MET_544060",
+    "MET_544453",
+    "MET_544689"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي Head fragment, Apries (Fragment of a Royal Head, Probably Apries)؟",
+      "a": "Head fragment, Apries مصرية قديمة، معروفة بـ«Fragment of a Royal Head, Probably Apries»، تعود إلى العصر المتأخر, Saite، (الأسرة السادسة والعشرون)، مصنوعة من Black diorite، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد Head fragment, Apries (Fragment of a Royal Head, Probably Apries) حاليًا؟",
+      "a": "تُحفظ Head fragment, Apries (Fragment of a Royal Head, Probably Apries) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود Head fragment, Apries (Fragment of a Royal Head, Probably Apries)؟",
+      "a": "تعود Head fragment, Apries (Fragment of a Royal Head, Probably Apries) إلى الأسرة السادسة والعشرون.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت Head fragment, Apries (Fragment of a Royal Head, Probably Apries)؟",
+      "a": "صُنعت Head fragment, Apries (Fragment of a Royal Head, Probably Apries) من Black diorite.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت Head fragment, Apries (Fragment of a Royal Head, Probably Apries)؟",
+      "a": "أُحضرت Head fragment, Apries (Fragment of a Royal Head, Probably Apries) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

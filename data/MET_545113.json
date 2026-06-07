@@ -1,0 +1,117 @@
+{
+  "id": "MET_545113",
+  "names": {
+    "ar": "Palette, brushes, scribe, Smendes (Palette inscribed for Smendes (II), High Priest of Amun)",
+    "en": "Palette inscribed for Smendes (II), High Priest of Amun",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Palette, brushes, scribe, Smendes",
+  "period": {
+    "ar": "عصر الانتقال الثالث",
+    "en": "Third Intermediate Period",
+    "year_min": -1045,
+    "year_max": -992
+  },
+  "dynasty": {
+    "ar": "الأسرة الحادية والعشرون",
+    "en": "Dynasty 21"
+  },
+  "material": [
+    "Wood",
+    "ink",
+    "reed"
+  ],
+  "dimensions": {
+    "text": "Palette: L. 48.6 cm (19 1/8 in.); W. 7.2 cm (2 13/16 in.); Th. 1.1 cm (7/16 in.); Pens: L. 16.5–18 cm (6 1/2 in–7 1/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": ""
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": ""
+  },
+  "description": {
+    "ar": "Palette, brushes, scribe, Smendes مصرية قديمة، معروفة بـ«Palette inscribed for Smendes (II), High Priest of Amun»، تعود إلى عصر الانتقال الثالث، (الأسرة الحادية والعشرون)، مصنوعة من خشب وink وreed، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Palette inscribed for Smendes (II), High Priest of Amun — Palette, brushes, scribe, Smendes. Period: Third Intermediate Period, Dynasty 21, dated to ca. 1045–992 B.C.. Medium: Wood, ink, reed. Dimensions: Palette: L. 48.6 cm (19 1/8 in.); W. 7.2 cm (2 13/16 in.); Th. 1.1 cm (7/16 in.); Pens: L. 16.5–18 cm (6 1/2 in–7 1/16 in.). Credit: Harris Brisbane Dick Fund, 1947.",
+    "ar_intro": "Palette, brushes, scribe, Smendes مصرية قديمة، معروفة بـ«Palette inscribed for Smendes (II), High Priest of Amun»، تعود إلى عصر الانتقال الثالث، (الأسرة الحادية والعشرون)، مصنوعة من خشب وink وreed، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Palette inscribed for Smendes (II), High Priest of Amun"
+  },
+  "images": [
+    {
+      "filename": "MET_545113_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP234747.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Palette inscribed for Smendes (II), High Priest of Amun",
+      "object_name": "Palette, brushes, scribe, Smendes"
+    },
+    {
+      "filename": "MET_545113_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP238438.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Palette inscribed for Smendes (II), High Priest of Amun",
+      "object_name": "Palette, brushes, scribe, Smendes"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/545113",
+      "title": "Palette inscribed for Smendes (II), High Priest of Amun",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [],
+  "related_ids": [
+    "MET_548344"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي Palette, brushes, scribe, Smendes (Palette inscribed for Smendes (II), High Priest of Amun)؟",
+      "a": "Palette, brushes, scribe, Smendes مصرية قديمة، معروفة بـ«Palette inscribed for Smendes (II), High Priest of Amun»، تعود إلى عصر الانتقال الثالث، (الأسرة الحادية والعشرون)، مصنوعة من خشب وink وreed، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد Palette, brushes, scribe, Smendes (Palette inscribed for Smendes (II), High Priest of Amun) حاليًا؟",
+      "a": "تُحفظ Palette, brushes, scribe, Smendes (Palette inscribed for Smendes (II), High Priest of Amun) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود Palette, brushes, scribe, Smendes (Palette inscribed for Smendes (II), High Priest of Amun)؟",
+      "a": "تعود Palette, brushes, scribe, Smendes (Palette inscribed for Smendes (II), High Priest of Amun) إلى الأسرة الحادية والعشرون.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت Palette, brushes, scribe, Smendes (Palette inscribed for Smendes (II), High Priest of Amun)؟",
+      "a": "صُنعت Palette, brushes, scribe, Smendes (Palette inscribed for Smendes (II), High Priest of Amun) من خشب وink وreed.",
+      "evidence": "material",
+      "type": "material"
+    }
+  ],
+  "highlight": false
+}

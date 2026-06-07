@@ -1,0 +1,132 @@
+{
+  "id": "MET_544068",
+  "names": {
+    "ar": "تمثال صغير (Gazelle)",
+    "en": "Gazelle",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Figurine, Gazelle",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1390,
+    "year_max": -1352
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Ivory (elephant)",
+    "wood",
+    "blue-pigment inlay"
+  ],
+  "dimensions": {
+    "text": "H. 11.6 × W. 9.7 × D. 5 cm (4 9/16 × 3 13/16 × 1 15/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 119"
+  },
+  "description": {
+    "ar": "تمثال صغير مصرية قديمة، معروفة بـ«Gazelle»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من Ivory (elephant) وwood وblue-pigment inlay، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Gazelle — Figurine, Gazelle. Period: New Kingdom, Dynasty 18, dated to ca. 1390–1352 B.C.. Medium: Ivory (elephant), wood, blue-pigment inlay. Dimensions: H. 11.6 × W. 9.7 × D. 5 cm (4 9/16 × 3 13/16 × 1 15/16 in.). Country of origin: Egypt. Credit: Purchase, Edward S. Harkness Gift, 1926.",
+    "ar_intro": "تمثال صغير مصرية قديمة، معروفة بـ«Gazelle»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من Ivory (elephant) وwood وblue-pigment inlay، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Gazelle"
+  },
+  "images": [
+    {
+      "filename": "MET_544068_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-17702-001.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Gazelle",
+      "object_name": "Figurine, Gazelle"
+    },
+    {
+      "filename": "MET_544068_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DT8833.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Gazelle",
+      "object_name": "Figurine, Gazelle"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544068",
+      "title": "Gazelle",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "animals"
+  ],
+  "related_ids": [
+    "MET_548584",
+    "MET_544056",
+    "MET_544060",
+    "MET_544442",
+    "MET_544450",
+    "MET_544453",
+    "MET_544478",
+    "MET_544498"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال صغير (Gazelle)؟",
+      "a": "تمثال صغير مصرية قديمة، معروفة بـ«Gazelle»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من Ivory (elephant) وwood وblue-pigment inlay، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال صغير (Gazelle) حاليًا؟",
+      "a": "تُحفظ تمثال صغير (Gazelle) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال صغير (Gazelle)؟",
+      "a": "تعود تمثال صغير (Gazelle) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال صغير (Gazelle)؟",
+      "a": "صُنعت تمثال صغير (Gazelle) من Ivory (elephant) وwood وblue-pigment inlay.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تمثال صغير (Gazelle)؟",
+      "a": "أُحضرت تمثال صغير (Gazelle) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

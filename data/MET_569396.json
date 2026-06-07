@@ -1,0 +1,128 @@
+{
+  "id": "MET_569396",
+  "names": {
+    "ar": "جعران (Scaraboid)",
+    "en": "Scaraboid",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Scaraboid, human face",
+  "period": {
+    "ar": "الدولة الحديثة, Ramesside",
+    "en": "New Kingdom, Ramesside",
+    "year_min": -20,
+    "year_max": -19
+  },
+  "dynasty": {
+    "ar": "الأسرة التاسعة عشرة–20",
+    "en": "Dynasty 19–20"
+  },
+  "material": [
+    "Faience"
+  ],
+  "dimensions": {
+    "text": "L. 1.9 × W. 1.5 × H. 0.7 cm (3/4 × 9/16 × 1/4 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 122"
+  },
+  "description": {
+    "ar": "جعران مصرية قديمة، معروفة بـ«Scaraboid»، تعود إلى الدولة الحديثة, Ramesside، (الأسرة التاسعة عشرة–20)، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Scaraboid — Scaraboid, human face. Period: New Kingdom, Ramesside, Dynasty 19–20, dated to ca. 1295–1070 B.C.. Medium: Faience. Dimensions: L. 1.9 × W. 1.5 × H. 0.7 cm (3/4 × 9/16 × 1/4 in.). Country of origin: Egypt. Credit: Gift of Joseph W. Drexel, 1889.",
+    "ar_intro": "جعران مصرية قديمة، معروفة بـ«Scaraboid»، تعود إلى الدولة الحديثة, Ramesside، (الأسرة التاسعة عشرة–20)، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Scaraboid"
+  },
+  "images": [
+    {
+      "filename": "MET_569396_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-31046-002.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Scaraboid",
+      "object_name": "Scaraboid, human face"
+    },
+    {
+      "filename": "MET_569396_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP-31046-001.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Scaraboid",
+      "object_name": "Scaraboid, human face"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/569396",
+      "title": "Scaraboid",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [],
+  "related_ids": [
+    "MET_545919",
+    "MET_555398",
+    "MET_569388",
+    "MET_569389",
+    "MET_569390",
+    "MET_569391",
+    "MET_569392",
+    "MET_569393"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي جعران (Scaraboid)؟",
+      "a": "جعران مصرية قديمة، معروفة بـ«Scaraboid»، تعود إلى الدولة الحديثة, Ramesside، (الأسرة التاسعة عشرة–20)، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد جعران (Scaraboid) حاليًا؟",
+      "a": "تُحفظ جعران (Scaraboid) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود جعران (Scaraboid)؟",
+      "a": "تعود جعران (Scaraboid) إلى الأسرة التاسعة عشرة–20.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت جعران (Scaraboid)؟",
+      "a": "صُنعت جعران (Scaraboid) من خزف فاينس.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت جعران (Scaraboid)؟",
+      "a": "أُحضرت جعران (Scaraboid) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

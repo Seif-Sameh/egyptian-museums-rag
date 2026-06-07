@@ -1,0 +1,121 @@
+{
+  "id": "MET_587598",
+  "names": {
+    "ar": "تمثال (Statue of the God Ptah)",
+    "en": "Statue of the God Ptah",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Statue, Ptah",
+  "period": {
+    "ar": "عصر الانتقال الثالث",
+    "en": "Third Intermediate Period",
+    "year_min": -1070,
+    "year_max": -712
+  },
+  "dynasty": {
+    "ar": "",
+    "en": ""
+  },
+  "material": [
+    "Bronze",
+    "gold leaf",
+    "glass"
+  ],
+  "dimensions": {
+    "text": "H. 30 × W. 9.5 × D. 5.5 cm (11 13/16 × 3 3/4 × 2 3/16 in.); H. (with tang): 31.9 cm (12 9/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 123"
+  },
+  "description": {
+    "ar": "تمثال مصرية قديمة، معروفة بـ«Statue of the God Ptah»، تعود إلى عصر الانتقال الثالث، مصنوعة من برونز وgold leaf وglass، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Statue of the God Ptah — Statue, Ptah. Period: Third Intermediate Period, dated to ca. 1070–712 BCE. Medium: Bronze, gold leaf, glass. Dimensions: H. 30 × W. 9.5 × D. 5.5 cm (11 13/16 × 3 3/4 × 2 3/16 in.); H. (with tang): 31.9 cm (12 9/16 in.). Country of origin: Egypt. Credit: Purchase, Gift in memory of Manuel Schnitzer, 2009.",
+    "ar_intro": "تمثال مصرية قديمة، معروفة بـ«Statue of the God Ptah»، تعود إلى عصر الانتقال الثالث، مصنوعة من برونز وgold leaf وglass، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Statue of the God Ptah"
+  },
+  "images": [
+    {
+      "filename": "MET_587598_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP216330.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Statue of the God Ptah",
+      "object_name": "Statue, Ptah"
+    },
+    {
+      "filename": "MET_587598_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP216331.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Statue of the God Ptah",
+      "object_name": "Statue, Ptah"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/587598",
+      "title": "Statue of the God Ptah",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [],
+  "related_ids": [],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال (Statue of the God Ptah)؟",
+      "a": "تمثال مصرية قديمة، معروفة بـ«Statue of the God Ptah»، تعود إلى عصر الانتقال الثالث، مصنوعة من برونز وgold leaf وglass، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال (Statue of the God Ptah) حاليًا؟",
+      "a": "تُحفظ تمثال (Statue of the God Ptah) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال (Statue of the God Ptah)؟",
+      "a": "تعود تمثال (Statue of the God Ptah) إلى عصر الانتقال الثالث.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال (Statue of the God Ptah)؟",
+      "a": "صُنعت تمثال (Statue of the God Ptah) من برونز وgold leaf وglass.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تمثال (Statue of the God Ptah)؟",
+      "a": "أُحضرت تمثال (Statue of the God Ptah) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

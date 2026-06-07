@@ -1,0 +1,117 @@
+{
+  "id": "MET_554772",
+  "names": {
+    "ar": "Architectural ornament, cobra head (Cobra head for architectural frieze)",
+    "en": "Cobra head for architectural frieze",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Architectural ornament, cobra head",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1550,
+    "year_max": -1295
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Faience"
+  ],
+  "dimensions": {
+    "text": "L. 5.1 cm (2 in)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 117"
+  },
+  "description": {
+    "ar": "Architectural ornament, cobra head مصرية قديمة، معروفة بـ«Cobra head for architectural frieze»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Cobra head for architectural frieze — Architectural ornament, cobra head. Period: New Kingdom, Dynasty 18, dated to ca. 1550–1295 B.C.. Medium: Faience. Dimensions: L. 5.1 cm (2 in). Country of origin: Egypt. Credit: Funds from various donors, 1886.",
+    "ar_intro": "Architectural ornament, cobra head مصرية قديمة، معروفة بـ«Cobra head for architectural frieze»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Cobra head for architectural frieze"
+  },
+  "images": [
+    {
+      "filename": "MET_554772_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/86.1.59_acc.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Cobra head for architectural frieze",
+      "object_name": "Architectural ornament, cobra head"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/554772",
+      "title": "Cobra head for architectural frieze",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [],
+  "related_ids": [
+    "MET_544056",
+    "MET_544060",
+    "MET_544068",
+    "MET_544442",
+    "MET_544450",
+    "MET_544453",
+    "MET_544478",
+    "MET_544498"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي Architectural ornament, cobra head (Cobra head for architectural frieze)؟",
+      "a": "Architectural ornament, cobra head مصرية قديمة، معروفة بـ«Cobra head for architectural frieze»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد Architectural ornament, cobra head (Cobra head for architectural frieze) حاليًا؟",
+      "a": "تُحفظ Architectural ornament, cobra head (Cobra head for architectural frieze) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود Architectural ornament, cobra head (Cobra head for architectural frieze)؟",
+      "a": "تعود Architectural ornament, cobra head (Cobra head for architectural frieze) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت Architectural ornament, cobra head (Cobra head for architectural frieze)؟",
+      "a": "صُنعت Architectural ornament, cobra head (Cobra head for architectural frieze) من خزف فاينس.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت Architectural ornament, cobra head (Cobra head for architectural frieze)؟",
+      "a": "أُحضرت Architectural ornament, cobra head (Cobra head for architectural frieze) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

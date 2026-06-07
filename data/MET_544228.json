@@ -1,0 +1,133 @@
+{
+  "id": "MET_544228",
+  "names": {
+    "ar": "سوار (Scarab of the Storehouse Overseer Wah)",
+    "en": "Scarab of the Storehouse Overseer Wah",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Scarab, bracelet, Wah",
+  "period": {
+    "ar": "الدولة الوسطى",
+    "en": "Middle Kingdom",
+    "year_min": -1981,
+    "year_max": -1975
+  },
+  "dynasty": {
+    "ar": "الأسرة الثانية عشرة",
+    "en": "Dynasty 12"
+  },
+  "material": [
+    "Silver",
+    "electrum",
+    "glazed steatite",
+    "linen cord"
+  ],
+  "dimensions": {
+    "text": "scarab: l. 3.9 cm (1 1/2 in.); w. 2.7 cm (1 1/16 in.); h. 2.5 cm (1 in.); barrel bead: l. 1.4 cm (9/16 in.); diam. 1 cm (3/8 in.); cylindrical bead: l. 1.9 cm (3/4 in.); 0.8 cm (5/16 in.)\r\noverall length: 43 cm (16 15/16 in)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "MMA excavations, 1920"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": ""
+  },
+  "description": {
+    "ar": "سوار مصرية قديمة، معروفة بـ«Scarab of the Storehouse Overseer Wah»، تعود إلى الدولة الوسطى، (الأسرة الثانية عشرة)، مصنوعة من فضة وelectrum وglazed steatite وlinen cord، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Scarab of the Storehouse Overseer Wah — Scarab, bracelet, Wah. Period: Middle Kingdom, Dynasty 12, dated to ca. 1981–1975 B.C.. Medium: Silver, electrum, glazed steatite, linen cord. Dimensions: scarab: l. 3.9 cm (1 1/2 in.); w. 2.7 cm (1 1/16 in.); h. 2.5 cm (1 in.); barrel bead: l. 1.4 cm (9/16 in.); diam. 1 cm (3/8 in.); cylindrical bead: l. 1.9 cm (3/4 in.); 0.8 cm (5/16 in.)\r\noverall length: 43 cm (16 15/16 in). Excavation: MMA excavations, 1920. Country of origin: Egypt. Credit: Rogers Fund and Edward S. Harkness Gift, 1940.",
+    "ar_intro": "سوار مصرية قديمة، معروفة بـ«Scarab of the Storehouse Overseer Wah»، تعود إلى الدولة الوسطى، (الأسرة الثانية عشرة)، مصنوعة من فضة وelectrum وglazed steatite وlinen cord، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Scarab of the Storehouse Overseer Wah"
+  },
+  "images": [
+    {
+      "filename": "MET_544228_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP307899.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Scarab of the Storehouse Overseer Wah",
+      "object_name": "Scarab, bracelet, Wah"
+    },
+    {
+      "filename": "MET_544228_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP323241.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Scarab of the Storehouse Overseer Wah",
+      "object_name": "Scarab, bracelet, Wah"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544228",
+      "title": "Scarab of the Storehouse Overseer Wah",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "hieroglyphs"
+  ],
+  "related_ids": [
+    "MET_544186",
+    "MET_544232",
+    "MET_544320",
+    "MET_543864",
+    "MET_543867",
+    "MET_544184",
+    "MET_544210",
+    "MET_544214"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي سوار (Scarab of the Storehouse Overseer Wah)؟",
+      "a": "سوار مصرية قديمة، معروفة بـ«Scarab of the Storehouse Overseer Wah»، تعود إلى الدولة الوسطى، (الأسرة الثانية عشرة)، مصنوعة من فضة وelectrum وglazed steatite وlinen cord، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد سوار (Scarab of the Storehouse Overseer Wah) حاليًا؟",
+      "a": "تُحفظ سوار (Scarab of the Storehouse Overseer Wah) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود سوار (Scarab of the Storehouse Overseer Wah)؟",
+      "a": "تعود سوار (Scarab of the Storehouse Overseer Wah) إلى الأسرة الثانية عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت سوار (Scarab of the Storehouse Overseer Wah)؟",
+      "a": "صُنعت سوار (Scarab of the Storehouse Overseer Wah) من فضة وelectrum وglazed steatite وlinen cord.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت سوار (Scarab of the Storehouse Overseer Wah)؟",
+      "a": "أُحضرت سوار (Scarab of the Storehouse Overseer Wah) من MMA excavations, 1920.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

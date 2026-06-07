@@ -1,0 +1,128 @@
+{
+  "id": "MET_555605",
+  "names": {
+    "ar": "تميمة (\"Opening of the Mouth\", Peseshkef  tool amulet)",
+    "en": "\"Opening of the Mouth\", Peseshkef  tool amulet",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Amulet, \"Opening of the Mouth\" Peseshkef",
+  "period": {
+    "ar": "Late الدولة القديمة–Early الدولة الوسطى",
+    "en": "Late Old Kingdom–Early Middle Kingdom",
+    "year_min": -12,
+    "year_max": -8
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة–12",
+    "en": "Dynasty 8–12"
+  },
+  "material": [
+    "Ivory or bone"
+  ],
+  "dimensions": {
+    "text": "H. 1.9 × W. 1.1 × D. 0.7 cm (3/4 × 7/16 × 1/4 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 103"
+  },
+  "description": {
+    "ar": "تميمة مصرية قديمة، معروفة بـ«\"Opening of the Mouth\", Peseshkef  tool amulet»، تعود إلى Late الدولة القديمة–Early الدولة الوسطى، (الأسرة الثامنة–12)، مصنوعة من Ivory or bone، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "\"Opening of the Mouth\", Peseshkef  tool amulet — Amulet, \"Opening of the Mouth\" Peseshkef. Period: Late Old Kingdom–Early Middle Kingdom, Dynasty 8–12, dated to ca. 2150–1950 B.C.. Medium: Ivory or bone. Dimensions: H. 1.9 × W. 1.1 × D. 0.7 cm (3/4 × 7/16 × 1/4 in.). Country of origin: Egypt. Credit: Rogers Fund, 1959.",
+    "ar_intro": "تميمة مصرية قديمة، معروفة بـ«\"Opening of the Mouth\", Peseshkef  tool amulet»، تعود إلى Late الدولة القديمة–Early الدولة الوسطى، (الأسرة الثامنة–12)، مصنوعة من Ivory or bone، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "\"Opening of the Mouth\", Peseshkef  tool amulet"
+  },
+  "images": [
+    {
+      "filename": "MET_555605_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/LC-59_100_16_EGDP036691.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "\"Opening of the Mouth\", Peseshkef  tool amulet",
+      "object_name": "Amulet, \"Opening of the Mouth\" Peseshkef"
+    },
+    {
+      "filename": "MET_555605_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/LC-59_100_16_EGDP036692.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "\"Opening of the Mouth\", Peseshkef  tool amulet",
+      "object_name": "Amulet, \"Opening of the Mouth\" Peseshkef"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/555605",
+      "title": "\"Opening of the Mouth\", Peseshkef  tool amulet",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [],
+  "related_ids": [
+    "MET_552061",
+    "MET_552062",
+    "MET_555577",
+    "MET_555578",
+    "MET_555579",
+    "MET_555580",
+    "MET_555581",
+    "MET_555582"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تميمة (\"Opening of the Mouth\", Peseshkef  tool amulet)؟",
+      "a": "تميمة مصرية قديمة، معروفة بـ«\"Opening of the Mouth\", Peseshkef  tool amulet»، تعود إلى Late الدولة القديمة–Early الدولة الوسطى، (الأسرة الثامنة–12)، مصنوعة من Ivory or bone، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تميمة (\"Opening of the Mouth\", Peseshkef  tool amulet) حاليًا؟",
+      "a": "تُحفظ تميمة (\"Opening of the Mouth\", Peseshkef  tool amulet) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تميمة (\"Opening of the Mouth\", Peseshkef  tool amulet)؟",
+      "a": "تعود تميمة (\"Opening of the Mouth\", Peseshkef  tool amulet) إلى الأسرة الثامنة–12.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تميمة (\"Opening of the Mouth\", Peseshkef  tool amulet)؟",
+      "a": "صُنعت تميمة (\"Opening of the Mouth\", Peseshkef  tool amulet) من Ivory or bone.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تميمة (\"Opening of the Mouth\", Peseshkef  tool amulet)؟",
+      "a": "أُحضرت تميمة (\"Opening of the Mouth\", Peseshkef  tool amulet) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

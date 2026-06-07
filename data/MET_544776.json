@@ -1,0 +1,122 @@
+{
+  "id": "MET_544776",
+  "names": {
+    "ar": "لوحة (Votive stela of Userhat)",
+    "en": "Votive stela of Userhat",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Stela, Userhat",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1327,
+    "year_max": -1295
+  },
+  "dynasty": {
+    "ar": "late الأسرة الثامنة عشرة",
+    "en": "late Dynasty 18"
+  },
+  "material": [
+    "Limestone",
+    "paint"
+  ],
+  "dimensions": {
+    "text": "H. 42.5 cm (16 3/4 in); w. 48 cm (18 7/8 in)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt Exploration Society excavations, 1905"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 121"
+  },
+  "description": {
+    "ar": "لوحة مصرية قديمة، معروفة بـ«Votive stela of Userhat»، تعود إلى الدولة الحديثة، (late الأسرة الثامنة عشرة)، مصنوعة من حجر جيري وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Votive stela of Userhat — Stela, Userhat. Period: New Kingdom, late Dynasty 18, dated to 1327–1295 BC. Medium: Limestone, paint. Dimensions: H. 42.5 cm (16 3/4 in); w. 48 cm (18 7/8 in). Excavation: Egypt Exploration Society excavations, 1905. Country of origin: Egypt. Credit: Gift of Egypt Exploration Fund, 1905.",
+    "ar_intro": "لوحة مصرية قديمة، معروفة بـ«Votive stela of Userhat»، تعود إلى الدولة الحديثة، (late الأسرة الثامنة عشرة)، مصنوعة من حجر جيري وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Votive stela of Userhat"
+  },
+  "images": [
+    {
+      "filename": "MET_544776_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP226728.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Votive stela of Userhat",
+      "object_name": "Stela, Userhat"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544776",
+      "title": "Votive stela of Userhat",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "men",
+    "women",
+    "hieroglyphs"
+  ],
+  "related_ids": [
+    "MET_544740",
+    "MET_543899",
+    "MET_543901",
+    "MET_544320",
+    "MET_544692",
+    "MET_544766",
+    "MET_547687",
+    "MET_547694"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي لوحة (Votive stela of Userhat)؟",
+      "a": "لوحة مصرية قديمة، معروفة بـ«Votive stela of Userhat»، تعود إلى الدولة الحديثة، (late الأسرة الثامنة عشرة)، مصنوعة من حجر جيري وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد لوحة (Votive stela of Userhat) حاليًا؟",
+      "a": "تُحفظ لوحة (Votive stela of Userhat) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود لوحة (Votive stela of Userhat)؟",
+      "a": "تعود لوحة (Votive stela of Userhat) إلى late الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت لوحة (Votive stela of Userhat)؟",
+      "a": "صُنعت لوحة (Votive stela of Userhat) من حجر جيري وpaint.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت لوحة (Votive stela of Userhat)؟",
+      "a": "أُحضرت لوحة (Votive stela of Userhat) من Egypt Exploration Society excavations, 1905.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

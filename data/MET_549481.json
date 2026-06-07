@@ -1,0 +1,119 @@
+{
+  "id": "MET_549481",
+  "names": {
+    "ar": "ترصيع (Inlay Depicting a Bunch of Grapes)",
+    "en": "Inlay Depicting a Bunch of Grapes",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Inlay, grapes",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1479,
+    "year_max": -1458
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Faience"
+  ],
+  "dimensions": {
+    "text": "L. 4 cm (1 9/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt Exploration Fund excavations"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 117"
+  },
+  "description": {
+    "ar": "ترصيع مصرية قديمة، معروفة بـ«Inlay Depicting a Bunch of Grapes»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Inlay Depicting a Bunch of Grapes — Inlay, grapes. Period: New Kingdom, Dynasty 18, dated to ca. 1479–1458 B.C.. Medium: Faience. Dimensions: L. 4 cm (1 9/16 in.). Excavation: Egypt Exploration Fund excavations. Country of origin: Egypt. Credit: Gift of Egypt Exploration Fund, 1907.",
+    "ar_intro": "ترصيع مصرية قديمة، معروفة بـ«Inlay Depicting a Bunch of Grapes»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Inlay Depicting a Bunch of Grapes"
+  },
+  "images": [
+    {
+      "filename": "MET_549481_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/07.230.34_EGDP010807.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Inlay Depicting a Bunch of Grapes",
+      "object_name": "Inlay, grapes"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/549481",
+      "title": "Inlay Depicting a Bunch of Grapes",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "grapes"
+  ],
+  "related_ids": [
+    "MET_544056",
+    "MET_544060",
+    "MET_544068",
+    "MET_544442",
+    "MET_544450",
+    "MET_544453",
+    "MET_544478",
+    "MET_544498"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي ترصيع (Inlay Depicting a Bunch of Grapes)؟",
+      "a": "ترصيع مصرية قديمة، معروفة بـ«Inlay Depicting a Bunch of Grapes»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد ترصيع (Inlay Depicting a Bunch of Grapes) حاليًا؟",
+      "a": "تُحفظ ترصيع (Inlay Depicting a Bunch of Grapes) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود ترصيع (Inlay Depicting a Bunch of Grapes)؟",
+      "a": "تعود ترصيع (Inlay Depicting a Bunch of Grapes) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت ترصيع (Inlay Depicting a Bunch of Grapes)؟",
+      "a": "صُنعت ترصيع (Inlay Depicting a Bunch of Grapes) من خزف فاينس.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت ترصيع (Inlay Depicting a Bunch of Grapes)؟",
+      "a": "أُحضرت ترصيع (Inlay Depicting a Bunch of Grapes) من Egypt Exploration Fund excavations.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

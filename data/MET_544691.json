@@ -1,0 +1,126 @@
+{
+  "id": "MET_544691",
+  "names": {
+    "ar": "Head, Amun, Tutankhamun (Head of the god Amun)",
+    "en": "Head of the god Amun",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Head, Amun, Tutankhamun",
+  "period": {
+    "ar": "الدولة الحديثة, post-Amarna Period",
+    "en": "New Kingdom, post-Amarna Period",
+    "year_min": -1336,
+    "year_max": -1327
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Granodiorite"
+  ],
+  "dimensions": {
+    "text": "H. 44 cm (17 5/16 in.), W. 38.2 (15 1/16 in.); D. 41.5 (16 5/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": ""
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 121"
+  },
+  "description": {
+    "ar": "Head, Amun, Tutankhamun مصرية قديمة، معروفة بـ«Head of the god Amun»، تعود إلى الدولة الحديثة, post-Amarna Period، (الأسرة الثامنة عشرة)، مصنوعة من جرانوديوريت، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Head of the god Amun — Head, Amun, Tutankhamun. Period: New Kingdom, post-Amarna Period, Dynasty 18, dated to ca. 1336–1327 B.C.. Medium: Granodiorite. Dimensions: H. 44 cm (17 5/16 in.), W. 38.2 (15 1/16 in.); D. 41.5 (16 5/16 in.). Credit: Rogers Fund, 1907.",
+    "ar_intro": "Head, Amun, Tutankhamun مصرية قديمة، معروفة بـ«Head of the god Amun»، تعود إلى الدولة الحديثة, post-Amarna Period، (الأسرة الثامنة عشرة)، مصنوعة من جرانوديوريت، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Head of the god Amun"
+  },
+  "images": [
+    {
+      "filename": "MET_544691_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DT11639.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Head of the god Amun",
+      "object_name": "Head, Amun, Tutankhamun"
+    },
+    {
+      "filename": "MET_544691_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DT11641.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Head of the god Amun",
+      "object_name": "Head, Amun, Tutankhamun"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544691",
+      "title": "Head of the god Amun",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "heads",
+    "amun",
+    "gods"
+  ],
+  "related_ids": [
+    "MET_544690",
+    "MET_544781",
+    "MET_544782",
+    "TUT_DAGGER",
+    "TUT_MASK",
+    "MET_544060",
+    "MET_544453",
+    "MET_544689"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي Head, Amun, Tutankhamun (Head of the god Amun)؟",
+      "a": "Head, Amun, Tutankhamun مصرية قديمة، معروفة بـ«Head of the god Amun»، تعود إلى الدولة الحديثة, post-Amarna Period، (الأسرة الثامنة عشرة)، مصنوعة من جرانوديوريت، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد Head, Amun, Tutankhamun (Head of the god Amun) حاليًا؟",
+      "a": "تُحفظ Head, Amun, Tutankhamun (Head of the god Amun) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود Head, Amun, Tutankhamun (Head of the god Amun)؟",
+      "a": "تعود Head, Amun, Tutankhamun (Head of the god Amun) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت Head, Amun, Tutankhamun (Head of the god Amun)؟",
+      "a": "صُنعت Head, Amun, Tutankhamun (Head of the god Amun) من جرانوديوريت.",
+      "evidence": "material",
+      "type": "material"
+    }
+  ],
+  "highlight": true
+}

@@ -1,0 +1,132 @@
+{
+  "id": "MET_545146",
+  "names": {
+    "ar": "جعران (Heart Scarab of Hatnefer)",
+    "en": "Heart Scarab of Hatnefer",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Heart Scarab, Hatnefer",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1492,
+    "year_max": -1473
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة, early",
+    "en": "Dynasty 18, early"
+  },
+  "material": [
+    "Serpentinite",
+    "gold"
+  ],
+  "dimensions": {
+    "text": "Scarab: L. 6.6 cm (2 5/8 in.); W. 5.3 cm (2 1/16 in.); H. 2.8 cm (1 1/8 in.); Chain: L. 77.5 cm (30.1/2 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "MMA excavations, 1935–36"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 116"
+  },
+  "description": {
+    "ar": "جعران مصرية قديمة، معروفة بـ«Heart Scarab of Hatnefer»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة, early)، مصنوعة من Serpentinite وgold، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Heart Scarab of Hatnefer — Heart Scarab, Hatnefer. Period: New Kingdom, Dynasty 18, early, dated to ca. 1492–1473 B.C.. Medium: Serpentinite, gold. Dimensions: Scarab: L. 6.6 cm (2 5/8 in.); W. 5.3 cm (2 1/16 in.); H. 2.8 cm (1 1/8 in.); Chain: L. 77.5 cm (30.1/2 in.). Excavation: MMA excavations, 1935–36. Country of origin: Egypt. Credit: Rogers Fund, 1936.",
+    "ar_intro": "جعران مصرية قديمة، معروفة بـ«Heart Scarab of Hatnefer»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة, early)، مصنوعة من Serpentinite وgold، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Heart Scarab of Hatnefer"
+  },
+  "images": [
+    {
+      "filename": "MET_545146_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DT535.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Heart Scarab of Hatnefer",
+      "object_name": "Heart Scarab, Hatnefer"
+    },
+    {
+      "filename": "MET_545146_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/eg36.3.2.AV1.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Heart Scarab of Hatnefer",
+      "object_name": "Heart Scarab, Hatnefer"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/545146",
+      "title": "Heart Scarab of Hatnefer",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "hieroglyphs",
+    "scarabs"
+  ],
+  "related_ids": [
+    "MET_544451",
+    "MET_547031",
+    "MET_544186",
+    "MET_544228",
+    "MET_544232",
+    "MET_544320",
+    "MET_544326",
+    "MET_544692"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي جعران (Heart Scarab of Hatnefer)؟",
+      "a": "جعران مصرية قديمة، معروفة بـ«Heart Scarab of Hatnefer»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة, early)، مصنوعة من Serpentinite وgold، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد جعران (Heart Scarab of Hatnefer) حاليًا؟",
+      "a": "تُحفظ جعران (Heart Scarab of Hatnefer) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود جعران (Heart Scarab of Hatnefer)؟",
+      "a": "تعود جعران (Heart Scarab of Hatnefer) إلى الأسرة الثامنة عشرة, early.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت جعران (Heart Scarab of Hatnefer)؟",
+      "a": "صُنعت جعران (Heart Scarab of Hatnefer) من Serpentinite وgold.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت جعران (Heart Scarab of Hatnefer)؟",
+      "a": "أُحضرت جعران (Heart Scarab of Hatnefer) من MMA excavations, 1935–36.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

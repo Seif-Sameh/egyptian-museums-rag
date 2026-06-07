@@ -1,0 +1,124 @@
+{
+  "id": "MET_546037",
+  "names": {
+    "ar": "لوحة (Magical Stela with Horus the Child)",
+    "en": "Magical Stela with Horus the Child",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Cippus, Cippus of Horus; Metternich",
+  "period": {
+    "ar": "العصر المتأخر",
+    "en": "Late Period",
+    "year_min": -360,
+    "year_max": -343
+  },
+  "dynasty": {
+    "ar": "الأسرة الثلاثون",
+    "en": "Dynasty 30"
+  },
+  "material": [
+    "Metagraywacke"
+  ],
+  "dimensions": {
+    "text": "H. 83.5 × W. 33.5 × D. 14.4 cm, 52.6 kg (32 7/8 × 13 3/16 × 5 11/16 in., 116 lb.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": ""
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 128"
+  },
+  "description": {
+    "ar": "لوحة مصرية قديمة، معروفة بـ«Magical Stela with Horus the Child»، تعود إلى العصر المتأخر، (الأسرة الثلاثون)، مصنوعة من Metagraywacke، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Magical Stela with Horus the Child — Cippus, Cippus of Horus; Metternich. Period: Late Period, Dynasty 30, dated to 360–343 BCE. Medium: Metagraywacke. Dimensions: H. 83.5 × W. 33.5 × D. 14.4 cm, 52.6 kg (32 7/8 × 13 3/16 × 5 11/16 in., 116 lb.). Credit: Fletcher Fund, 1950.",
+    "ar_intro": "لوحة مصرية قديمة، معروفة بـ«Magical Stela with Horus the Child»، تعود إلى العصر المتأخر، (الأسرة الثلاثون)، مصنوعة من Metagraywacke، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Magical Stela with Horus the Child"
+  },
+  "images": [
+    {
+      "filename": "MET_546037_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-38634-001.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Magical Stela with Horus the Child",
+      "object_name": "Cippus, Cippus of Horus; Metternich"
+    },
+    {
+      "filename": "MET_546037_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP-38634-003.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Magical Stela with Horus the Child",
+      "object_name": "Cippus, Cippus of Horus; Metternich"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/546037",
+      "title": "Magical Stela with Horus the Child",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "bes",
+    "horus",
+    "isis"
+  ],
+  "related_ids": [
+    "MET_544887",
+    "MET_547556",
+    "MET_548264",
+    "MET_548310",
+    "MET_548344",
+    "MET_547904"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي لوحة (Magical Stela with Horus the Child)؟",
+      "a": "لوحة مصرية قديمة، معروفة بـ«Magical Stela with Horus the Child»، تعود إلى العصر المتأخر، (الأسرة الثلاثون)، مصنوعة من Metagraywacke، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد لوحة (Magical Stela with Horus the Child) حاليًا؟",
+      "a": "تُحفظ لوحة (Magical Stela with Horus the Child) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود لوحة (Magical Stela with Horus the Child)؟",
+      "a": "تعود لوحة (Magical Stela with Horus the Child) إلى الأسرة الثلاثون.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت لوحة (Magical Stela with Horus the Child)؟",
+      "a": "صُنعت لوحة (Magical Stela with Horus the Child) من Metagraywacke.",
+      "evidence": "material",
+      "type": "material"
+    }
+  ],
+  "highlight": false
+}

@@ -1,0 +1,126 @@
+{
+  "id": "MET_547951",
+  "names": {
+    "ar": "Panel painting, Eutyches (Portrait of the Boy Eutyches)",
+    "en": "Portrait of the Boy Eutyches",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Panel painting, Eutyches",
+  "period": {
+    "ar": "العصر الروماني",
+    "en": "Roman Period",
+    "year_min": 100,
+    "year_max": 150
+  },
+  "dynasty": {
+    "ar": "",
+    "en": ""
+  },
+  "material": [
+    "Encaustic on wood"
+  ],
+  "dimensions": {
+    "text": "h. 38 cm (14 15/16 in); w. 19 cm (7 1/2 in)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 111"
+  },
+  "description": {
+    "ar": "Panel painting, Eutyches مصرية قديمة، معروفة بـ«Portrait of the Boy Eutyches»، تعود إلى العصر الروماني، مصنوعة من Encaustic on wood، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Portrait of the Boy Eutyches — Panel painting, Eutyches. Period: Roman Period, dated to A.D. 100–150. Medium: Encaustic on wood. Dimensions: h. 38 cm (14 15/16 in); w. 19 cm (7 1/2 in). Country of origin: Egypt. Credit: Gift of Edward S. Harkness, 1918.",
+    "ar_intro": "Panel painting, Eutyches مصرية قديمة، معروفة بـ«Portrait of the Boy Eutyches»، تعود إلى العصر الروماني، مصنوعة من Encaustic on wood، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Portrait of the Boy Eutyches"
+  },
+  "images": [
+    {
+      "filename": "MET_547951_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-25887-001.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Portrait of the Boy Eutyches",
+      "object_name": "Panel painting, Eutyches"
+    },
+    {
+      "filename": "MET_547951_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DT564.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Portrait of the Boy Eutyches",
+      "object_name": "Panel painting, Eutyches"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/547951",
+      "title": "Portrait of the Boy Eutyches",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "boys",
+    "portraits"
+  ],
+  "related_ids": [
+    "MET_544451",
+    "MET_544683",
+    "MET_544184"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي Panel painting, Eutyches (Portrait of the Boy Eutyches)؟",
+      "a": "Panel painting, Eutyches مصرية قديمة، معروفة بـ«Portrait of the Boy Eutyches»، تعود إلى العصر الروماني، مصنوعة من Encaustic on wood، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد Panel painting, Eutyches (Portrait of the Boy Eutyches) حاليًا؟",
+      "a": "تُحفظ Panel painting, Eutyches (Portrait of the Boy Eutyches) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود Panel painting, Eutyches (Portrait of the Boy Eutyches)؟",
+      "a": "تعود Panel painting, Eutyches (Portrait of the Boy Eutyches) إلى العصر الروماني.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت Panel painting, Eutyches (Portrait of the Boy Eutyches)؟",
+      "a": "صُنعت Panel painting, Eutyches (Portrait of the Boy Eutyches) من Encaustic on wood.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت Panel painting, Eutyches (Portrait of the Boy Eutyches)؟",
+      "a": "أُحضرت Panel painting, Eutyches (Portrait of the Boy Eutyches) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

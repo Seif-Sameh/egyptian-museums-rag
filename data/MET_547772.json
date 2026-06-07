@@ -1,0 +1,132 @@
+{
+  "id": "MET_547772",
+  "names": {
+    "ar": "تمثال صغير (Ritual Statuette of Thutmose III)",
+    "en": "Ritual Statuette of Thutmose III",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Statuette, kneeling king, Thutmose III",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1479,
+    "year_max": -1425
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Black bronze",
+    "gold inlay"
+  ],
+  "dimensions": {
+    "text": "h. 13.1 cm (5 1/8 in) [16.2 cm (6 3/8 in) with tang]; w. 6.0 cm (2 3/8 in); d. 7.6 cm (3 in)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 118"
+  },
+  "description": {
+    "ar": "تمثال صغير مصرية قديمة، معروفة بـ«Ritual Statuette of Thutmose III»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من Black bronze وgold inlay، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Ritual Statuette of Thutmose III — Statuette, kneeling king, Thutmose III. Period: New Kingdom, Dynasty 18, dated to ca. 1479–1425 B.C.. Medium: Black bronze, gold inlay. Dimensions: h. 13.1 cm (5 1/8 in) [16.2 cm (6 3/8 in) with tang]; w. 6.0 cm (2 3/8 in); d. 7.6 cm (3 in). Country of origin: Egypt. Credit: Purchase, Edith Perry Chapman Fund and Malcolm Hewitt Wiener Foundation Inc. Gift, 1995.",
+    "ar_intro": "تمثال صغير مصرية قديمة، معروفة بـ«Ritual Statuette of Thutmose III»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من Black bronze وgold inlay، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Ritual Statuette of Thutmose III"
+  },
+  "images": [
+    {
+      "filename": "MET_547772_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DT537.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Ritual Statuette of Thutmose III",
+      "object_name": "Statuette, kneeling king, Thutmose III"
+    },
+    {
+      "filename": "MET_547772_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/1995.21_front.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Ritual Statuette of Thutmose III",
+      "object_name": "Statuette, kneeling king, Thutmose III"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/547772",
+      "title": "Ritual Statuette of Thutmose III",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "kings",
+    "men"
+  ],
+  "related_ids": [
+    "MET_544826",
+    "MET_554915",
+    "MET_544453",
+    "MET_544056",
+    "MET_544450",
+    "MET_544478",
+    "MET_544683",
+    "MET_544686"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال صغير (Ritual Statuette of Thutmose III)؟",
+      "a": "تمثال صغير مصرية قديمة، معروفة بـ«Ritual Statuette of Thutmose III»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من Black bronze وgold inlay، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال صغير (Ritual Statuette of Thutmose III) حاليًا؟",
+      "a": "تُحفظ تمثال صغير (Ritual Statuette of Thutmose III) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال صغير (Ritual Statuette of Thutmose III)؟",
+      "a": "تعود تمثال صغير (Ritual Statuette of Thutmose III) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال صغير (Ritual Statuette of Thutmose III)؟",
+      "a": "صُنعت تمثال صغير (Ritual Statuette of Thutmose III) من Black bronze وgold inlay.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تمثال صغير (Ritual Statuette of Thutmose III)؟",
+      "a": "أُحضرت تمثال صغير (Ritual Statuette of Thutmose III) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": true
+}

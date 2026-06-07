@@ -1,0 +1,130 @@
+{
+  "id": "MET_547775",
+  "names": {
+    "ar": "إناء فخاري (Head of a Hippopotamus)",
+    "en": "Head of a Hippopotamus",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Head, Hippopotamus",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1390,
+    "year_max": -1352
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Travertine (Egyptian alabaster) with traces of gesso and red pigment"
+  ],
+  "dimensions": {
+    "text": "H. 14 cm (5 1/2 in); W. 12.2 cm (4 13/16 in); D. from back to jaw 15.2 cm (6 in)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 119"
+  },
+  "description": {
+    "ar": "إناء فخاري مصرية قديمة، معروفة بـ«Head of a Hippopotamus»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من Travertine (Egyptian alabaster) with traces of gesso and red pigment، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Head of a Hippopotamus — Head, Hippopotamus. Period: New Kingdom, Dynasty 18, dated to ca. 1390–1352 B.C.. Medium: Travertine (Egyptian alabaster) with traces of gesso and red pigment. Dimensions: H. 14 cm (5 1/2 in); W. 12.2 cm (4 13/16 in); D. from back to jaw 15.2 cm (6 in). Country of origin: Egypt. Credit: Purchase, Harris Brisbane Dick Fund, Lila Acheson Wallace Gift, Gift of Henry Walters, by exchange, Ludlow Bull Fund, Beatrice Cooper Gift, and funds from various donors, 1997.",
+    "ar_intro": "إناء فخاري مصرية قديمة، معروفة بـ«Head of a Hippopotamus»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من Travertine (Egyptian alabaster) with traces of gesso and red pigment، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Head of a Hippopotamus"
+  },
+  "images": [
+    {
+      "filename": "MET_547775_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DT4210.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Head of a Hippopotamus",
+      "object_name": "Head, Hippopotamus"
+    },
+    {
+      "filename": "MET_547775_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DT540.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Head of a Hippopotamus",
+      "object_name": "Head, Hippopotamus"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/547775",
+      "title": "Head of a Hippopotamus",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "hippos"
+  ],
+  "related_ids": [
+    "MET_544056",
+    "MET_544060",
+    "MET_544068",
+    "MET_544442",
+    "MET_544450",
+    "MET_544453",
+    "MET_544478",
+    "MET_544498"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي إناء فخاري (Head of a Hippopotamus)؟",
+      "a": "إناء فخاري مصرية قديمة، معروفة بـ«Head of a Hippopotamus»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من Travertine (Egyptian alabaster) with traces of gesso and red pigment، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد إناء فخاري (Head of a Hippopotamus) حاليًا؟",
+      "a": "تُحفظ إناء فخاري (Head of a Hippopotamus) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود إناء فخاري (Head of a Hippopotamus)؟",
+      "a": "تعود إناء فخاري (Head of a Hippopotamus) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت إناء فخاري (Head of a Hippopotamus)؟",
+      "a": "صُنعت إناء فخاري (Head of a Hippopotamus) من Travertine (Egyptian alabaster) with traces of gesso and red pigment.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت إناء فخاري (Head of a Hippopotamus)؟",
+      "a": "أُحضرت إناء فخاري (Head of a Hippopotamus) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

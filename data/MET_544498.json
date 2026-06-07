@@ -1,0 +1,125 @@
+{
+  "id": "MET_544498",
+  "names": {
+    "ar": "تمثال أبو الهول (Sphinx of Amenhotep III, possibly from a Model of a Temple)",
+    "en": "Sphinx of Amenhotep III, possibly from a Model of a Temple",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Sphinx, Amenhotep III",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1390,
+    "year_max": -1352
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Faience",
+    "remains of a travertine (Egyptian alabaster) tenon"
+  ],
+  "dimensions": {
+    "text": "l. 25.1 cm (9 7/8 in); w. 13.3 cm (5 1/4 in); h. 13.3 cm (5 1/4 in)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": ""
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 119"
+  },
+  "description": {
+    "ar": "تمثال أبو الهول مصرية قديمة، معروفة بـ«Sphinx of Amenhotep III, possibly from a Model of a Temple»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من خزف فاينس وremains of a travertine (Egyptian alabaster) tenon، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Sphinx of Amenhotep III, possibly from a Model of a Temple — Sphinx, Amenhotep III. Period: New Kingdom, Dynasty 18, dated to ca. 1390–1352 B.C.. Medium: Faience, remains of a travertine (Egyptian alabaster) tenon. Dimensions: l. 25.1 cm (9 7/8 in); w. 13.3 cm (5 1/4 in); h. 13.3 cm (5 1/4 in). Credit: Purchase, Lila Acheson Wallace Gift, 1972.",
+    "ar_intro": "تمثال أبو الهول مصرية قديمة، معروفة بـ«Sphinx of Amenhotep III, possibly from a Model of a Temple»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من خزف فاينس وremains of a travertine (Egyptian alabaster) tenon، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Sphinx of Amenhotep III, possibly from a Model of a Temple"
+  },
+  "images": [
+    {
+      "filename": "MET_544498_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DT539.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Sphinx of Amenhotep III, possibly from a Model of a Temple",
+      "object_name": "Sphinx, Amenhotep III"
+    },
+    {
+      "filename": "MET_544498_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/eg1972.125.R.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Sphinx of Amenhotep III, possibly from a Model of a Temple",
+      "object_name": "Sphinx, Amenhotep III"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544498",
+      "title": "Sphinx of Amenhotep III, possibly from a Model of a Temple",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "sphinx"
+  ],
+  "related_ids": [
+    "MET_544453",
+    "MET_544478",
+    "MET_544502",
+    "MET_544442",
+    "MET_544826",
+    "MET_544056",
+    "MET_544060",
+    "MET_544068"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال أبو الهول (Sphinx of Amenhotep III, possibly from a Model of a Temple)؟",
+      "a": "تمثال أبو الهول مصرية قديمة، معروفة بـ«Sphinx of Amenhotep III, possibly from a Model of a Temple»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من خزف فاينس وremains of a travertine (Egyptian alabaster) tenon، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال أبو الهول (Sphinx of Amenhotep III, possibly from a Model of a Temple) حاليًا؟",
+      "a": "تُحفظ تمثال أبو الهول (Sphinx of Amenhotep III, possibly from a Model of a Temple) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال أبو الهول (Sphinx of Amenhotep III, possibly from a Model of a Temple)؟",
+      "a": "تعود تمثال أبو الهول (Sphinx of Amenhotep III, possibly from a Model of a Temple) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال أبو الهول (Sphinx of Amenhotep III, possibly from a Model of a Temple)؟",
+      "a": "صُنعت تمثال أبو الهول (Sphinx of Amenhotep III, possibly from a Model of a Temple) من خزف فاينس وremains of a travertine (Egyptian alabaster) tenon.",
+      "evidence": "material",
+      "type": "material"
+    }
+  ],
+  "highlight": true
+}

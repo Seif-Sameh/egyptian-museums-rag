@@ -1,0 +1,121 @@
+{
+  "id": "MET_547900",
+  "names": {
+    "ar": "قلادة (Miniature broad collar)",
+    "en": "Miniature broad collar",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Necklace, broad collar, miniature",
+  "period": {
+    "ar": "early العصر البطلمي",
+    "en": "early Ptolemaic Period",
+    "year_min": -332,
+    "year_max": -246
+  },
+  "dynasty": {
+    "ar": "",
+    "en": ""
+  },
+  "material": [
+    "Gold",
+    "carnelian",
+    "turquoise",
+    "lapis lazuli"
+  ],
+  "dimensions": {
+    "text": "H. 8.6 cm (3 3/8 in.); W. 10.3 cm (4 1/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": ""
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 134"
+  },
+  "description": {
+    "ar": "قلادة مصرية قديمة، معروفة بـ«Miniature broad collar»، تعود إلى early العصر البطلمي، مصنوعة من ذهب وcarnelian وturquoise وlapis lazuli، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Miniature broad collar — Necklace, broad collar, miniature. Period: early Ptolemaic Period, dated to 332–246 B.C.. Medium: Gold, carnelian, turquoise, lapis lazuli. Dimensions: H. 8.6 cm (3 3/8 in.); W. 10.3 cm (4 1/16 in.). Credit: Harris Brisbane Dick Fund, 1949.",
+    "ar_intro": "قلادة مصرية قديمة، معروفة بـ«Miniature broad collar»، تعود إلى early العصر البطلمي، مصنوعة من ذهب وcarnelian وturquoise وlapis lazuli، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Miniature broad collar"
+  },
+  "images": [
+    {
+      "filename": "MET_547900_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP139141.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Miniature broad collar",
+      "object_name": "Necklace, broad collar, miniature"
+    },
+    {
+      "filename": "MET_547900_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/49.121.1_front.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Miniature broad collar",
+      "object_name": "Necklace, broad collar, miniature"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/547900",
+      "title": "Miniature broad collar",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "lotuses"
+  ],
+  "related_ids": [
+    "MET_544451",
+    "MET_548339"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي قلادة (Miniature broad collar)؟",
+      "a": "قلادة مصرية قديمة، معروفة بـ«Miniature broad collar»، تعود إلى early العصر البطلمي، مصنوعة من ذهب وcarnelian وturquoise وlapis lazuli، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد قلادة (Miniature broad collar) حاليًا؟",
+      "a": "تُحفظ قلادة (Miniature broad collar) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود قلادة (Miniature broad collar)؟",
+      "a": "تعود قلادة (Miniature broad collar) إلى early العصر البطلمي.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت قلادة (Miniature broad collar)؟",
+      "a": "صُنعت قلادة (Miniature broad collar) من ذهب وعقيق أحمر وفيروز ولازورد.",
+      "evidence": "material",
+      "type": "material"
+    }
+  ],
+  "highlight": false
+}

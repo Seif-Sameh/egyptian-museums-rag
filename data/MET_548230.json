@@ -1,0 +1,119 @@
+{
+  "id": "MET_548230",
+  "names": {
+    "ar": "Head fragment, Ptolemy II (Face attributed to Ptolemy II Philadelphos or a contemporary)",
+    "en": "Face attributed to Ptolemy II Philadelphos or a contemporary",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Head fragment, Ptolemy II",
+  "period": {
+    "ar": "العصر البطلمي",
+    "en": "Ptolemaic Period",
+    "year_min": -285,
+    "year_max": -246
+  },
+  "dynasty": {
+    "ar": "Ptolemaic Dynasty",
+    "en": "Ptolemaic Dynasty"
+  },
+  "material": [
+    "Greywacke"
+  ],
+  "dimensions": {
+    "text": "H. 16.2 cm (6 3/8 in.); W. 10.8 cm (4 1/4 in.); D. 6 cm (2 3/8 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "BSAE excavations 1912"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 134"
+  },
+  "description": {
+    "ar": "Head fragment, Ptolemy II مصرية قديمة، معروفة بـ«Face attributed to Ptolemy II Philadelphos or a contemporary»، تعود إلى العصر البطلمي، (Ptolemaic Dynasty)، مصنوعة من غريواكي، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Face attributed to Ptolemy II Philadelphos or a contemporary — Head fragment, Ptolemy II. Period: Ptolemaic Period, Ptolemaic Dynasty, dated to 285–246 B.C.. Medium: Greywacke. Dimensions: H. 16.2 cm (6 3/8 in.); W. 10.8 cm (4 1/4 in.); D. 6 cm (2 3/8 in.). Excavation: BSAE excavations 1912. Country of origin: Egypt. Credit: Gift of The Egyptian Research Account and British School of Archaeology in Egypt, 1912.",
+    "ar_intro": "Head fragment, Ptolemy II مصرية قديمة، معروفة بـ«Face attributed to Ptolemy II Philadelphos or a contemporary»، تعود إلى العصر البطلمي، (Ptolemaic Dynasty)، مصنوعة من غريواكي، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Face attributed to Ptolemy II Philadelphos or a contemporary"
+  },
+  "images": [
+    {
+      "filename": "MET_548230_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-24213-001.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Face attributed to Ptolemy II Philadelphos or a contemporary",
+      "object_name": "Head fragment, Ptolemy II"
+    },
+    {
+      "filename": "MET_548230_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP-24213-002.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Face attributed to Ptolemy II Philadelphos or a contemporary",
+      "object_name": "Head fragment, Ptolemy II"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/548230",
+      "title": "Face attributed to Ptolemy II Philadelphos or a contemporary",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [],
+  "related_ids": [],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي Head fragment, Ptolemy II (Face attributed to Ptolemy II Philadelphos or a contemporary)؟",
+      "a": "Head fragment, Ptolemy II مصرية قديمة، معروفة بـ«Face attributed to Ptolemy II Philadelphos or a contemporary»، تعود إلى العصر البطلمي، (Ptolemaic Dynasty)، مصنوعة من غريواكي، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد Head fragment, Ptolemy II (Face attributed to Ptolemy II Philadelphos or a contemporary) حاليًا؟",
+      "a": "تُحفظ Head fragment, Ptolemy II (Face attributed to Ptolemy II Philadelphos or a contemporary) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود Head fragment, Ptolemy II (Face attributed to Ptolemy II Philadelphos or a contemporary)؟",
+      "a": "تعود Head fragment, Ptolemy II (Face attributed to Ptolemy II Philadelphos or a contemporary) إلى Ptolemaic Dynasty.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت Head fragment, Ptolemy II (Face attributed to Ptolemy II Philadelphos or a contemporary)؟",
+      "a": "صُنعت Head fragment, Ptolemy II (Face attributed to Ptolemy II Philadelphos or a contemporary) من Greywacke.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت Head fragment, Ptolemy II (Face attributed to Ptolemy II Philadelphos or a contemporary)؟",
+      "a": "أُحضرت Head fragment, Ptolemy II (Face attributed to Ptolemy II Philadelphos or a contemporary) من BSAE excavations 1912.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

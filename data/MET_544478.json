@@ -1,0 +1,130 @@
+{
+  "id": "MET_544478",
+  "names": {
+    "ar": "تمثال صغير (Standing figure of Amenhotep III)",
+    "en": "Standing figure of Amenhotep III",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Statuette, standing king, Amenhotep III",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1390,
+    "year_max": -1352
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Chlorite schist"
+  ],
+  "dimensions": {
+    "text": "H. 22.2 (8 3/4 in.n); W. 8.6 (3 3/8 in.); D. 10.6 cm (4 3/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 119"
+  },
+  "description": {
+    "ar": "تمثال صغير مصرية قديمة، معروفة بـ«Standing figure of Amenhotep III»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من Chlorite schist، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Standing figure of Amenhotep III — Statuette, standing king, Amenhotep III. Period: New Kingdom, Dynasty 18, dated to ca. 1390–1352 B.C.. Medium: Chlorite schist. Dimensions: H. 22.2 (8 3/4 in.n); W. 8.6 (3 3/8 in.); D. 10.6 cm (4 3/16 in.). Country of origin: Egypt. Credit: Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915.",
+    "ar_intro": "تمثال صغير مصرية قديمة، معروفة بـ«Standing figure of Amenhotep III»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من Chlorite schist، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Standing figure of Amenhotep III"
+  },
+  "images": [
+    {
+      "filename": "MET_544478_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-17706-001.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Standing figure of Amenhotep III",
+      "object_name": "Statuette, standing king, Amenhotep III"
+    },
+    {
+      "filename": "MET_544478_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP-17706-002.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Standing figure of Amenhotep III",
+      "object_name": "Statuette, standing king, Amenhotep III"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544478",
+      "title": "Standing figure of Amenhotep III",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "men"
+  ],
+  "related_ids": [
+    "MET_544453",
+    "MET_544498",
+    "MET_544502",
+    "MET_544056",
+    "MET_544683",
+    "MET_544686",
+    "MET_544692",
+    "MET_544720"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال صغير (Standing figure of Amenhotep III)؟",
+      "a": "تمثال صغير مصرية قديمة، معروفة بـ«Standing figure of Amenhotep III»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من Chlorite schist، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال صغير (Standing figure of Amenhotep III) حاليًا؟",
+      "a": "تُحفظ تمثال صغير (Standing figure of Amenhotep III) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال صغير (Standing figure of Amenhotep III)؟",
+      "a": "تعود تمثال صغير (Standing figure of Amenhotep III) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال صغير (Standing figure of Amenhotep III)؟",
+      "a": "صُنعت تمثال صغير (Standing figure of Amenhotep III) من Chlorite schist.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تمثال صغير (Standing figure of Amenhotep III)؟",
+      "a": "أُحضرت تمثال صغير (Standing figure of Amenhotep III) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": true
+}

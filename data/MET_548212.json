@@ -1,0 +1,133 @@
+{
+  "id": "MET_548212",
+  "names": {
+    "ar": "نقش بارز (Relief of Nebhepetre Mentuhotep II and the Goddess Hathor)",
+    "en": "Relief of Nebhepetre Mentuhotep II and the Goddess Hathor",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Relief, Temple wall, Mentuhotep II",
+  "period": {
+    "ar": "الدولة الوسطى",
+    "en": "Middle Kingdom",
+    "year_min": -2010,
+    "year_max": -2000
+  },
+  "dynasty": {
+    "ar": "الأسرة الحادية عشرة",
+    "en": "Dynasty 11"
+  },
+  "material": [
+    "Limestone",
+    "paint"
+  ],
+  "dimensions": {
+    "text": "H. 36 cm (14 3/16 in); W. 98 cm (38 9/16 in)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt Exploration Fund excavations, 1907"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 104"
+  },
+  "description": {
+    "ar": "نقش بارز مصرية قديمة، معروفة بـ«Relief of Nebhepetre Mentuhotep II and the Goddess Hathor»، تعود إلى الدولة الوسطى، (الأسرة الحادية عشرة)، مصنوعة من حجر جيري وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Relief of Nebhepetre Mentuhotep II and the Goddess Hathor — Relief, Temple wall, Mentuhotep II. Period: Middle Kingdom, Dynasty 11, dated to ca. 2010–2000 B.C.. Medium: Limestone, paint. Dimensions: H. 36 cm (14 3/16 in); W. 98 cm (38 9/16 in). Excavation: Egypt Exploration Fund excavations, 1907. Country of origin: Egypt. Credit: Gift of Egypt Exploration Fund, 1907.",
+    "ar_intro": "نقش بارز مصرية قديمة، معروفة بـ«Relief of Nebhepetre Mentuhotep II and the Goddess Hathor»، تعود إلى الدولة الوسطى، (الأسرة الحادية عشرة)، مصنوعة من حجر جيري وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Relief of Nebhepetre Mentuhotep II and the Goddess Hathor"
+  },
+  "images": [
+    {
+      "filename": "MET_548212_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP322047.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Relief of Nebhepetre Mentuhotep II and the Goddess Hathor",
+      "object_name": "Relief, Temple wall, Mentuhotep II"
+    },
+    {
+      "filename": "MET_548212_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP322048.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Relief of Nebhepetre Mentuhotep II and the Goddess Hathor",
+      "object_name": "Relief, Temple wall, Mentuhotep II"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/548212",
+      "title": "Relief of Nebhepetre Mentuhotep II and the Goddess Hathor",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "kings",
+    "hieroglyphs",
+    "hathor"
+  ],
+  "related_ids": [
+    "MET_543882",
+    "MET_544184",
+    "MET_544450",
+    "MET_544453",
+    "MET_544752",
+    "MET_547772",
+    "MET_547773",
+    "MET_544186"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي نقش بارز (Relief of Nebhepetre Mentuhotep II and the Goddess Hathor)؟",
+      "a": "نقش بارز مصرية قديمة، معروفة بـ«Relief of Nebhepetre Mentuhotep II and the Goddess Hathor»، تعود إلى الدولة الوسطى، (الأسرة الحادية عشرة)، مصنوعة من حجر جيري وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد نقش بارز (Relief of Nebhepetre Mentuhotep II and the Goddess Hathor) حاليًا؟",
+      "a": "تُحفظ نقش بارز (Relief of Nebhepetre Mentuhotep II and the Goddess Hathor) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود نقش بارز (Relief of Nebhepetre Mentuhotep II and the Goddess Hathor)؟",
+      "a": "تعود نقش بارز (Relief of Nebhepetre Mentuhotep II and the Goddess Hathor) إلى الأسرة الحادية عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت نقش بارز (Relief of Nebhepetre Mentuhotep II and the Goddess Hathor)؟",
+      "a": "صُنعت نقش بارز (Relief of Nebhepetre Mentuhotep II and the Goddess Hathor) من حجر جيري وpaint.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت نقش بارز (Relief of Nebhepetre Mentuhotep II and the Goddess Hathor)؟",
+      "a": "أُحضرت نقش بارز (Relief of Nebhepetre Mentuhotep II and the Goddess Hathor) من Egypt Exploration Fund excavations, 1907.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

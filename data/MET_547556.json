@@ -1,0 +1,125 @@
+{
+  "id": "MET_547556",
+  "names": {
+    "ar": "ترصيع (Inlay of the Horus falcon on the hieroglyph for \"gold\")",
+    "en": "Inlay of the Horus falcon on the hieroglyph for \"gold\"",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Inlay, Falcon, Golden Horus",
+  "period": {
+    "ar": "العصر المتأخر",
+    "en": "Late Period",
+    "year_min": -360,
+    "year_max": -343
+  },
+  "dynasty": {
+    "ar": "الأسرة الثلاثون",
+    "en": "Dynasty 30"
+  },
+  "material": [
+    "Faience"
+  ],
+  "dimensions": {
+    "text": "H. 15.6 × W. 1.2 × L. 12.9 cm (6 1/8 × 1/2 × 5 1/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": ""
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 134"
+  },
+  "description": {
+    "ar": "ترصيع مصرية قديمة، معروفة بـ«Inlay of the Horus falcon on the hieroglyph for \"gold\"»، تعود إلى العصر المتأخر، (الأسرة الثلاثون)، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Inlay of the Horus falcon on the hieroglyph for \"gold\" — Inlay, Falcon, Golden Horus. Period: Late Period, Dynasty 30, dated to 360–343 BCE. Medium: Faience. Dimensions: H. 15.6 × W. 1.2 × L. 12.9 cm (6 1/8 × 1/2 × 5 1/16 in.). Credit: Purchase, Edward S. Harkness Gift, 1926.",
+    "ar_intro": "ترصيع مصرية قديمة، معروفة بـ«Inlay of the Horus falcon on the hieroglyph for \"gold\"»، تعود إلى العصر المتأخر، (الأسرة الثلاثون)، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Inlay of the Horus falcon on the hieroglyph for \"gold\""
+  },
+  "images": [
+    {
+      "filename": "MET_547556_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP240847.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Inlay of the Horus falcon on the hieroglyph for \"gold\"",
+      "object_name": "Inlay, Falcon, Golden Horus"
+    },
+    {
+      "filename": "MET_547556_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DT240572.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Inlay of the Horus falcon on the hieroglyph for \"gold\"",
+      "object_name": "Inlay, Falcon, Golden Horus"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/547556",
+      "title": "Inlay of the Horus falcon on the hieroglyph for \"gold\"",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "falcons",
+    "horus"
+  ],
+  "related_ids": [
+    "MET_544887",
+    "MET_546037",
+    "MET_544232",
+    "MET_544826",
+    "MET_545870",
+    "MET_552062",
+    "MET_555577",
+    "MET_548264"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي ترصيع (Inlay of the Horus falcon on the hieroglyph for \"gold\")؟",
+      "a": "ترصيع مصرية قديمة، معروفة بـ«Inlay of the Horus falcon on the hieroglyph for \"gold\"»، تعود إلى العصر المتأخر، (الأسرة الثلاثون)، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد ترصيع (Inlay of the Horus falcon on the hieroglyph for \"gold\") حاليًا؟",
+      "a": "تُحفظ ترصيع (Inlay of the Horus falcon on the hieroglyph for \"gold\") في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود ترصيع (Inlay of the Horus falcon on the hieroglyph for \"gold\")؟",
+      "a": "تعود ترصيع (Inlay of the Horus falcon on the hieroglyph for \"gold\") إلى الأسرة الثلاثون.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت ترصيع (Inlay of the Horus falcon on the hieroglyph for \"gold\")؟",
+      "a": "صُنعت ترصيع (Inlay of the Horus falcon on the hieroglyph for \"gold\") من خزف فاينس.",
+      "evidence": "material",
+      "type": "material"
+    }
+  ],
+  "highlight": false
+}

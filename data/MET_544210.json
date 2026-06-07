@@ -1,0 +1,134 @@
+{
+  "id": "MET_544210",
+  "names": {
+    "ar": "تمثال (Estate Figure)",
+    "en": "Estate Figure",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Statue, standing woman, offering; Dendur-decoded",
+  "period": {
+    "ar": "الدولة الوسطى",
+    "en": "Middle Kingdom",
+    "year_min": -1981,
+    "year_max": -1975
+  },
+  "dynasty": {
+    "ar": "الأسرة الثانية عشرة",
+    "en": "Dynasty 12"
+  },
+  "material": [
+    "Wood",
+    "gesso",
+    "paint"
+  ],
+  "dimensions": {
+    "text": "H. 112 cm (44 1/8 in.); W. 17 cm (6 11/16 in.); D. 46.7 cm (18 3/8 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "MMA excavations, 1920"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 105"
+  },
+  "description": {
+    "ar": "تمثال مصرية قديمة، معروفة بـ«Estate Figure»، تعود إلى الدولة الوسطى، (الأسرة الثانية عشرة)، مصنوعة من خشب وgesso وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Estate Figure — Statue, standing woman, offering; Dendur-decoded. Period: Middle Kingdom, Dynasty 12, dated to ca. 1981–1975 B.C.. Medium: Wood, gesso, paint. Dimensions: H. 112 cm (44 1/8 in.); W. 17 cm (6 11/16 in.); D. 46.7 cm (18 3/8 in.). Excavation: MMA excavations, 1920. Country of origin: Egypt. Credit: Rogers Fund and Edward S. Harkness Gift, 1920.",
+    "ar_intro": "تمثال مصرية قديمة، معروفة بـ«Estate Figure»، تعود إلى الدولة الوسطى، (الأسرة الثانية عشرة)، مصنوعة من خشب وgesso وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Estate Figure"
+  },
+  "images": [
+    {
+      "filename": "MET_544210_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP249003.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Estate Figure",
+      "object_name": "Statue, standing woman, offering; Dendur-decoded"
+    },
+    {
+      "filename": "MET_544210_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP249004.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Estate Figure",
+      "object_name": "Statue, standing woman, offering; Dendur-decoded"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544210",
+      "title": "Estate Figure",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "ducks",
+    "women",
+    "meketre-models"
+  ],
+  "related_ids": [
+    "MET_544214",
+    "MET_545281",
+    "MET_543864",
+    "MET_543867",
+    "MET_544184",
+    "MET_544186",
+    "MET_544227",
+    "MET_544228"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال (Estate Figure)؟",
+      "a": "تمثال مصرية قديمة، معروفة بـ«Estate Figure»، تعود إلى الدولة الوسطى، (الأسرة الثانية عشرة)، مصنوعة من خشب وgesso وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال (Estate Figure) حاليًا؟",
+      "a": "تُحفظ تمثال (Estate Figure) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال (Estate Figure)؟",
+      "a": "تعود تمثال (Estate Figure) إلى الأسرة الثانية عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال (Estate Figure)؟",
+      "a": "صُنعت تمثال (Estate Figure) من خشب وgesso وpaint.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تمثال (Estate Figure)؟",
+      "a": "أُحضرت تمثال (Estate Figure) من MMA excavations, 1920.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

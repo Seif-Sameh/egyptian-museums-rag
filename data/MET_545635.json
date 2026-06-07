@@ -1,0 +1,121 @@
+{
+  "id": "MET_545635",
+  "names": {
+    "ar": "تميمة (String of 1 squatting ape, 5 Ba birds, and 2 Horus amulets)",
+    "en": "String of 1 squatting ape, 5 Ba birds, and 2 Horus amulets",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "String of 1 squatting ape, 5 Ba birds, and 2 Horus amulets",
+  "period": {
+    "ar": "الدولة الوسطى",
+    "en": "Middle Kingdom",
+    "year_min": -2030,
+    "year_max": -1640
+  },
+  "dynasty": {
+    "ar": "",
+    "en": ""
+  },
+  "material": [
+    "Lapis lazuli",
+    "amethyst",
+    "feldspar"
+  ],
+  "dimensions": {
+    "text": "L of string knot to knot : 12.8 cm (5 1/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "MMA excavations, 1918–19"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 109"
+  },
+  "description": {
+    "ar": "تميمة مصرية قديمة، معروفة بـ«String of 1 squatting ape, 5 Ba birds, and 2 Horus amulets»، تعود إلى الدولة الوسطى، مصنوعة من حجر اللازورد وamethyst وfeldspar، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "String of 1 squatting ape, 5 Ba birds, and 2 Horus amulets. Period: Middle Kingdom, dated to ca. 2030–1640 B.C.. Medium: Lapis lazuli, amethyst, feldspar. Dimensions: L of string knot to knot : 12.8 cm (5 1/16 in.). Excavation: MMA excavations, 1918–19. Country of origin: Egypt. Credit: Rogers Fund, 1919.",
+    "ar_intro": "تميمة مصرية قديمة، معروفة بـ«String of 1 squatting ape, 5 Ba birds, and 2 Horus amulets»، تعود إلى الدولة الوسطى، مصنوعة من حجر اللازورد وamethyst وfeldspar، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "String of 1 squatting ape, 5 Ba birds, and 2 Horus amulets"
+  },
+  "images": [
+    {
+      "filename": "MET_545635_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/LC-19_3_155_EGDP036226.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "String of 1 squatting ape, 5 Ba birds, and 2 Horus amulets",
+      "object_name": "String of 1 squatting ape, 5 Ba birds, and 2 Horus amulets"
+    },
+    {
+      "filename": "MET_545635_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/LC-19_3_155_EGDP036225.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "String of 1 squatting ape, 5 Ba birds, and 2 Horus amulets",
+      "object_name": "String of 1 squatting ape, 5 Ba birds, and 2 Horus amulets"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/545635",
+      "title": "String of 1 squatting ape, 5 Ba birds, and 2 Horus amulets",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [],
+  "related_ids": [],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تميمة (String of 1 squatting ape, 5 Ba birds, and 2 Horus amulets)؟",
+      "a": "تميمة مصرية قديمة، معروفة بـ«String of 1 squatting ape, 5 Ba birds, and 2 Horus amulets»، تعود إلى الدولة الوسطى، مصنوعة من حجر اللازورد وamethyst وfeldspar، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تميمة (String of 1 squatting ape, 5 Ba birds, and 2 Horus amulets) حاليًا؟",
+      "a": "تُحفظ تميمة (String of 1 squatting ape, 5 Ba birds, and 2 Horus amulets) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تميمة (String of 1 squatting ape, 5 Ba birds, and 2 Horus amulets)؟",
+      "a": "تعود تميمة (String of 1 squatting ape, 5 Ba birds, and 2 Horus amulets) إلى الدولة الوسطى.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تميمة (String of 1 squatting ape, 5 Ba birds, and 2 Horus amulets)؟",
+      "a": "صُنعت تميمة (String of 1 squatting ape, 5 Ba birds, and 2 Horus amulets) من لازورد وamethyst وfeldspar.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تميمة (String of 1 squatting ape, 5 Ba birds, and 2 Horus amulets)؟",
+      "a": "أُحضرت تميمة (String of 1 squatting ape, 5 Ba birds, and 2 Horus amulets) من MMA excavations, 1918–19.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

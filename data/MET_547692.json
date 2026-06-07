@@ -1,0 +1,126 @@
+{
+  "id": "MET_547692",
+  "names": {
+    "ar": "تمثال (Head of a princess from a group statue)",
+    "en": "Head of a princess from a group statue",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Head, Amarna princess",
+  "period": {
+    "ar": "الدولة الحديثة, Amarna Period",
+    "en": "New Kingdom, Amarna Period",
+    "year_min": -1352,
+    "year_max": -1336
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Quartzite"
+  ],
+  "dimensions": {
+    "text": "H. 14 cm (5 1/2 in.); W. 12.4 cm (4 7/8 in.); D. 16.2 cm (6 3/8 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": ""
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 121"
+  },
+  "description": {
+    "ar": "تمثال مصرية قديمة، معروفة بـ«Head of a princess from a group statue»، تعود إلى الدولة الحديثة, Amarna Period، (الأسرة الثامنة عشرة)، مصنوعة من كوارتزيت، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Head of a princess from a group statue — Head, Amarna princess. Period: New Kingdom, Amarna Period, Dynasty 18, dated to ca. 1352–1336 B.C.. Medium: Quartzite. Dimensions: H. 14 cm (5 1/2 in.); W. 12.4 cm (4 7/8 in.); D. 16.2 cm (6 3/8 in.). Credit: Purchase, Lila Acheson Wallace Gift, 2005.",
+    "ar_intro": "تمثال مصرية قديمة، معروفة بـ«Head of a princess from a group statue»، تعود إلى الدولة الحديثة, Amarna Period، (الأسرة الثامنة عشرة)، مصنوعة من كوارتزيت، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Head of a princess from a group statue"
+  },
+  "images": [
+    {
+      "filename": "MET_547692_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP137930.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Head of a princess from a group statue",
+      "object_name": "Head, Amarna princess"
+    },
+    {
+      "filename": "MET_547692_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP137929.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Head of a princess from a group statue",
+      "object_name": "Head, Amarna princess"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/547692",
+      "title": "Head of a princess from a group statue",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "princesses",
+    "heads",
+    "women"
+  ],
+  "related_ids": [
+    "MET_544689",
+    "MET_544060",
+    "MET_544450",
+    "MET_544453",
+    "MET_544690",
+    "MET_544691",
+    "MET_548584",
+    "MET_544056"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال (Head of a princess from a group statue)؟",
+      "a": "تمثال مصرية قديمة، معروفة بـ«Head of a princess from a group statue»، تعود إلى الدولة الحديثة, Amarna Period، (الأسرة الثامنة عشرة)، مصنوعة من كوارتزيت، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال (Head of a princess from a group statue) حاليًا؟",
+      "a": "تُحفظ تمثال (Head of a princess from a group statue) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال (Head of a princess from a group statue)؟",
+      "a": "تعود تمثال (Head of a princess from a group statue) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال (Head of a princess from a group statue)؟",
+      "a": "صُنعت تمثال (Head of a princess from a group statue) من كوارتزيت.",
+      "evidence": "material",
+      "type": "material"
+    }
+  ],
+  "highlight": false
+}

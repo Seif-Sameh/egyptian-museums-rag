@@ -1,0 +1,128 @@
+{
+  "id": "MET_544864",
+  "names": {
+    "ar": "تمثال صغير (Statuette of a hippo goddess, probably Taweret)",
+    "en": "Statuette of a hippo goddess, probably Taweret",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Statuette of Taweret",
+  "period": {
+    "ar": "العصر البطلمي",
+    "en": "Ptolemaic Period",
+    "year_min": -332,
+    "year_max": -30
+  },
+  "dynasty": {
+    "ar": "",
+    "en": ""
+  },
+  "material": [
+    "Glassy faience"
+  ],
+  "dimensions": {
+    "text": "H. 11 × W. 3.3 × D. 4.8 cm (4 5/16 × 1 5/16 × 1 7/8 in)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 134"
+  },
+  "description": {
+    "ar": "تمثال صغير مصرية قديمة، معروفة بـ«Statuette of a hippo goddess, probably Taweret»، تعود إلى العصر البطلمي، مصنوعة من Glassy faience، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Statuette of a hippo goddess, probably Taweret — Statuette of Taweret. Period: Ptolemaic Period, dated to 332–30 BCE. Medium: Glassy faience. Dimensions: H. 11 × W. 3.3 × D. 4.8 cm (4 5/16 × 1 5/16 × 1 7/8 in). Country of origin: Egypt. Credit: Purchase, Edward S. Harkness Gift, 1926.",
+    "ar_intro": "تمثال صغير مصرية قديمة، معروفة بـ«Statuette of a hippo goddess, probably Taweret»، تعود إلى العصر البطلمي، مصنوعة من Glassy faience، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Statuette of a hippo goddess, probably Taweret"
+  },
+  "images": [
+    {
+      "filename": "MET_544864_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP243443.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Statuette of a hippo goddess, probably Taweret",
+      "object_name": "Statuette of Taweret"
+    },
+    {
+      "filename": "MET_544864_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP243465.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Statuette of a hippo goddess, probably Taweret",
+      "object_name": "Statuette of Taweret"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544864",
+      "title": "Statuette of a hippo goddess, probably Taweret",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "taweret",
+    "hippos",
+    "goddess"
+  ],
+  "related_ids": [
+    "MET_544227",
+    "MET_547775",
+    "MET_544326",
+    "MET_553045"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال صغير (Statuette of a hippo goddess, probably Taweret)؟",
+      "a": "تمثال صغير مصرية قديمة، معروفة بـ«Statuette of a hippo goddess, probably Taweret»، تعود إلى العصر البطلمي، مصنوعة من Glassy faience، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال صغير (Statuette of a hippo goddess, probably Taweret) حاليًا؟",
+      "a": "تُحفظ تمثال صغير (Statuette of a hippo goddess, probably Taweret) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال صغير (Statuette of a hippo goddess, probably Taweret)؟",
+      "a": "تعود تمثال صغير (Statuette of a hippo goddess, probably Taweret) إلى العصر البطلمي.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال صغير (Statuette of a hippo goddess, probably Taweret)؟",
+      "a": "صُنعت تمثال صغير (Statuette of a hippo goddess, probably Taweret) من Glassy faience.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تمثال صغير (Statuette of a hippo goddess, probably Taweret)؟",
+      "a": "أُحضرت تمثال صغير (Statuette of a hippo goddess, probably Taweret) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

@@ -1,0 +1,242 @@
+[
+  {
+    "id": "GEM_ATRIUM",
+    "museum_id": "GEM",
+    "names": {
+      "ar": "البهو الرئيسي",
+      "en": "Atrium"
+    },
+    "summary": {
+      "ar": "يستقبل الزوار بتمثال الملك رمسيس الثاني العملاق الذي نُقل من ميدان رمسيس بالقاهرة عام 2006 ووُضع في موقعه الحالي عام 2018. ارتفاعه يبلغ نحو 11 متراً ووزنه 83 طنّاً.",
+      "en": "Welcomes visitors with the colossal statue of Ramesses II, transferred from Cairo's Ramesses Square in 2006 and placed here in 2018. ~11 m tall, weighs 83 tons."
+    }
+  },
+  {
+    "id": "GEM_GRAND_STAIRCASE",
+    "museum_id": "GEM",
+    "names": {
+      "ar": "السلم العظيم",
+      "en": "Grand Staircase"
+    },
+    "summary": {
+      "ar": "سلم احتفالي بطول 64 متراً يصعد ست طوابق نحو نافذة مطلة مباشرة على أهرامات الجيزة. يصطف على جانبيه نحو 87 تمثالاً ضخمًا تمثل أهم ملوك مصر القديمة عبر العصور.",
+      "en": "A 64-metre ceremonial staircase rising six storeys to a panoramic window framing the Giza Pyramids. Lined with ~87 colossal statues of Egypt's most important kings across all eras."
+    }
+  },
+  {
+    "id": "GEM_TUT_GALLERIES",
+    "museum_id": "GEM",
+    "names": {
+      "ar": "قاعات توت عنخ آمون",
+      "en": "Tutankhamun Galleries"
+    },
+    "summary": {
+      "ar": "تعرض كامل مقتنيات الملك توت عنخ آمون البالغ عددها نحو 5,400 قطعة لأول مرة في التاريخ في مكان واحد، بما في ذلك القناع الذهبي، التابوت الذهبي الداخلي، العرش، الخنجر النيزكي، الصناديق الكانوبية، العربات، وتجهيزات المقبرة كاملة.",
+      "en": "Displays the entire Tutankhamun collection (~5,400 objects) together for the first time in history, including the gold mask, innermost gold coffin, throne, meteoric-iron dagger, canopic shrine, chariots, and the complete tomb assemblage."
+    }
+  },
+  {
+    "id": "GEM_KHUFU_BOAT_HALL",
+    "museum_id": "GEM",
+    "names": {
+      "ar": "قاعة مركب خوفو الشمسية",
+      "en": "Khufu Solar Boat Hall"
+    },
+    "summary": {
+      "ar": "تستضيف مركب الملك خوفو الجنائزية، وهي أقدم وأكبر سفينة خشبية محفوظة في العالم. يبلغ طولها 43.6 متراً، وقد عُثر عليها مفككة في حفرة بجوار الهرم الأكبر عام 1954، ونُقلت إلى المتحف الكبير عام 2021.",
+      "en": "Hosts the Khufu Solar Boat, the oldest and largest preserved wooden ship in the world. Measures 43.6 m. Discovered dismantled in a pit beside the Great Pyramid in 1954; transferred to GEM in 2021."
+    }
+  },
+  {
+    "id": "GEM_MAIN_GALLERIES_PRE_OK",
+    "museum_id": "GEM",
+    "names": {
+      "ar": "القاعات الرئيسية: عصر ما قبل الأسرات حتى الدولة القديمة",
+      "en": "Main Galleries: Predynastic to Old Kingdom"
+    },
+    "summary": {
+      "ar": "أربع قاعات تستعرض البدايات الأولى للحضارة المصرية: تشكُّل الدولة، الكتابة، نشأة الملكية، وبناء الأهرامات. تشمل قطعاً مثل صلاية نعرمر، تمثال خوفو، تماثيل خفرع ومنكاورع، وثنائي رع حتب ونفرت.",
+      "en": "Four galleries tracing the rise of Egyptian civilization — state formation, writing, the birth of kingship, and the pyramid age. Includes pieces such as the Narmer Palette, the Khufu statuette, statues of Khafre and Menkaure, and the Rahotep–Nofret pair."
+    }
+  },
+  {
+    "id": "GEM_MAIN_GALLERIES_MK",
+    "museum_id": "GEM",
+    "names": {
+      "ar": "القاعات الرئيسية: الدولة الوسطى",
+      "en": "Main Galleries: Middle Kingdom"
+    },
+    "summary": {
+      "ar": "تضم قطعاً من الأسرتين الحادية عشرة والثانية عشرة، وأبرزها تماثيل سنوسرت الأول وأمنمحات الثالث، بالإضافة إلى نماذج مقابر بني حسن.",
+      "en": "Pieces from the 11th–12th Dynasties: statues of Senusret I, Amenemhat III, and tomb models from Beni Hasan."
+    }
+  },
+  {
+    "id": "GEM_MAIN_GALLERIES_NK",
+    "museum_id": "GEM",
+    "names": {
+      "ar": "القاعات الرئيسية: الدولة الحديثة",
+      "en": "Main Galleries: New Kingdom"
+    },
+    "summary": {
+      "ar": "ذروة الإمبراطورية المصرية في الأسر 18 و19 و20. تضم تماثيل حتشبسوت، تحتمس الثالث، أمنحتب الثالث، أخناتون، والملوك الرعامسة. كذلك أعمدة الحفل السد وتماثيل سخمت الكثيرة.",
+      "en": "Egypt's imperial peak under the 18th, 19th, and 20th Dynasties. Includes statues of Hatshepsut, Thutmose III, Amenhotep III, Akhenaten, and the Ramesside kings; many Sekhmet statues and Heb-Sed pillars."
+    }
+  },
+  {
+    "id": "GEM_MAIN_GALLERIES_LATE",
+    "museum_id": "GEM",
+    "names": {
+      "ar": "القاعات الرئيسية: العصر المتأخر والبطلمي والروماني",
+      "en": "Main Galleries: Late, Ptolemaic & Roman Periods"
+    },
+    "summary": {
+      "ar": "تستعرض حضارة مصر بعد نهاية الدولة الحديثة، وتشمل قطعاً ساوية، فارسية، وبطلمية، إضافة إلى تمثيل العصر الروماني والقبطي.",
+      "en": "Egypt after the New Kingdom — Saite, Persian, and Ptolemaic objects, plus Roman and early Coptic representation."
+    }
+  },
+  {
+    "id": "GEM_CHILDREN_MUSEUM",
+    "museum_id": "GEM",
+    "names": {
+      "ar": "متحف الأطفال",
+      "en": "Children's Museum"
+    },
+    "summary": {
+      "ar": "قاعات تفاعلية تعليمية مخصصة لتعريف الأطفال من 6 إلى 12 سنة بالحضارة المصرية القديمة عبر اللعب والمحاكاة.",
+      "en": "Interactive educational galleries for children aged 6–12, exploring ancient Egyptian civilization through play and simulation."
+    }
+  },
+  {
+    "id": "GEM_CONSERVATION",
+    "museum_id": "GEM",
+    "names": {
+      "ar": "مركز الترميم والصيانة",
+      "en": "Conservation Centre"
+    },
+    "summary": {
+      "ar": "أكبر مركز ترميم في الشرق الأوسط، يضم 19 معملاً متخصصاً ويُتاح للزوار جزء منه عبر زيارات مجدولة.",
+      "en": "Largest conservation centre in the Middle East — 19 specialized labs, with limited public access via scheduled tours."
+    }
+  },
+  {
+    "id": "EMC_GROUND_FLOOR",
+    "museum_id": "EMC",
+    "names": {
+      "ar": "الطابق الأرضي",
+      "en": "Ground Floor"
+    },
+    "summary": {
+      "ar": "يعرض القطع الكبيرة الحجم وفق تسلسل زمني من عصر ما قبل الأسرات حتى العصر اليوناني الروماني، بما في ذلك صلاية نعرمر، تمثال زوسر، وتماثيل ضخمة لرمسيس الثاني.",
+      "en": "Displays large-scale objects in chronological order from Predynastic to Greco-Roman, including the Narmer Palette, the Djoser statue, and colossal statues of Ramesses II."
+    }
+  },
+  {
+    "id": "EMC_UPPER_FLOOR",
+    "museum_id": "EMC",
+    "names": {
+      "ar": "الطابق العلوي",
+      "en": "Upper Floor"
+    },
+    "summary": {
+      "ar": "يضم القطع الصغيرة مرتبة موضوعياً، بما في ذلك مقتنيات يويا وتويا، الحلي، التوابيت الخشبية، والأواني الكانوبية.",
+      "en": "Small objects arranged thematically, including the Yuya and Thuya treasure, jewellery, wooden coffins, and canopic jars."
+    }
+  },
+  {
+    "id": "EMC_CENTRAL_ATRIUM",
+    "museum_id": "EMC",
+    "names": {
+      "ar": "البهو الأوسط",
+      "en": "Central Atrium"
+    },
+    "summary": {
+      "ar": "بهو مركزي يعرض قطعاً ضخمة منها لوحة مرنبتاح والتمثال الكبير لأمنحتب الثالث وزوجته تي.",
+      "en": "Central atrium with monumental pieces including the Merneptah Stele and the colossal statue of Amenhotep III with his queen Tiye."
+    }
+  },
+  {
+    "id": "NMEC_ROYAL_MUMMIES",
+    "museum_id": "NMEC",
+    "names": {
+      "ar": "قاعة المومياوات الملكية",
+      "en": "Royal Mummies Hall"
+    },
+    "summary": {
+      "ar": "تضم 22 مومياء ملكية من ملوك وملكات الدولة الحديثة، من بينها مومياوات سقنن رع تاعا الثاني، تحتمس الثالث، حتشبسوت، أمنحتب الأول، سيتي الأول، رمسيس الثاني ومرنبتاح. القاعة مظلمة ومضبوطة الحرارة والرطوبة لمحاكاة بيئة المقبرة.",
+      "en": "Holds 22 royal mummies of New Kingdom kings and queens, including Seqenenre Tao II, Thutmose III, Hatshepsut, Amenhotep I, Seti I, Ramesses II, and Merneptah. Dimly lit with controlled humidity and temperature to simulate tomb conditions."
+    }
+  },
+  {
+    "id": "NMEC_MAIN_GALLERY",
+    "museum_id": "NMEC",
+    "names": {
+      "ar": "القاعة الرئيسية",
+      "en": "Main Hall"
+    },
+    "summary": {
+      "ar": "تستعرض الحضارة المصرية موضوعياً عبر العصور: الفجر، النيل، الكتابة، الدولة، المجتمع، المعتقدات، الأفكار والإبداع.",
+      "en": "Thematic exploration of Egyptian civilization across eras: Dawn, Nile, Writing, State, Society, Beliefs, Ideas & Creativity."
+    }
+  },
+  {
+    "id": "LUX_MAIN",
+    "museum_id": "LUX",
+    "names": {
+      "ar": "قاعة العرض الرئيسية",
+      "en": "Main Display Hall"
+    },
+    "summary": {
+      "ar": "تعرض القطع المختارة من معابد الأقصر، بما فيها التمثال الكامل للملك تحتمس الثالث، وتمثال أمنحتب الثالث المكتشف عام 1989.",
+      "en": "Showcases curated pieces from Luxor temples, including the complete statue of Thutmose III and the Amenhotep III statue from the 1989 cachette."
+    }
+  },
+  {
+    "id": "LUX_MUMMIFICATION",
+    "museum_id": "LUX",
+    "names": {
+      "ar": "قاعة التحنيط",
+      "en": "Mummification Hall"
+    },
+    "summary": {
+      "ar": "تستعرض عملية التحنيط بمعدّاتها وأدواتها وأقمشتها عبر مومياء كاملة وأدوات أصلية.",
+      "en": "Walks through mummification with original tools, linens, and a complete mummy."
+    }
+  },
+  {
+    "id": "MET_DENDUR",
+    "museum_id": "MET",
+    "names": {
+      "ar": "قاعة معبد دندور",
+      "en": "Temple of Dendur Hall (Sackler Wing)"
+    },
+    "summary": {
+      "ar": "صالة شاسعة تستضيف معبد دندور النوبي بالكامل، الذي بُني في عهد أغسطس قيصر نحو عام 15 ق.م. وأُهدي إلى الولايات المتحدة عام 1965.",
+      "en": "Vast gallery housing the entire Nubian Temple of Dendur, built under Augustus Caesar c. 15 BC and gifted to the US in 1965."
+    }
+  },
+  {
+    "id": "BM_EGY_SCULPTURE",
+    "museum_id": "BM",
+    "names": {
+      "ar": "قاعة النحت المصري",
+      "en": "Egyptian Sculpture Gallery (Room 4)"
+    },
+    "summary": {
+      "ar": "تعرض القطع الكبيرة وحجر رشيد والتمثال الكبير لرمسيس الثاني.",
+      "en": "Houses the colossal sculptures, the Rosetta Stone, and the colossal Ramesses II."
+    }
+  },
+  {
+    "id": "BERLIN_NEFERTITI",
+    "museum_id": "BERLIN",
+    "names": {
+      "ar": "قاعة نفرتيتي",
+      "en": "Nefertiti Gallery"
+    },
+    "summary": {
+      "ar": "تستضيف تمثال نفرتيتي الفريد ضمن قاعة منعزلة ومضاءة بدقة.",
+      "en": "Holds the unique Nefertiti Bust in a dedicated, dramatically lit gallery."
+    }
+  }
+]

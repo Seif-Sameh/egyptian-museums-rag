@@ -1,0 +1,116 @@
+{
+  "id": "MET_544766",
+  "names": {
+    "ar": "لوحة (Stela of the royal scribe Amunnakht praising the divine barque of Amun-Re, Lord of the Thrones of the Two Lands)",
+    "en": "Stela of the royal scribe Amunnakht praising the divine barque of Amun-Re, Lord of the Thrones of the Two Lands",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Stela, Amun-Re, Amennkhat, Pentwaer, Deir el Medina",
+  "period": {
+    "ar": "الدولة الحديثة, Ramesside Period",
+    "en": "New Kingdom, Ramesside Period",
+    "year_min": 20,
+    "year_max": 20
+  },
+  "dynasty": {
+    "ar": "الأسرة العشرون",
+    "en": "Dynasty 20"
+  },
+  "material": [
+    "Limestone",
+    "pigment"
+  ],
+  "dimensions": {
+    "text": "H. 43.4 × W. 28.7 × D. 7.5 cm, 17.6 kg (17 1/16 × 11 5/16 × 2 15/16 in., 38.8 lb.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": ""
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 124"
+  },
+  "description": {
+    "ar": "لوحة مصرية قديمة، معروفة بـ«Stela of the royal scribe Amunnakht praising the divine barque of Amun-Re, Lord of the Thrones of the Two Lands»، تعود إلى الدولة الحديثة, Ramesside Period، (الأسرة العشرون)، مصنوعة من حجر جيري وpigment، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Stela of the royal scribe Amunnakht praising the divine barque of Amun-Re, Lord of the Thrones of the Two Lands — Stela, Amun-Re, Amennkhat, Pentwaer, Deir el Medina. Period: New Kingdom, Ramesside Period, Dynasty 20, dated to ca. 1184–1070 BCE. Medium: Limestone, pigment. Dimensions: H. 43.4 × W. 28.7 × D. 7.5 cm, 17.6 kg (17 1/16 × 11 5/16 × 2 15/16 in., 38.8 lb.). Credit: Rogers Fund, 1921.",
+    "ar_intro": "لوحة مصرية قديمة، معروفة بـ«Stela of the royal scribe Amunnakht praising the divine barque of Amun-Re, Lord of the Thrones of the Two Lands»، تعود إلى الدولة الحديثة, Ramesside Period، (الأسرة العشرون)، مصنوعة من حجر جيري وpigment، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Stela of the royal scribe Amunnakht praising the divine barque of Amun-Re, Lord of the Thrones of the Two Lands"
+  },
+  "images": [
+    {
+      "filename": "MET_544766_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP234728.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Stela of the royal scribe Amunnakht praising the divine barque of Amun-Re, Lord of the Thrones of the Two Lands",
+      "object_name": "Stela, Amun-Re, Amennkhat, Pentwaer, Deir el Medina"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544766",
+      "title": "Stela of the royal scribe Amunnakht praising the divine barque of Amun-Re, Lord of the Thrones of the Two Lands",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "men",
+    "hieroglyphs",
+    "boats"
+  ],
+  "related_ids": [
+    "MET_544076",
+    "MET_548338",
+    "MET_548328",
+    "MET_544214",
+    "MET_544320",
+    "MET_544692",
+    "MET_544740",
+    "MET_544776"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي لوحة (Stela of the royal scribe Amunnakht praising the divine barque of Amun-Re, Lord of the Thrones of the Two Lands)؟",
+      "a": "لوحة مصرية قديمة، معروفة بـ«Stela of the royal scribe Amunnakht praising the divine barque of Amun-Re, Lord of the Thrones of the Two Lands»، تعود إلى الدولة الحديثة, Ramesside Period، (الأسرة العشرون)، مصنوعة من حجر جيري وpigment، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد لوحة (Stela of the royal scribe Amunnakht praising the divine barque of Amun-Re, Lord of the Thrones of the Two Lands) حاليًا؟",
+      "a": "تُحفظ لوحة (Stela of the royal scribe Amunnakht praising the divine barque of Amun-Re, Lord of the Thrones of the Two Lands) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود لوحة (Stela of the royal scribe Amunnakht praising the divine barque of Amun-Re, Lord of the Thrones of the Two Lands)؟",
+      "a": "تعود لوحة (Stela of the royal scribe Amunnakht praising the divine barque of Amun-Re, Lord of the Thrones of the Two Lands) إلى الأسرة العشرون.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت لوحة (Stela of the royal scribe Amunnakht praising the divine barque of Amun-Re, Lord of the Thrones of the Two Lands)؟",
+      "a": "صُنعت لوحة (Stela of the royal scribe Amunnakht praising the divine barque of Amun-Re, Lord of the Thrones of the Two Lands) من حجر جيري وpigment.",
+      "evidence": "material",
+      "type": "material"
+    }
+  ],
+  "highlight": false
+}

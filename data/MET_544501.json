@@ -1,0 +1,132 @@
+{
+  "id": "MET_544501",
+  "names": {
+    "ar": "Amphora, ibex, blue-painted ware (Blue-Painted Ibex Amphora from Malqata)",
+    "en": "Blue-Painted Ibex Amphora from Malqata",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Amphora, ibex, blue-painted ware",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1390,
+    "year_max": -1352
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "pottery",
+    "white cream slip",
+    "paint"
+  ],
+  "dimensions": {
+    "text": "H. 39.5 × Dia. 12.7 cm (15 9/16 × 5 in.); Largest Dia: 21 cm (8 1/4 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "MMA excavations, 1910–11"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 119"
+  },
+  "description": {
+    "ar": "Amphora, ibex, blue-painted ware مصرية قديمة، معروفة بـ«Blue-Painted Ibex Amphora from Malqata»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من pottery وwhite cream slip وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Blue-Painted Ibex Amphora from Malqata — Amphora, ibex, blue-painted ware. Period: New Kingdom, Dynasty 18, dated to ca. 1390–1352 B.C.. Medium: pottery, white cream slip, paint. Dimensions: H. 39.5 × Dia. 12.7 cm (15 9/16 × 5 in.); Largest Dia: 21 cm (8 1/4 in.). Excavation: MMA excavations, 1910–11. Country of origin: Egypt. Credit: Rogers Fund, 1911.",
+    "ar_intro": "Amphora, ibex, blue-painted ware مصرية قديمة، معروفة بـ«Blue-Painted Ibex Amphora from Malqata»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من pottery وwhite cream slip وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Blue-Painted Ibex Amphora from Malqata"
+  },
+  "images": [
+    {
+      "filename": "MET_544501_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/11.215.460_view_1.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Blue-Painted Ibex Amphora from Malqata",
+      "object_name": "Amphora, ibex, blue-painted ware"
+    },
+    {
+      "filename": "MET_544501_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/11.215.460_view_2.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Blue-Painted Ibex Amphora from Malqata",
+      "object_name": "Amphora, ibex, blue-painted ware"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544501",
+      "title": "Blue-Painted Ibex Amphora from Malqata",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "ibex"
+  ],
+  "related_ids": [
+    "MET_544056",
+    "MET_544060",
+    "MET_544068",
+    "MET_544442",
+    "MET_544450",
+    "MET_544453",
+    "MET_544478",
+    "MET_544498"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي Amphora, ibex, blue-painted ware (Blue-Painted Ibex Amphora from Malqata)؟",
+      "a": "Amphora, ibex, blue-painted ware مصرية قديمة، معروفة بـ«Blue-Painted Ibex Amphora from Malqata»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من pottery وwhite cream slip وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد Amphora, ibex, blue-painted ware (Blue-Painted Ibex Amphora from Malqata) حاليًا؟",
+      "a": "تُحفظ Amphora, ibex, blue-painted ware (Blue-Painted Ibex Amphora from Malqata) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود Amphora, ibex, blue-painted ware (Blue-Painted Ibex Amphora from Malqata)؟",
+      "a": "تعود Amphora, ibex, blue-painted ware (Blue-Painted Ibex Amphora from Malqata) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت Amphora, ibex, blue-painted ware (Blue-Painted Ibex Amphora from Malqata)؟",
+      "a": "صُنعت Amphora, ibex, blue-painted ware (Blue-Painted Ibex Amphora from Malqata) من pottery وwhite cream slip وpaint.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت Amphora, ibex, blue-painted ware (Blue-Painted Ibex Amphora from Malqata)؟",
+      "a": "أُحضرت Amphora, ibex, blue-painted ware (Blue-Painted Ibex Amphora from Malqata) من MMA excavations, 1910–11.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

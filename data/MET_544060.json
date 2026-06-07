@@ -1,0 +1,115 @@
+{
+  "id": "MET_544060",
+  "names": {
+    "ar": "Talatat, attendants, foreigners (Attendants in a Procession)",
+    "en": "Attendants in a Procession",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Talatat, attendants, foreigners",
+  "period": {
+    "ar": "الدولة الحديثة, Amarna Period",
+    "en": "New Kingdom, Amarna Period",
+    "year_min": -1353,
+    "year_max": -1336
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Limestone",
+    "paint"
+  ],
+  "dimensions": {
+    "text": "24.1 cm (9 1/2 in); w. 53.5 cm (21 1/16 in)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": ""
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 121"
+  },
+  "description": {
+    "ar": "Talatat, attendants, foreigners مصرية قديمة، معروفة بـ«Attendants in a Procession»، تعود إلى الدولة الحديثة, Amarna Period، (الأسرة الثامنة عشرة)، مصنوعة من حجر جيري وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Attendants in a Procession — Talatat, attendants, foreigners. Period: New Kingdom, Amarna Period, Dynasty 18, dated to ca. 1353–1336 B.C.. Medium: Limestone, paint. Dimensions: 24.1 cm (9 1/2 in); w. 53.5 cm (21 1/16 in). Credit: Gift of Norbert Schimmel, 1985.",
+    "ar_intro": "Talatat, attendants, foreigners مصرية قديمة، معروفة بـ«Attendants in a Procession»، تعود إلى الدولة الحديثة, Amarna Period، (الأسرة الثامنة عشرة)، مصنوعة من حجر جيري وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Attendants in a Procession"
+  },
+  "images": [
+    {
+      "filename": "MET_544060_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DT8198.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Attendants in a Procession",
+      "object_name": "Talatat, attendants, foreigners"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544060",
+      "title": "Attendants in a Procession",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "heads",
+    "processions"
+  ],
+  "related_ids": [
+    "MET_544453",
+    "MET_544689",
+    "MET_544690",
+    "MET_544691",
+    "MET_547692",
+    "MET_544056",
+    "MET_544068",
+    "MET_544442"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي Talatat, attendants, foreigners (Attendants in a Procession)؟",
+      "a": "Talatat, attendants, foreigners مصرية قديمة، معروفة بـ«Attendants in a Procession»، تعود إلى الدولة الحديثة, Amarna Period، (الأسرة الثامنة عشرة)، مصنوعة من حجر جيري وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد Talatat, attendants, foreigners (Attendants in a Procession) حاليًا؟",
+      "a": "تُحفظ Talatat, attendants, foreigners (Attendants in a Procession) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود Talatat, attendants, foreigners (Attendants in a Procession)؟",
+      "a": "تعود Talatat, attendants, foreigners (Attendants in a Procession) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت Talatat, attendants, foreigners (Attendants in a Procession)؟",
+      "a": "صُنعت Talatat, attendants, foreigners (Attendants in a Procession) من حجر جيري وpaint.",
+      "evidence": "material",
+      "type": "material"
+    }
+  ],
+  "highlight": false
+}

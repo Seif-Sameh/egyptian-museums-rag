@@ -1,0 +1,2353 @@
+{
+  "ABYDOS": [
+    "PHILAE_TEMPLE",
+    "KOM_OMBO",
+    "RAMSES_II_ABU_SIMBEL",
+    "MEDINET_HABU",
+    "APIS_BULL",
+    "DEIR_EL_BAHARI",
+    "LUXOR_TEMPLE",
+    "VALLEY_OF_KINGS"
+  ],
+  "ALEXANDER_SARCOPHAGUS": [
+    "AMARNA_LETTERS",
+    "AMENEMOPE_TREASURE",
+    "BENT_PYRAMID",
+    "DENDERA_TEMPLE",
+    "KHUFU_SOLAR_BOAT",
+    "KOM_OMBO",
+    "LUXOR_TEMPLE",
+    "MERNEPTAH_STELE"
+  ],
+  "AMARNA_LETTERS": [
+    "KHUFU_SOLAR_BOAT",
+    "PYRAMIDION_AMENEMHAT",
+    "NEFERTITI_BUST",
+    "BULL_PALETTE",
+    "KHAFRE_ENTHRONED",
+    "LIBYAN_PALETTE",
+    "NARMER_PALETTE",
+    "SEATED_SCRIBE"
+  ],
+  "AMENEMOPE_TREASURE": [
+    "MONTUEMHAT",
+    "ALEXANDER_SARCOPHAGUS",
+    "AMARNA_LETTERS",
+    "BULL_PALETTE",
+    "DENDERA_TEMPLE",
+    "HEMIUNU",
+    "KHUFU_SOLAR_BOAT",
+    "KOM_OMBO"
+  ],
+  "AMENHOTEP_III_COLOSSI": [
+    "VALLEY_OF_KINGS",
+    "LUXOR_TEMPLE",
+    "SERAPEUM_SAQQARA",
+    "YUYA_TUYA",
+    "BENT_PYRAMID",
+    "BOOK_OF_DEAD",
+    "DENDERA_TEMPLE",
+    "EDFU_TEMPLE"
+  ],
+  "APIS_BULL": [
+    "DEIR_EL_BAHARI",
+    "PHILAE_TEMPLE",
+    "KHAFRE_ENTHRONED",
+    "NARMER_PALETTE",
+    "ABYDOS",
+    "KOM_OMBO",
+    "NARMER_MACEHEAD",
+    "USHABTI"
+  ],
+  "BENT_PYRAMID": [
+    "RED_PYRAMID",
+    "AMENHOTEP_III_COLOSSI",
+    "EDFU_TEMPLE",
+    "HEMIUNU",
+    "KARNAK_TEMPLE",
+    "MERNEPTAH_STELE",
+    "PHILAE_OBELISK",
+    "SERAPEUM_SAQQARA"
+  ],
+  "BOOK_OF_DEAD": [
+    "PYRAMID_TEXTS",
+    "VALLEY_OF_KINGS",
+    "AMENHOTEP_III_COLOSSI",
+    "PAPYRUS_HUNEFER",
+    "SERAPEUM_SAQQARA",
+    "APIS_BULL",
+    "BENT_PYRAMID",
+    "BULL_PALETTE"
+  ],
+  "BULL_PALETTE": [
+    "LIBYAN_PALETTE",
+    "NARMER_PALETTE",
+    "NARMER_MACEHEAD",
+    "SEATED_SCRIBE",
+    "HEMIUNU",
+    "MEIDUM_GEESE",
+    "RED_PYRAMID",
+    "YUYA_TUYA"
+  ],
+  "CANOPIC_JARS": [
+    "BULL_PALETTE",
+    "COFFIN_TEXTS",
+    "COPTIC_TEXTILES",
+    "MEIDUM_GEESE",
+    "RAMSES_VI_TOMB",
+    "SETI_I_TOMB",
+    "YUYA_TUYA",
+    "ABYDOS"
+  ],
+  "CANOPUS_DECREE": [
+    "LUXOR_TEMPLE",
+    "ABYDOS",
+    "APIS_BULL",
+    "DENDERA_ZODIAC",
+    "KHAFRE_ENTHRONED",
+    "KOM_OMBO",
+    "NARMER_MACEHEAD",
+    "NARMER_PALETTE"
+  ],
+  "COFFIN_TEXTS": [
+    "PYRAMID_TEXTS",
+    "BOOK_OF_DEAD",
+    "BULL_PALETTE",
+    "CANOPIC_JARS",
+    "MEIDUM_GEESE",
+    "RAMSES_VI_TOMB",
+    "SETI_I_TOMB",
+    "YUYA_TUYA"
+  ],
+  "COPTIC_TEXTILES": [
+    "PAPYRUS_HUNEFER",
+    "AMENHOTEP_III_COLOSSI",
+    "APIS_BULL",
+    "BENT_PYRAMID",
+    "BOOK_OF_DEAD",
+    "BULL_PALETTE",
+    "CANOPIC_JARS",
+    "EBERS_PAPYRUS"
+  ],
+  "DEIR_EL_BAHARI": [
+    "GREAT_SPHINX",
+    "APIS_BULL",
+    "PHILAE_TEMPLE",
+    "USHABTI",
+    "EBERS_PAPYRUS",
+    "ABYDOS",
+    "MEDINET_HABU",
+    "TANIS_TREASURES"
+  ],
+  "DENDERA_TEMPLE": [
+    "EBERS_PAPYRUS",
+    "PSAMTIK_OFFERING",
+    "TUT_DAGGER",
+    "AMENHOTEP_III_COLOSSI",
+    "HATSHEPSUT_TEMPLE",
+    "KHUFU_SOLAR_BOAT",
+    "MERNEPTAH_STELE",
+    "PYRAMIDION_AMENEMHAT"
+  ],
+  "DENDERA_ZODIAC": [
+    "MEDINET_HABU",
+    "ABYDOS",
+    "APIS_BULL",
+    "CANOPUS_DECREE",
+    "KHAFRE_ENTHRONED",
+    "KOM_OMBO",
+    "LUXOR_TEMPLE",
+    "NARMER_MACEHEAD"
+  ],
+  "EBERS_PAPYRUS": [
+    "EDWIN_SMITH_PAPYRUS",
+    "RHIND_PAPYRUS",
+    "DEIR_EL_BAHARI",
+    "DENDERA_TEMPLE",
+    "TUT_DAGGER",
+    "APIS_BULL",
+    "PSAMTIK_OFFERING",
+    "HATSHEPSUT_TEMPLE"
+  ],
+  "EDFU_TEMPLE": [
+    "KARNAK_TEMPLE",
+    "PHILAE_OBELISK",
+    "SERAPEUM_SAQQARA",
+    "AMENHOTEP_III_COLOSSI",
+    "BENT_PYRAMID",
+    "EDWIN_SMITH_PAPYRUS",
+    "HATSHEPSUT_TEMPLE",
+    "HEMIUNU"
+  ],
+  "EDWIN_SMITH_PAPYRUS": [
+    "EBERS_PAPYRUS",
+    "RHIND_PAPYRUS",
+    "EDFU_TEMPLE",
+    "KARNAK_TEMPLE",
+    "PHILAE_OBELISK",
+    "PYRAMID_TEXTS",
+    "SERAPEUM_SAQQARA",
+    "YUYA_TUYA"
+  ],
+  "FAYUM_PORTRAITS": [
+    "ABYDOS",
+    "APIS_BULL",
+    "CANOPUS_DECREE",
+    "DEIR_EL_BAHARI",
+    "DENDERA_ZODIAC",
+    "GREAT_SPHINX",
+    "KHAFRE_ENTHRONED",
+    "KOM_OMBO"
+  ],
+  "GREAT_PYRAMID": [
+    "KOM_OMBO",
+    "PSAMTIK_OFFERING",
+    "ABYDOS",
+    "MEDINET_HABU",
+    "PHILAE_TEMPLE",
+    "RAMSES_VI_TOMB",
+    "SERAPEUM_SAQQARA",
+    "TANIS_TREASURES"
+  ],
+  "GREAT_SPHINX": [
+    "DEIR_EL_BAHARI",
+    "USHABTI",
+    "AMENHOTEP_III_COLOSSI",
+    "NARMER_PALETTE",
+    "ABYDOS",
+    "APIS_BULL",
+    "LUXOR_TEMPLE",
+    "PHILAE_TEMPLE"
+  ],
+  "HATSHEPSUT_TEMPLE": [
+    "MET_544442",
+    "MET_544450",
+    "AMENHOTEP_III_COLOSSI",
+    "DENDERA_TEMPLE",
+    "EDFU_TEMPLE",
+    "SERAPEUM_SAQQARA",
+    "VALLEY_OF_KINGS",
+    "APIS_BULL"
+  ],
+  "HEMIUNU": [
+    "RED_PYRAMID",
+    "KARNAK_TEMPLE",
+    "YUYA_TUYA",
+    "AMENHOTEP_III_COLOSSI",
+    "BENT_PYRAMID",
+    "BULL_PALETTE",
+    "EDFU_TEMPLE",
+    "KHUFU_SOLAR_BOAT"
+  ],
+  "KARNAK_TEMPLE": [
+    "EDFU_TEMPLE",
+    "HEMIUNU",
+    "PHILAE_OBELISK",
+    "RED_PYRAMID",
+    "SERAPEUM_SAQQARA",
+    "YUYA_TUYA",
+    "AMENHOTEP_III_COLOSSI",
+    "BENT_PYRAMID"
+  ],
+  "KHAFRE_ENTHRONED": [
+    "MET_543896",
+    "NARMER_PALETTE",
+    "SEATED_SCRIBE",
+    "APIS_BULL",
+    "PHILAE_TEMPLE",
+    "DEIR_EL_BAHARI",
+    "ABYDOS",
+    "CANOPUS_DECREE"
+  ],
+  "KHUFU_SOLAR_BOAT": [
+    "AMARNA_LETTERS",
+    "PYRAMIDION_AMENEMHAT",
+    "DENDERA_TEMPLE",
+    "HEMIUNU",
+    "MERNEPTAH_STELE",
+    "RAMSES_VI_TOMB",
+    "SETI_I_TOMB",
+    "BULL_PALETTE"
+  ],
+  "KOM_OMBO": [
+    "ABYDOS",
+    "PHILAE_TEMPLE",
+    "GREAT_PYRAMID",
+    "PSAMTIK_OFFERING",
+    "APIS_BULL",
+    "LUXOR_TEMPLE",
+    "USHABTI",
+    "MEDINET_HABU"
+  ],
+  "LIBYAN_PALETTE": [
+    "BULL_PALETTE",
+    "NARMER_PALETTE",
+    "NARMER_MACEHEAD",
+    "ABYDOS",
+    "AMARNA_LETTERS",
+    "KHAFRE_ENTHRONED",
+    "KHUFU_SOLAR_BOAT",
+    "PYRAMIDION_AMENEMHAT"
+  ],
+  "LUXOR_TEMPLE": [
+    "AMENHOTEP_III_COLOSSI",
+    "ABYDOS",
+    "CANOPUS_DECREE",
+    "KOM_OMBO",
+    "PHILAE_TEMPLE",
+    "RAMSES_II_ABU_SIMBEL",
+    "USHABTI",
+    "APIS_BULL"
+  ],
+  "MEDINET_HABU": [
+    "TANIS_TREASURES",
+    "ABYDOS",
+    "PHILAE_TEMPLE",
+    "APIS_BULL",
+    "DEIR_EL_BAHARI",
+    "KOM_OMBO",
+    "RAMSES_VI_TOMB",
+    "SERAPEUM_SAQQARA"
+  ],
+  "MEIDUM_GEESE": [
+    "SHEIKH_EL_BALAD",
+    "BULL_PALETTE",
+    "YUYA_TUYA",
+    "AMENHOTEP_III_COLOSSI",
+    "APIS_BULL",
+    "BENT_PYRAMID",
+    "BOOK_OF_DEAD",
+    "CANOPIC_JARS"
+  ],
+  "MERNEPTAH_STELE": [
+    "BENT_PYRAMID",
+    "DENDERA_TEMPLE",
+    "KHUFU_SOLAR_BOAT",
+    "MONTUEMHAT",
+    "RAMSES_VI_TOMB",
+    "SETI_I_TOMB",
+    "CANOPUS_DECREE",
+    "ALEXANDER_SARCOPHAGUS"
+  ],
+  "MET_329931": [],
+  "MET_543864": [
+    "MET_544184",
+    "MET_544214",
+    "MET_544320",
+    "MET_545281",
+    "MET_543867",
+    "MET_544186",
+    "MET_544210",
+    "MET_544227"
+  ],
+  "MET_543866": [
+    "MET_544077"
+  ],
+  "MET_543867": [
+    "MET_543864",
+    "MET_544184",
+    "MET_544186",
+    "MET_544210",
+    "MET_544214",
+    "MET_544227",
+    "MET_544228",
+    "MET_544232"
+  ],
+  "MET_543882": [
+    "MET_543901",
+    "MET_543937",
+    "MET_544184",
+    "MET_544453",
+    "MET_544752",
+    "MET_547772",
+    "MET_547773",
+    "MET_544450"
+  ],
+  "MET_543896": [
+    "KHAFRE_ENTHRONED",
+    "MET_543899",
+    "MET_543903",
+    "MET_544184",
+    "MET_544514",
+    "MET_543864",
+    "MET_543882",
+    "MET_543901"
+  ],
+  "MET_543899": [
+    "MET_543896",
+    "MET_543903",
+    "MET_544740",
+    "MET_543901",
+    "MET_544776",
+    "MET_543864",
+    "MET_543882",
+    "MET_544056"
+  ],
+  "MET_543901": [
+    "MET_543882",
+    "MET_543937",
+    "MET_543899",
+    "MET_544740",
+    "MET_544776",
+    "MET_543864",
+    "MET_543896",
+    "MET_543903"
+  ],
+  "MET_543903": [
+    "MET_543896",
+    "MET_543899",
+    "MET_543864",
+    "MET_543882",
+    "MET_543901",
+    "MET_544056",
+    "MET_544076",
+    "MET_544184"
+  ],
+  "MET_543937": [
+    "MET_543882",
+    "MET_543901"
+  ],
+  "MET_544056": [
+    "MET_544686",
+    "MET_544453",
+    "MET_544478",
+    "MET_544683",
+    "MET_544692",
+    "MET_544720",
+    "MET_547684",
+    "MET_547687"
+  ],
+  "MET_544060": [
+    "MET_544453",
+    "MET_544689",
+    "MET_544690",
+    "MET_544691",
+    "MET_547692",
+    "MET_544056",
+    "MET_544068",
+    "MET_544442"
+  ],
+  "MET_544066": [
+    "MET_544702",
+    "MET_544740",
+    "MET_544752",
+    "MET_545870",
+    "MET_547704",
+    "MET_554769",
+    "MET_544076",
+    "MET_544077"
+  ],
+  "MET_544067": [
+    "MET_544092",
+    "MET_544822",
+    "MET_548339",
+    "MET_547376"
+  ],
+  "MET_544068": [
+    "MET_548584",
+    "MET_544056",
+    "MET_544060",
+    "MET_544442",
+    "MET_544450",
+    "MET_544453",
+    "MET_544478",
+    "MET_544498"
+  ],
+  "MET_544070": [
+    "MET_543867",
+    "MET_544068",
+    "MET_548584",
+    "MET_557138"
+  ],
+  "MET_544076": [
+    "MET_544766",
+    "MET_548328",
+    "MET_543864",
+    "MET_543882",
+    "MET_543896",
+    "MET_543899",
+    "MET_543901",
+    "MET_543903"
+  ],
+  "MET_544077": [
+    "MET_543866",
+    "MET_544066",
+    "MET_544076"
+  ],
+  "MET_544092": [
+    "MET_544067",
+    "MET_544822",
+    "MET_548339",
+    "MET_544691",
+    "MET_547904"
+  ],
+  "MET_544118": [],
+  "MET_544184": [
+    "MET_543864",
+    "MET_544186",
+    "MET_544214",
+    "MET_544320",
+    "MET_545281",
+    "MET_543867",
+    "MET_544210",
+    "MET_544227"
+  ],
+  "MET_544186": [
+    "MET_544184",
+    "MET_544228",
+    "MET_544232",
+    "MET_544320",
+    "MET_543864",
+    "MET_543867",
+    "MET_544210",
+    "MET_544214"
+  ],
+  "MET_544210": [
+    "MET_544214",
+    "MET_545281",
+    "MET_543864",
+    "MET_543867",
+    "MET_544184",
+    "MET_544186",
+    "MET_544227",
+    "MET_544228"
+  ],
+  "MET_544214": [
+    "MET_545281",
+    "MET_543864",
+    "MET_544184",
+    "MET_544210",
+    "MET_544320",
+    "MET_543867",
+    "MET_544186",
+    "MET_544227"
+  ],
+  "MET_544227": [
+    "MET_543864",
+    "MET_543867",
+    "MET_544184",
+    "MET_544186",
+    "MET_544210",
+    "MET_544214",
+    "MET_544228",
+    "MET_544232"
+  ],
+  "MET_544228": [
+    "MET_544186",
+    "MET_544232",
+    "MET_544320",
+    "MET_543864",
+    "MET_543867",
+    "MET_544184",
+    "MET_544210",
+    "MET_544214"
+  ],
+  "MET_544232": [
+    "MET_544186",
+    "MET_544228",
+    "MET_544320",
+    "MET_543864",
+    "MET_543867",
+    "MET_544184",
+    "MET_544210",
+    "MET_544214"
+  ],
+  "MET_544319": [
+    "MET_543864",
+    "MET_543867",
+    "MET_544184",
+    "MET_544186",
+    "MET_544210",
+    "MET_544214",
+    "MET_544227",
+    "MET_544228"
+  ],
+  "MET_544320": [
+    "MET_545281",
+    "MET_543864",
+    "MET_544184",
+    "MET_544186",
+    "MET_544214",
+    "MET_544228",
+    "MET_544232",
+    "MET_548338"
+  ],
+  "MET_544326": [
+    "MET_548264",
+    "MET_544186",
+    "MET_544228",
+    "MET_544232",
+    "MET_544320",
+    "MET_544692",
+    "MET_544740",
+    "MET_544766"
+  ],
+  "MET_544442": [
+    "MET_544450",
+    "HATSHEPSUT_TEMPLE",
+    "MET_544498",
+    "MET_544826",
+    "MET_544056",
+    "MET_544060",
+    "MET_544068",
+    "MET_544453"
+  ],
+  "MET_544450": [
+    "MET_544442",
+    "HATSHEPSUT_TEMPLE",
+    "MET_544453",
+    "MET_544689",
+    "MET_547692",
+    "MET_547772",
+    "MET_548584",
+    "MET_544056"
+  ],
+  "MET_544451": [
+    "MET_545146",
+    "MET_547031",
+    "MET_544683",
+    "MET_547951",
+    "MET_547900",
+    "MET_548339"
+  ],
+  "MET_544453": [
+    "MET_544478",
+    "MET_544498",
+    "MET_544502",
+    "MET_547772",
+    "MET_544056",
+    "MET_544060",
+    "MET_544450",
+    "MET_544683"
+  ],
+  "MET_544478": [
+    "MET_544453",
+    "MET_544498",
+    "MET_544502",
+    "MET_544056",
+    "MET_544683",
+    "MET_544686",
+    "MET_544692",
+    "MET_544720"
+  ],
+  "MET_544498": [
+    "MET_544453",
+    "MET_544478",
+    "MET_544502",
+    "MET_544442",
+    "MET_544826",
+    "MET_544056",
+    "MET_544060",
+    "MET_544068"
+  ],
+  "MET_544501": [
+    "MET_544056",
+    "MET_544060",
+    "MET_544068",
+    "MET_544442",
+    "MET_544450",
+    "MET_544453",
+    "MET_544478",
+    "MET_544498"
+  ],
+  "MET_544502": [
+    "MET_544453",
+    "MET_544478",
+    "MET_544498",
+    "MET_544056",
+    "MET_544060",
+    "MET_544068",
+    "MET_544442",
+    "MET_544450"
+  ],
+  "MET_544509": [
+    "MET_544680",
+    "MET_544056",
+    "MET_544060",
+    "MET_544068",
+    "MET_544442",
+    "MET_544450",
+    "MET_544453",
+    "MET_544478"
+  ],
+  "MET_544514": [
+    "MET_543896",
+    "MET_544184",
+    "MET_543899",
+    "MET_543901",
+    "MET_544210",
+    "MET_544450",
+    "MET_544689",
+    "MET_544740"
+  ],
+  "MET_544519": [
+    "MET_544056",
+    "MET_544060",
+    "MET_544068",
+    "MET_544442",
+    "MET_544450",
+    "MET_544453",
+    "MET_544478",
+    "MET_544498"
+  ],
+  "MET_544680": [
+    "MET_544509",
+    "MET_544056",
+    "MET_544060",
+    "MET_544068",
+    "MET_544442",
+    "MET_544450",
+    "MET_544453",
+    "MET_544478"
+  ],
+  "MET_544683": [
+    "MET_544056",
+    "MET_544453",
+    "MET_544478",
+    "MET_544686",
+    "MET_544692",
+    "MET_544720",
+    "MET_547684",
+    "MET_547687"
+  ],
+  "MET_544686": [
+    "MET_544056",
+    "MET_544453",
+    "MET_544478",
+    "MET_544683",
+    "MET_544692",
+    "MET_544720",
+    "MET_547684",
+    "MET_547687"
+  ],
+  "MET_544689": [
+    "MET_547692",
+    "MET_544060",
+    "MET_544450",
+    "MET_544453",
+    "MET_544690",
+    "MET_544691",
+    "MET_548584",
+    "MET_544056"
+  ],
+  "MET_544690": [
+    "MET_544691",
+    "MET_544781",
+    "MET_544782",
+    "TUT_DAGGER",
+    "TUT_MASK",
+    "MET_544060",
+    "MET_544453",
+    "MET_544689"
+  ],
+  "MET_544691": [
+    "MET_544690",
+    "MET_544781",
+    "MET_544782",
+    "TUT_DAGGER",
+    "TUT_MASK",
+    "MET_544060",
+    "MET_544453",
+    "MET_544689"
+  ],
+  "MET_544692": [
+    "MET_547687",
+    "MET_544056",
+    "MET_544453",
+    "MET_544478",
+    "MET_544683",
+    "MET_544686",
+    "MET_544720",
+    "MET_544826"
+  ],
+  "MET_544693": [
+    "MET_544056",
+    "MET_544060",
+    "MET_544068",
+    "MET_544442",
+    "MET_544450",
+    "MET_544453",
+    "MET_544478",
+    "MET_544498"
+  ],
+  "MET_544702": [
+    "MET_544066",
+    "MET_544740",
+    "MET_544752",
+    "MET_545870",
+    "MET_547704",
+    "MET_554769"
+  ],
+  "MET_544720": [
+    "MET_544056",
+    "MET_544453",
+    "MET_544478",
+    "MET_544683",
+    "MET_544686",
+    "MET_544692",
+    "MET_547684",
+    "MET_547687"
+  ],
+  "MET_544740": [
+    "MET_554769",
+    "MET_544752",
+    "MET_545870",
+    "MET_543899",
+    "MET_544776",
+    "MET_544066",
+    "MET_544702",
+    "MET_547704"
+  ],
+  "MET_544752": [
+    "SETI_I_TOMB",
+    "MET_544740",
+    "MET_545870",
+    "MET_554769",
+    "MET_544066",
+    "MET_544702",
+    "MET_547704",
+    "MET_543882"
+  ],
+  "MET_544766": [
+    "MET_544076",
+    "MET_548338",
+    "MET_548328",
+    "MET_544214",
+    "MET_544320",
+    "MET_544692",
+    "MET_544740",
+    "MET_544776"
+  ],
+  "MET_544776": [
+    "MET_544740",
+    "MET_543899",
+    "MET_543901",
+    "MET_544320",
+    "MET_544692",
+    "MET_544766",
+    "MET_547687",
+    "MET_547694"
+  ],
+  "MET_544781": [
+    "MET_544690",
+    "MET_544691",
+    "MET_544782",
+    "TUT_DAGGER",
+    "TUT_MASK",
+    "MET_544056",
+    "MET_544060",
+    "MET_544068"
+  ],
+  "MET_544782": [
+    "MET_544690",
+    "MET_544691",
+    "MET_544781",
+    "TUT_DAGGER",
+    "TUT_MASK",
+    "MET_544056",
+    "MET_544060",
+    "MET_544068"
+  ],
+  "MET_544822": [
+    "MET_544067",
+    "MET_544092",
+    "MET_548339"
+  ],
+  "MET_544826": [
+    "MET_554915",
+    "MET_547772",
+    "MET_544442",
+    "MET_544498",
+    "MET_544692",
+    "MET_546012",
+    "MET_547687",
+    "MET_554367"
+  ],
+  "MET_544853": [
+    "MET_544056",
+    "MET_544060",
+    "MET_544068",
+    "MET_544442",
+    "MET_544450",
+    "MET_544453",
+    "MET_544478",
+    "MET_544498"
+  ],
+  "MET_544864": [
+    "MET_544227",
+    "MET_547775",
+    "MET_544326",
+    "MET_553045"
+  ],
+  "MET_544874": [
+    "MET_553742",
+    "MET_560963",
+    "MET_543864",
+    "MET_543882",
+    "MET_543896",
+    "MET_543899",
+    "MET_543901",
+    "MET_543903"
+  ],
+  "MET_544884": [
+    "MET_545213",
+    "MET_546746",
+    "MET_548338",
+    "MET_550755",
+    "MET_553027",
+    "MET_544060",
+    "MET_544453",
+    "MET_544689"
+  ],
+  "MET_544887": [
+    "MET_547556",
+    "MET_546037",
+    "MET_545870",
+    "MET_544752",
+    "MET_544232",
+    "MET_544826",
+    "MET_552062",
+    "MET_555577"
+  ],
+  "MET_545027": [
+    "MET_547771",
+    "MET_587591",
+    "MET_543864",
+    "MET_543882",
+    "MET_543896",
+    "MET_543899",
+    "MET_543901",
+    "MET_543903"
+  ],
+  "MET_545113": [
+    "MET_548344"
+  ],
+  "MET_545146": [
+    "MET_544451",
+    "MET_547031",
+    "MET_544186",
+    "MET_544228",
+    "MET_544232",
+    "MET_544320",
+    "MET_544326",
+    "MET_544692"
+  ],
+  "MET_545213": [
+    "MET_544884",
+    "MET_546746",
+    "MET_548338",
+    "MET_550755",
+    "MET_553027"
+  ],
+  "MET_545281": [
+    "MET_544214",
+    "MET_544320",
+    "MET_543864",
+    "MET_544184",
+    "MET_544210",
+    "MET_543867",
+    "MET_544186",
+    "MET_544227"
+  ],
+  "MET_545635": [],
+  "MET_545870": [
+    "MET_544740",
+    "MET_544752",
+    "MET_554769",
+    "MET_544066",
+    "MET_544702",
+    "MET_547704",
+    "MET_544887",
+    "MET_544232"
+  ],
+  "MET_545919": [
+    "MET_555398",
+    "MET_569388",
+    "MET_569389",
+    "MET_569390",
+    "MET_569391",
+    "MET_569392",
+    "MET_569393",
+    "MET_569394"
+  ],
+  "MET_546012": [
+    "MET_544692",
+    "MET_544826",
+    "MET_547687",
+    "MET_554367",
+    "MET_554915",
+    "MET_554935",
+    "MET_554936",
+    "MET_554948"
+  ],
+  "MET_546037": [
+    "MET_544887",
+    "MET_547556",
+    "MET_548264",
+    "MET_548310",
+    "MET_548344",
+    "MET_547904"
+  ],
+  "MET_546194": [
+    "MET_544509",
+    "MET_544680"
+  ],
+  "MET_546746": [
+    "MET_544884",
+    "MET_545213",
+    "MET_548338",
+    "MET_550755",
+    "MET_553027"
+  ],
+  "MET_547031": [
+    "MET_544451",
+    "MET_545146"
+  ],
+  "MET_547232": [
+    "MET_543864",
+    "MET_543882",
+    "MET_543896",
+    "MET_543899",
+    "MET_543901",
+    "MET_543903",
+    "MET_544056",
+    "MET_544076"
+  ],
+  "MET_547257": [
+    "MET_543899",
+    "MET_543901",
+    "MET_544210",
+    "MET_544450",
+    "MET_544514",
+    "MET_544689",
+    "MET_544740",
+    "MET_544776"
+  ],
+  "MET_547376": [
+    "MET_544067"
+  ],
+  "MET_547556": [
+    "MET_544887",
+    "MET_546037",
+    "MET_544232",
+    "MET_544826",
+    "MET_545870",
+    "MET_552062",
+    "MET_555577",
+    "MET_548264"
+  ],
+  "MET_547684": [
+    "MET_544056",
+    "MET_544453",
+    "MET_544478",
+    "MET_544683",
+    "MET_544686",
+    "MET_544692",
+    "MET_544720",
+    "MET_547687"
+  ],
+  "MET_547687": [
+    "MET_544692",
+    "MET_544056",
+    "MET_544453",
+    "MET_544478",
+    "MET_544683",
+    "MET_544686",
+    "MET_544720",
+    "MET_544826"
+  ],
+  "MET_547689": [
+    "MET_543864",
+    "MET_543882",
+    "MET_543896",
+    "MET_543899",
+    "MET_543901",
+    "MET_543903",
+    "MET_544056",
+    "MET_544076"
+  ],
+  "MET_547692": [
+    "MET_544689",
+    "MET_544060",
+    "MET_544450",
+    "MET_544453",
+    "MET_544690",
+    "MET_544691",
+    "MET_548584",
+    "MET_544056"
+  ],
+  "MET_547694": [
+    "MET_544320",
+    "MET_544692",
+    "MET_544740",
+    "MET_544766",
+    "MET_544776",
+    "MET_547687",
+    "MET_548338",
+    "MET_548360"
+  ],
+  "MET_547699": [
+    "MET_544689",
+    "MET_547692",
+    "MET_544060",
+    "MET_544453",
+    "MET_544690",
+    "MET_544691",
+    "MET_544884",
+    "MET_547704"
+  ],
+  "MET_547704": [
+    "MET_544066",
+    "MET_544702",
+    "MET_544740",
+    "MET_544752",
+    "MET_545870",
+    "MET_554769",
+    "MET_544060",
+    "MET_544453"
+  ],
+  "MET_547771": [
+    "MET_545027",
+    "MET_587591"
+  ],
+  "MET_547772": [
+    "MET_544826",
+    "MET_554915",
+    "MET_544453",
+    "MET_544056",
+    "MET_544450",
+    "MET_544478",
+    "MET_544683",
+    "MET_544686"
+  ],
+  "MET_547773": [
+    "MET_544453",
+    "MET_543882",
+    "MET_544184",
+    "MET_544752",
+    "MET_547772",
+    "MET_544450",
+    "MET_548212",
+    "MET_544060"
+  ],
+  "MET_547775": [
+    "MET_544056",
+    "MET_544060",
+    "MET_544068",
+    "MET_544442",
+    "MET_544450",
+    "MET_544453",
+    "MET_544478",
+    "MET_544498"
+  ],
+  "MET_547777": [
+    "MET_544056",
+    "MET_544060",
+    "MET_544068",
+    "MET_544442",
+    "MET_544450",
+    "MET_544453",
+    "MET_544478",
+    "MET_544498"
+  ],
+  "MET_547802": [],
+  "MET_547900": [
+    "MET_544451",
+    "MET_548339"
+  ],
+  "MET_547904": [
+    "MET_546037",
+    "MET_544092",
+    "MET_544691"
+  ],
+  "MET_547951": [
+    "MET_544451",
+    "MET_544683",
+    "MET_544184"
+  ],
+  "MET_548212": [
+    "MET_543882",
+    "MET_544184",
+    "MET_544450",
+    "MET_544453",
+    "MET_544752",
+    "MET_547772",
+    "MET_547773",
+    "MET_544186"
+  ],
+  "MET_548230": [],
+  "MET_548264": [
+    "MET_548344",
+    "MET_544326",
+    "MET_546037",
+    "MET_548310",
+    "MET_544186",
+    "MET_544228",
+    "MET_544232",
+    "MET_544320"
+  ],
+  "MET_548300": [
+    "MET_543864",
+    "MET_543882",
+    "MET_543896",
+    "MET_543899",
+    "MET_543901",
+    "MET_543903",
+    "MET_544056",
+    "MET_544076"
+  ],
+  "MET_548310": [
+    "MET_546037",
+    "MET_548264",
+    "MET_548344",
+    "MET_544887",
+    "MET_547556"
+  ],
+  "MET_548328": [
+    "MET_544076",
+    "MET_544766"
+  ],
+  "MET_548338": [
+    "MET_550755",
+    "MET_544320",
+    "MET_544766",
+    "MET_544884",
+    "MET_545213",
+    "MET_546746",
+    "MET_553027",
+    "MET_545281"
+  ],
+  "MET_548339": [
+    "MET_544067",
+    "MET_544092",
+    "MET_544822",
+    "MET_543864",
+    "MET_543882",
+    "MET_543896",
+    "MET_543899",
+    "MET_543901"
+  ],
+  "MET_548343": [
+    "YUYA_TUYA",
+    "MET_544056",
+    "MET_544060",
+    "MET_544068",
+    "MET_544442",
+    "MET_544450",
+    "MET_544453",
+    "MET_544478"
+  ],
+  "MET_548344": [
+    "MET_548264",
+    "MET_545113",
+    "MET_546037",
+    "MET_548310",
+    "MET_544186",
+    "MET_544228",
+    "MET_544232",
+    "MET_544320"
+  ],
+  "MET_548360": [
+    "MET_544320",
+    "MET_544692",
+    "MET_544740",
+    "MET_544766",
+    "MET_544776",
+    "MET_547687",
+    "MET_547694",
+    "MET_548338"
+  ],
+  "MET_548584": [
+    "MET_544068",
+    "MET_544450",
+    "MET_544689",
+    "MET_547692",
+    "MET_544056",
+    "MET_544060",
+    "MET_544442",
+    "MET_544453"
+  ],
+  "MET_549169": [],
+  "MET_549481": [
+    "MET_544056",
+    "MET_544060",
+    "MET_544068",
+    "MET_544442",
+    "MET_544450",
+    "MET_544453",
+    "MET_544478",
+    "MET_544498"
+  ],
+  "MET_549704": [],
+  "MET_550755": [
+    "PSAMTIK_OFFERING",
+    "MET_548338",
+    "MET_544884",
+    "MET_545213",
+    "MET_546746",
+    "MET_553027",
+    "MET_543864",
+    "MET_543882"
+  ],
+  "MET_552036": [],
+  "MET_552061": [
+    "MET_552062",
+    "MET_555577",
+    "MET_555578",
+    "MET_555579",
+    "MET_555580",
+    "MET_555581",
+    "MET_555582",
+    "MET_555583"
+  ],
+  "MET_552062": [
+    "MET_555577",
+    "MET_552061",
+    "MET_555578",
+    "MET_555579",
+    "MET_555580",
+    "MET_555581",
+    "MET_555582",
+    "MET_555583"
+  ],
+  "MET_552603": [
+    "MET_552835",
+    "MET_552836",
+    "MET_555140",
+    "MET_548339"
+  ],
+  "MET_552835": [
+    "MET_552603",
+    "MET_552836",
+    "MET_555140"
+  ],
+  "MET_552836": [
+    "MET_552603",
+    "MET_552835",
+    "MET_555140"
+  ],
+  "MET_553027": [
+    "MET_544884",
+    "MET_545213",
+    "MET_546746",
+    "MET_548338",
+    "MET_550755"
+  ],
+  "MET_553045": [
+    "MET_544326",
+    "MET_544864"
+  ],
+  "MET_553742": [
+    "MET_544874",
+    "MET_560963"
+  ],
+  "MET_554367": [
+    "MET_544692",
+    "MET_544826",
+    "MET_546012",
+    "MET_547687",
+    "MET_554915",
+    "MET_554935",
+    "MET_554936",
+    "MET_554948"
+  ],
+  "MET_554615": [
+    "MET_544056",
+    "MET_544060",
+    "MET_544068",
+    "MET_544442",
+    "MET_544450",
+    "MET_544453",
+    "MET_544478",
+    "MET_544498"
+  ],
+  "MET_554769": [
+    "MET_544740",
+    "MET_544752",
+    "MET_545870",
+    "MET_544066",
+    "MET_544702",
+    "MET_547704",
+    "MET_544320",
+    "MET_544692"
+  ],
+  "MET_554772": [
+    "MET_544056",
+    "MET_544060",
+    "MET_544068",
+    "MET_544442",
+    "MET_544450",
+    "MET_544453",
+    "MET_544478",
+    "MET_544498"
+  ],
+  "MET_554915": [
+    "MET_544826",
+    "MET_547772",
+    "MET_544692",
+    "MET_546012",
+    "MET_547687",
+    "MET_554367",
+    "MET_554935",
+    "MET_554936"
+  ],
+  "MET_554935": [
+    "MET_544692",
+    "MET_544826",
+    "MET_546012",
+    "MET_547687",
+    "MET_554367",
+    "MET_554915",
+    "MET_554936",
+    "MET_554948"
+  ],
+  "MET_554936": [
+    "MET_544692",
+    "MET_544826",
+    "MET_546012",
+    "MET_547687",
+    "MET_554367",
+    "MET_554915",
+    "MET_554935",
+    "MET_554948"
+  ],
+  "MET_554948": [
+    "MET_544692",
+    "MET_544826",
+    "MET_546012",
+    "MET_547687",
+    "MET_554367",
+    "MET_554915",
+    "MET_554935",
+    "MET_554936"
+  ],
+  "MET_554949": [
+    "MET_544692",
+    "MET_544826",
+    "MET_546012",
+    "MET_547687",
+    "MET_554367",
+    "MET_554915",
+    "MET_554935",
+    "MET_554936"
+  ],
+  "MET_554966": [
+    "MET_544692",
+    "MET_544826",
+    "MET_546012",
+    "MET_547687",
+    "MET_554367",
+    "MET_554915",
+    "MET_554935",
+    "MET_554936"
+  ],
+  "MET_554994": [
+    "MET_544692",
+    "MET_544826",
+    "MET_546012",
+    "MET_547687",
+    "MET_554367",
+    "MET_554915",
+    "MET_554935",
+    "MET_554936"
+  ],
+  "MET_554996": [
+    "MET_544692",
+    "MET_544826",
+    "MET_546012",
+    "MET_547687",
+    "MET_554367",
+    "MET_554915",
+    "MET_554935",
+    "MET_554936"
+  ],
+  "MET_555005": [
+    "MET_544692",
+    "MET_544826",
+    "MET_546012",
+    "MET_547687",
+    "MET_554367",
+    "MET_554915",
+    "MET_554935",
+    "MET_554936"
+  ],
+  "MET_555007": [
+    "MET_544692",
+    "MET_544826",
+    "MET_546012",
+    "MET_547687",
+    "MET_554367",
+    "MET_554915",
+    "MET_554935",
+    "MET_554936"
+  ],
+  "MET_555140": [
+    "MET_552603",
+    "MET_552835",
+    "MET_552836",
+    "MET_545146",
+    "MET_557140"
+  ],
+  "MET_555398": [
+    "MET_545919",
+    "MET_569388",
+    "MET_569389",
+    "MET_569390",
+    "MET_569391",
+    "MET_569392",
+    "MET_569393",
+    "MET_569394"
+  ],
+  "MET_555577": [
+    "MET_552062",
+    "MET_552061",
+    "MET_555578",
+    "MET_555579",
+    "MET_555580",
+    "MET_555581",
+    "MET_555582",
+    "MET_555583"
+  ],
+  "MET_555578": [
+    "MET_555579",
+    "MET_552061",
+    "MET_552062",
+    "MET_555577",
+    "MET_555580",
+    "MET_555581",
+    "MET_555582",
+    "MET_555583"
+  ],
+  "MET_555579": [
+    "MET_555578",
+    "MET_552061",
+    "MET_552062",
+    "MET_555577",
+    "MET_555580",
+    "MET_555581",
+    "MET_555582",
+    "MET_555583"
+  ],
+  "MET_555580": [
+    "MET_552061",
+    "MET_552062",
+    "MET_555577",
+    "MET_555578",
+    "MET_555579",
+    "MET_555581",
+    "MET_555582",
+    "MET_555583"
+  ],
+  "MET_555581": [
+    "MET_552061",
+    "MET_552062",
+    "MET_555577",
+    "MET_555578",
+    "MET_555579",
+    "MET_555580",
+    "MET_555582",
+    "MET_555583"
+  ],
+  "MET_555582": [
+    "MET_552061",
+    "MET_552062",
+    "MET_555577",
+    "MET_555578",
+    "MET_555579",
+    "MET_555580",
+    "MET_555581",
+    "MET_555583"
+  ],
+  "MET_555583": [
+    "MET_555584",
+    "MET_552061",
+    "MET_552062",
+    "MET_555577",
+    "MET_555578",
+    "MET_555579",
+    "MET_555580",
+    "MET_555581"
+  ],
+  "MET_555584": [
+    "MET_555583",
+    "MET_552061",
+    "MET_552062",
+    "MET_555577",
+    "MET_555578",
+    "MET_555579",
+    "MET_555580",
+    "MET_555581"
+  ],
+  "MET_555585": [
+    "MET_552061",
+    "MET_552062",
+    "MET_555577",
+    "MET_555578",
+    "MET_555579",
+    "MET_555580",
+    "MET_555581",
+    "MET_555582"
+  ],
+  "MET_555586": [
+    "MET_552061",
+    "MET_552062",
+    "MET_555577",
+    "MET_555578",
+    "MET_555579",
+    "MET_555580",
+    "MET_555581",
+    "MET_555582"
+  ],
+  "MET_555587": [
+    "MET_552061",
+    "MET_552062",
+    "MET_555577",
+    "MET_555578",
+    "MET_555579",
+    "MET_555580",
+    "MET_555581",
+    "MET_555582"
+  ],
+  "MET_555589": [
+    "MET_552061",
+    "MET_552062",
+    "MET_555577",
+    "MET_555578",
+    "MET_555579",
+    "MET_555580",
+    "MET_555581",
+    "MET_555582"
+  ],
+  "MET_555590": [
+    "MET_552061",
+    "MET_552062",
+    "MET_555577",
+    "MET_555578",
+    "MET_555579",
+    "MET_555580",
+    "MET_555581",
+    "MET_555582"
+  ],
+  "MET_555591": [
+    "MET_552061",
+    "MET_552062",
+    "MET_555577",
+    "MET_555578",
+    "MET_555579",
+    "MET_555580",
+    "MET_555581",
+    "MET_555582"
+  ],
+  "MET_555592": [
+    "MET_552061",
+    "MET_552062",
+    "MET_555577",
+    "MET_555578",
+    "MET_555579",
+    "MET_555580",
+    "MET_555581",
+    "MET_555582"
+  ],
+  "MET_555593": [
+    "MET_552061",
+    "MET_552062",
+    "MET_555577",
+    "MET_555578",
+    "MET_555579",
+    "MET_555580",
+    "MET_555581",
+    "MET_555582"
+  ],
+  "MET_555594": [
+    "MET_552061",
+    "MET_552062",
+    "MET_555577",
+    "MET_555578",
+    "MET_555579",
+    "MET_555580",
+    "MET_555581",
+    "MET_555582"
+  ],
+  "MET_555595": [
+    "MET_552061",
+    "MET_552062",
+    "MET_555577",
+    "MET_555578",
+    "MET_555579",
+    "MET_555580",
+    "MET_555581",
+    "MET_555582"
+  ],
+  "MET_555596": [
+    "MET_552061",
+    "MET_552062",
+    "MET_555577",
+    "MET_555578",
+    "MET_555579",
+    "MET_555580",
+    "MET_555581",
+    "MET_555582"
+  ],
+  "MET_555597": [
+    "MET_552061",
+    "MET_552062",
+    "MET_555577",
+    "MET_555578",
+    "MET_555579",
+    "MET_555580",
+    "MET_555581",
+    "MET_555582"
+  ],
+  "MET_555598": [
+    "MET_552061",
+    "MET_552062",
+    "MET_555577",
+    "MET_555578",
+    "MET_555579",
+    "MET_555580",
+    "MET_555581",
+    "MET_555582"
+  ],
+  "MET_555599": [
+    "MET_552061",
+    "MET_552062",
+    "MET_555577",
+    "MET_555578",
+    "MET_555579",
+    "MET_555580",
+    "MET_555581",
+    "MET_555582"
+  ],
+  "MET_555600": [
+    "MET_552061",
+    "MET_552062",
+    "MET_555577",
+    "MET_555578",
+    "MET_555579",
+    "MET_555580",
+    "MET_555581",
+    "MET_555582"
+  ],
+  "MET_555602": [
+    "MET_552061",
+    "MET_552062",
+    "MET_555577",
+    "MET_555578",
+    "MET_555579",
+    "MET_555580",
+    "MET_555581",
+    "MET_555582"
+  ],
+  "MET_555603": [
+    "MET_552061",
+    "MET_552062",
+    "MET_555577",
+    "MET_555578",
+    "MET_555579",
+    "MET_555580",
+    "MET_555581",
+    "MET_555582"
+  ],
+  "MET_555604": [
+    "MET_552061",
+    "MET_552062",
+    "MET_555577",
+    "MET_555578",
+    "MET_555579",
+    "MET_555580",
+    "MET_555581",
+    "MET_555582"
+  ],
+  "MET_555605": [
+    "MET_552061",
+    "MET_552062",
+    "MET_555577",
+    "MET_555578",
+    "MET_555579",
+    "MET_555580",
+    "MET_555581",
+    "MET_555582"
+  ],
+  "MET_557138": [
+    "MET_543867",
+    "MET_544068",
+    "MET_544070",
+    "MET_548584"
+  ],
+  "MET_557140": [
+    "MET_543864",
+    "MET_543867",
+    "MET_544184",
+    "MET_544186",
+    "MET_544210",
+    "MET_544214",
+    "MET_544227",
+    "MET_544228"
+  ],
+  "MET_560963": [
+    "MET_544874",
+    "MET_553742"
+  ],
+  "MET_561102": [
+    "MET_544692",
+    "MET_544826",
+    "MET_546012",
+    "MET_547687",
+    "MET_554367",
+    "MET_554915",
+    "MET_554935",
+    "MET_554936"
+  ],
+  "MET_569388": [
+    "MET_545919",
+    "MET_555398",
+    "MET_569389",
+    "MET_569390",
+    "MET_569391",
+    "MET_569392",
+    "MET_569393",
+    "MET_569394"
+  ],
+  "MET_569389": [
+    "MET_545919",
+    "MET_555398",
+    "MET_569388",
+    "MET_569390",
+    "MET_569391",
+    "MET_569392",
+    "MET_569393",
+    "MET_569394"
+  ],
+  "MET_569390": [
+    "MET_545919",
+    "MET_555398",
+    "MET_569388",
+    "MET_569389",
+    "MET_569391",
+    "MET_569392",
+    "MET_569393",
+    "MET_569394"
+  ],
+  "MET_569391": [
+    "MET_545919",
+    "MET_555398",
+    "MET_569388",
+    "MET_569389",
+    "MET_569390",
+    "MET_569392",
+    "MET_569393",
+    "MET_569394"
+  ],
+  "MET_569392": [
+    "MET_545919",
+    "MET_555398",
+    "MET_569388",
+    "MET_569389",
+    "MET_569390",
+    "MET_569391",
+    "MET_569393",
+    "MET_569394"
+  ],
+  "MET_569393": [
+    "MET_545919",
+    "MET_555398",
+    "MET_569388",
+    "MET_569389",
+    "MET_569390",
+    "MET_569391",
+    "MET_569392",
+    "MET_569394"
+  ],
+  "MET_569394": [
+    "MET_545919",
+    "MET_555398",
+    "MET_569388",
+    "MET_569389",
+    "MET_569390",
+    "MET_569391",
+    "MET_569392",
+    "MET_569393"
+  ],
+  "MET_569395": [
+    "MET_545919",
+    "MET_555398",
+    "MET_569388",
+    "MET_569389",
+    "MET_569390",
+    "MET_569391",
+    "MET_569392",
+    "MET_569393"
+  ],
+  "MET_569396": [
+    "MET_545919",
+    "MET_555398",
+    "MET_569388",
+    "MET_569389",
+    "MET_569390",
+    "MET_569391",
+    "MET_569392",
+    "MET_569393"
+  ],
+  "MET_569397": [
+    "MET_545919",
+    "MET_555398",
+    "MET_569388",
+    "MET_569389",
+    "MET_569390",
+    "MET_569391",
+    "MET_569392",
+    "MET_569393"
+  ],
+  "MET_569398": [
+    "MET_545919",
+    "MET_555398",
+    "MET_569388",
+    "MET_569389",
+    "MET_569390",
+    "MET_569391",
+    "MET_569392",
+    "MET_569393"
+  ],
+  "MET_569399": [
+    "MET_545919",
+    "MET_555398",
+    "MET_569388",
+    "MET_569389",
+    "MET_569390",
+    "MET_569391",
+    "MET_569392",
+    "MET_569393"
+  ],
+  "MET_569400": [
+    "MET_545919",
+    "MET_555398",
+    "MET_569388",
+    "MET_569389",
+    "MET_569390",
+    "MET_569391",
+    "MET_569392",
+    "MET_569393"
+  ],
+  "MET_569401": [
+    "MET_545919",
+    "MET_555398",
+    "MET_569388",
+    "MET_569389",
+    "MET_569390",
+    "MET_569391",
+    "MET_569392",
+    "MET_569393"
+  ],
+  "MET_569402": [
+    "MET_545919",
+    "MET_555398",
+    "MET_569388",
+    "MET_569389",
+    "MET_569390",
+    "MET_569391",
+    "MET_569392",
+    "MET_569393"
+  ],
+  "MET_569403": [
+    "MET_545919",
+    "MET_555398",
+    "MET_569388",
+    "MET_569389",
+    "MET_569390",
+    "MET_569391",
+    "MET_569392",
+    "MET_569393"
+  ],
+  "MET_569404": [
+    "MET_545919",
+    "MET_555398",
+    "MET_569388",
+    "MET_569389",
+    "MET_569390",
+    "MET_569391",
+    "MET_569392",
+    "MET_569393"
+  ],
+  "MET_569405": [
+    "MET_545919",
+    "MET_555398",
+    "MET_569388",
+    "MET_569389",
+    "MET_569390",
+    "MET_569391",
+    "MET_569392",
+    "MET_569393"
+  ],
+  "MET_569406": [
+    "MET_545919",
+    "MET_555398",
+    "MET_569388",
+    "MET_569389",
+    "MET_569390",
+    "MET_569391",
+    "MET_569392",
+    "MET_569393"
+  ],
+  "MET_569407": [
+    "MET_545919",
+    "MET_555398",
+    "MET_569388",
+    "MET_569389",
+    "MET_569390",
+    "MET_569391",
+    "MET_569392",
+    "MET_569393"
+  ],
+  "MET_569408": [
+    "MET_545919",
+    "MET_555398",
+    "MET_569388",
+    "MET_569389",
+    "MET_569390",
+    "MET_569391",
+    "MET_569392",
+    "MET_569393"
+  ],
+  "MET_569409": [
+    "MET_545919",
+    "MET_555398",
+    "MET_569388",
+    "MET_569389",
+    "MET_569390",
+    "MET_569391",
+    "MET_569392",
+    "MET_569393"
+  ],
+  "MET_569410": [
+    "MET_545919",
+    "MET_555398",
+    "MET_569388",
+    "MET_569389",
+    "MET_569390",
+    "MET_569391",
+    "MET_569392",
+    "MET_569393"
+  ],
+  "MET_569411": [
+    "MET_545919",
+    "MET_555398",
+    "MET_569388",
+    "MET_569389",
+    "MET_569390",
+    "MET_569391",
+    "MET_569392",
+    "MET_569393"
+  ],
+  "MET_569412": [
+    "MET_545919",
+    "MET_555398",
+    "MET_569388",
+    "MET_569389",
+    "MET_569390",
+    "MET_569391",
+    "MET_569392",
+    "MET_569393"
+  ],
+  "MET_569413": [
+    "MET_545919",
+    "MET_555398",
+    "MET_569388",
+    "MET_569389",
+    "MET_569390",
+    "MET_569391",
+    "MET_569392",
+    "MET_569393"
+  ],
+  "MET_569754": [
+    "MET_545919",
+    "MET_555398",
+    "MET_569388",
+    "MET_569389",
+    "MET_569390",
+    "MET_569391",
+    "MET_569392",
+    "MET_569393"
+  ],
+  "MET_576445": [],
+  "MET_587591": [
+    "MET_545027",
+    "MET_547771",
+    "MET_544060",
+    "MET_544453",
+    "MET_544689",
+    "MET_544690",
+    "MET_544691",
+    "MET_544884"
+  ],
+  "MET_587598": [],
+  "MET_587760": [
+    "MET_543864",
+    "MET_543882",
+    "MET_543896",
+    "MET_543899",
+    "MET_543901",
+    "MET_543903",
+    "MET_544056",
+    "MET_544076"
+  ],
+  "MONTUEMHAT": [
+    "AMENEMOPE_TREASURE",
+    "MERNEPTAH_STELE",
+    "ALEXANDER_SARCOPHAGUS",
+    "AMARNA_LETTERS",
+    "BENT_PYRAMID",
+    "BULL_PALETTE",
+    "DENDERA_TEMPLE",
+    "HEMIUNU"
+  ],
+  "NARMER_MACEHEAD": [
+    "NARMER_PALETTE",
+    "BULL_PALETTE",
+    "APIS_BULL",
+    "LIBYAN_PALETTE",
+    "ABYDOS",
+    "CANOPUS_DECREE",
+    "DENDERA_ZODIAC",
+    "KHAFRE_ENTHRONED"
+  ],
+  "NARMER_PALETTE": [
+    "NARMER_MACEHEAD",
+    "BULL_PALETTE",
+    "LIBYAN_PALETTE",
+    "KHAFRE_ENTHRONED",
+    "APIS_BULL",
+    "PHILAE_TEMPLE",
+    "DEIR_EL_BAHARI",
+    "GREAT_SPHINX"
+  ],
+  "NEFERTITI_BUST": [
+    "TUT_DAGGER",
+    "TUT_MASK",
+    "NARMER_PALETTE",
+    "AMARNA_LETTERS",
+    "DEIR_EL_BAHARI",
+    "DENDERA_TEMPLE",
+    "EBERS_PAPYRUS",
+    "PSAMTIK_OFFERING"
+  ],
+  "PAPYRUS_ANI": [
+    "RHIND_PAPYRUS",
+    "ALEXANDER_SARCOPHAGUS",
+    "AMARNA_LETTERS",
+    "AMENEMOPE_TREASURE",
+    "BOOK_OF_DEAD",
+    "BULL_PALETTE",
+    "DENDERA_TEMPLE",
+    "KHUFU_SOLAR_BOAT"
+  ],
+  "PAPYRUS_HUNEFER": [
+    "SHEIKH_EL_BALAD",
+    "SEATED_SCRIBE",
+    "BOOK_OF_DEAD",
+    "COPTIC_TEXTILES",
+    "PYRAMID_TEXTS",
+    "AMENHOTEP_III_COLOSSI",
+    "APIS_BULL",
+    "BENT_PYRAMID"
+  ],
+  "PHILAE_OBELISK": [
+    "EDFU_TEMPLE",
+    "KARNAK_TEMPLE",
+    "SERAPEUM_SAQQARA",
+    "AMENHOTEP_III_COLOSSI",
+    "BENT_PYRAMID",
+    "EDWIN_SMITH_PAPYRUS",
+    "HEMIUNU",
+    "PYRAMID_TEXTS"
+  ],
+  "PHILAE_TEMPLE": [
+    "ABYDOS",
+    "APIS_BULL",
+    "DEIR_EL_BAHARI",
+    "KOM_OMBO",
+    "MEDINET_HABU",
+    "KHAFRE_ENTHRONED",
+    "NARMER_PALETTE",
+    "LUXOR_TEMPLE"
+  ],
+  "PSAMTIK_OFFERING": [
+    "MET_550755",
+    "KOM_OMBO",
+    "DENDERA_TEMPLE",
+    "GREAT_PYRAMID",
+    "RAMSES_VI_TOMB",
+    "RHIND_PAPYRUS",
+    "SETI_I_TOMB",
+    "EBERS_PAPYRUS"
+  ],
+  "PYRAMIDION_AMENEMHAT": [
+    "RHIND_PAPYRUS",
+    "AMARNA_LETTERS",
+    "KHUFU_SOLAR_BOAT",
+    "DENDERA_TEMPLE",
+    "SERAPEUM_SAQQARA",
+    "BULL_PALETTE",
+    "KHAFRE_ENTHRONED",
+    "LIBYAN_PALETTE"
+  ],
+  "PYRAMID_TEXTS": [
+    "BOOK_OF_DEAD",
+    "COFFIN_TEXTS",
+    "EDFU_TEMPLE",
+    "EDWIN_SMITH_PAPYRUS",
+    "KARNAK_TEMPLE",
+    "PAPYRUS_HUNEFER",
+    "PHILAE_OBELISK",
+    "SERAPEUM_SAQQARA"
+  ],
+  "RAMSES_II_ABU_SIMBEL": [
+    "ABYDOS",
+    "LUXOR_TEMPLE",
+    "PHILAE_TEMPLE",
+    "VALLEY_OF_KINGS",
+    "APIS_BULL",
+    "CANOPUS_DECREE",
+    "DEIR_EL_BAHARI",
+    "DENDERA_ZODIAC"
+  ],
+  "RAMSES_VI_TOMB": [
+    "SETI_I_TOMB",
+    "YUYA_TUYA",
+    "KOM_OMBO",
+    "MEDINET_HABU",
+    "PSAMTIK_OFFERING",
+    "SERAPEUM_SAQQARA",
+    "DENDERA_TEMPLE",
+    "HEMIUNU"
+  ],
+  "RED_PYRAMID": [
+    "BENT_PYRAMID",
+    "HEMIUNU",
+    "KARNAK_TEMPLE",
+    "YUYA_TUYA",
+    "AMENHOTEP_III_COLOSSI",
+    "BULL_PALETTE",
+    "EDFU_TEMPLE",
+    "PHILAE_OBELISK"
+  ],
+  "RHIND_PAPYRUS": [
+    "EBERS_PAPYRUS",
+    "EDWIN_SMITH_PAPYRUS",
+    "PYRAMIDION_AMENEMHAT",
+    "PAPYRUS_ANI",
+    "PSAMTIK_OFFERING",
+    "SETI_I_TOMB",
+    "ALEXANDER_SARCOPHAGUS",
+    "AMARNA_LETTERS"
+  ],
+  "ROSETTA_STONE": [
+    "PHILAE_OBELISK",
+    "EBERS_PAPYRUS",
+    "EDWIN_SMITH_PAPYRUS",
+    "FAYUM_PORTRAITS",
+    "PAPYRUS_ANI",
+    "RHIND_PAPYRUS",
+    "CANOPUS_DECREE",
+    "MERNEPTAH_STELE"
+  ],
+  "SEATED_SCRIBE": [
+    "KHAFRE_ENTHRONED",
+    "PAPYRUS_HUNEFER",
+    "SHEIKH_EL_BALAD",
+    "BULL_PALETTE",
+    "AMARNA_LETTERS",
+    "KHUFU_SOLAR_BOAT",
+    "LIBYAN_PALETTE",
+    "NARMER_PALETTE"
+  ],
+  "SERAPEUM_SAQQARA": [
+    "AMENHOTEP_III_COLOSSI",
+    "EDFU_TEMPLE",
+    "KARNAK_TEMPLE",
+    "PHILAE_OBELISK",
+    "VALLEY_OF_KINGS",
+    "ABYDOS",
+    "KOM_OMBO",
+    "MEDINET_HABU"
+  ],
+  "SETI_I_TOMB": [
+    "MET_544752",
+    "RAMSES_VI_TOMB",
+    "YUYA_TUYA",
+    "DENDERA_TEMPLE",
+    "HEMIUNU",
+    "KARNAK_TEMPLE",
+    "KHUFU_SOLAR_BOAT",
+    "MERNEPTAH_STELE"
+  ],
+  "SHEIKH_EL_BALAD": [
+    "PAPYRUS_HUNEFER",
+    "MEIDUM_GEESE",
+    "SEATED_SCRIBE",
+    "AMENHOTEP_III_COLOSSI",
+    "APIS_BULL",
+    "BENT_PYRAMID",
+    "BOOK_OF_DEAD",
+    "BULL_PALETTE"
+  ],
+  "TANIS_TREASURES": [
+    "MEDINET_HABU",
+    "DEIR_EL_BAHARI",
+    "ABYDOS",
+    "KOM_OMBO",
+    "PHILAE_TEMPLE",
+    "APIS_BULL",
+    "GREAT_SPHINX",
+    "GREAT_PYRAMID"
+  ],
+  "TUT_DAGGER": [
+    "TUT_MASK",
+    "MET_544690",
+    "MET_544691",
+    "MET_544781",
+    "MET_544782",
+    "NEFERTITI_BUST",
+    "DENDERA_TEMPLE",
+    "EBERS_PAPYRUS"
+  ],
+  "TUT_MASK": [
+    "TUT_DAGGER",
+    "MET_544690",
+    "MET_544691",
+    "MET_544781",
+    "MET_544782",
+    "USHABTI",
+    "NEFERTITI_BUST",
+    "AMENHOTEP_III_COLOSSI"
+  ],
+  "USHABTI": [
+    "GREAT_SPHINX",
+    "DEIR_EL_BAHARI",
+    "APIS_BULL",
+    "KOM_OMBO",
+    "LUXOR_TEMPLE",
+    "TUT_MASK",
+    "ABYDOS",
+    "CANOPUS_DECREE"
+  ],
+  "VALLEY_OF_KINGS": [
+    "AMENHOTEP_III_COLOSSI",
+    "BOOK_OF_DEAD",
+    "SERAPEUM_SAQQARA",
+    "ABYDOS",
+    "RAMSES_II_ABU_SIMBEL",
+    "BENT_PYRAMID",
+    "DENDERA_TEMPLE",
+    "EDFU_TEMPLE"
+  ],
+  "YUYA_TUYA": [
+    "MET_548343",
+    "RAMSES_VI_TOMB",
+    "AMENHOTEP_III_COLOSSI",
+    "HEMIUNU",
+    "KARNAK_TEMPLE",
+    "RED_PYRAMID",
+    "SETI_I_TOMB",
+    "BENT_PYRAMID"
+  ]
+}

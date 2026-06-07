@@ -1,0 +1,126 @@
+{
+  "id": "MET_543901",
+  "names": {
+    "ar": "تمثال (Nikare with his Wife and Daughter)",
+    "en": "Nikare with his Wife and Daughter",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Statue group, Nikare, wife, daughter",
+  "period": {
+    "ar": "الدولة القديمة",
+    "en": "Old Kingdom",
+    "year_min": -2420,
+    "year_max": -2389
+  },
+  "dynasty": {
+    "ar": "الأسرة الخامسة",
+    "en": "Dynasty 5"
+  },
+  "material": [
+    "Limestone",
+    "paint"
+  ],
+  "dimensions": {
+    "text": "H. 57 cm (22 7/16 in.); W. 22.5 cm (8 7/8 in.); D. 32.5 cm (12 13/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": ""
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 103"
+  },
+  "description": {
+    "ar": "تمثال مصرية قديمة، معروفة بـ«Nikare with his Wife and Daughter»، تعود إلى الدولة القديمة، (الأسرة الخامسة)، مصنوعة من حجر جيري وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Nikare with his Wife and Daughter — Statue group, Nikare, wife, daughter. Period: Old Kingdom, Dynasty 5, dated to ca. 2420–2389 B.C. or later. Medium: Limestone, paint. Dimensions: H. 57 cm (22 7/16 in.); W. 22.5 cm (8 7/8 in.); D. 32.5 cm (12 13/16 in.). Credit: Rogers Fund, 1952.",
+    "ar_intro": "تمثال مصرية قديمة، معروفة بـ«Nikare with his Wife and Daughter»، تعود إلى الدولة القديمة، (الأسرة الخامسة)، مصنوعة من حجر جيري وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Nikare with his Wife and Daughter"
+  },
+  "images": [
+    {
+      "filename": "MET_543901_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DT242488.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Nikare with his Wife and Daughter",
+      "object_name": "Statue group, Nikare, wife, daughter"
+    },
+    {
+      "filename": "MET_543901_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DT242484.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Nikare with his Wife and Daughter",
+      "object_name": "Statue group, Nikare, wife, daughter"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/543901",
+      "title": "Nikare with his Wife and Daughter",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "men",
+    "women"
+  ],
+  "related_ids": [
+    "MET_543882",
+    "MET_543937",
+    "MET_543899",
+    "MET_544740",
+    "MET_544776",
+    "MET_543864",
+    "MET_543896",
+    "MET_543903"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال (Nikare with his Wife and Daughter)؟",
+      "a": "تمثال مصرية قديمة، معروفة بـ«Nikare with his Wife and Daughter»، تعود إلى الدولة القديمة، (الأسرة الخامسة)، مصنوعة من حجر جيري وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال (Nikare with his Wife and Daughter) حاليًا؟",
+      "a": "تُحفظ تمثال (Nikare with his Wife and Daughter) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال (Nikare with his Wife and Daughter)؟",
+      "a": "تعود تمثال (Nikare with his Wife and Daughter) إلى الأسرة الخامسة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال (Nikare with his Wife and Daughter)؟",
+      "a": "صُنعت تمثال (Nikare with his Wife and Daughter) من حجر جيري وpaint.",
+      "evidence": "material",
+      "type": "material"
+    }
+  ],
+  "highlight": false
+}

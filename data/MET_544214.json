@@ -1,0 +1,135 @@
+{
+  "id": "MET_544214",
+  "names": {
+    "ar": "Travelling boat, Meketre, music, harp; (Travelling Boat being Rowed)",
+    "en": "Travelling Boat being Rowed",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Travelling boat, Meketre, music, harp;",
+  "period": {
+    "ar": "الدولة الوسطى",
+    "en": "Middle Kingdom",
+    "year_min": -1981,
+    "year_max": -1975
+  },
+  "dynasty": {
+    "ar": "الأسرة الثانية عشرة",
+    "en": "Dynasty 12"
+  },
+  "material": [
+    "Wood",
+    "paint",
+    "gesso",
+    "linen twine and linen fabric"
+  ],
+  "dimensions": {
+    "text": "l. 128 cm (50 3/8 in), with rudder 175 cm (68 7/8 in) x w. with oars 30.5 cm (12 in) x h. 37 cm (14 9/16 in)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "MMA excavations, 1920"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 105"
+  },
+  "description": {
+    "ar": "Travelling boat, Meketre, music, harp; مصرية قديمة، معروفة بـ«Travelling Boat being Rowed»، تعود إلى الدولة الوسطى، (الأسرة الثانية عشرة)، مصنوعة من خشب وpaint وgesso وlinen twine and linen fabric، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Travelling Boat being Rowed — Travelling boat, Meketre, music, harp;. Period: Middle Kingdom, Dynasty 12, dated to ca. 1981–1975 B.C.. Medium: Wood, paint, gesso, linen twine and linen fabric. Dimensions: l. 128 cm (50 3/8 in), with rudder 175 cm (68 7/8 in) x w. with oars 30.5 cm (12 in) x h. 37 cm (14 9/16 in). Excavation: MMA excavations, 1920. Country of origin: Egypt. Credit: Rogers Fund and Edward S. Harkness Gift, 1920.",
+    "ar_intro": "Travelling boat, Meketre, music, harp; مصرية قديمة، معروفة بـ«Travelling Boat being Rowed»، تعود إلى الدولة الوسطى، (الأسرة الثانية عشرة)، مصنوعة من خشب وpaint وgesso وlinen twine and linen fabric، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Travelling Boat being Rowed"
+  },
+  "images": [
+    {
+      "filename": "MET_544214_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP249000.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Travelling Boat being Rowed",
+      "object_name": "Travelling boat, Meketre, music, harp;"
+    },
+    {
+      "filename": "MET_544214_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP248999.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Travelling Boat being Rowed",
+      "object_name": "Travelling boat, Meketre, music, harp;"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544214",
+      "title": "Travelling Boat being Rowed",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "men",
+    "boats",
+    "meketre-models"
+  ],
+  "related_ids": [
+    "MET_545281",
+    "MET_543864",
+    "MET_544184",
+    "MET_544210",
+    "MET_544320",
+    "MET_543867",
+    "MET_544186",
+    "MET_544227"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي Travelling boat, Meketre, music, harp; (Travelling Boat being Rowed)؟",
+      "a": "Travelling boat, Meketre, music, harp; مصرية قديمة، معروفة بـ«Travelling Boat being Rowed»، تعود إلى الدولة الوسطى، (الأسرة الثانية عشرة)، مصنوعة من خشب وpaint وgesso وlinen twine and linen fabric، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد Travelling boat, Meketre, music, harp; (Travelling Boat being Rowed) حاليًا؟",
+      "a": "تُحفظ Travelling boat, Meketre, music, harp; (Travelling Boat being Rowed) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود Travelling boat, Meketre, music, harp; (Travelling Boat being Rowed)؟",
+      "a": "تعود Travelling boat, Meketre, music, harp; (Travelling Boat being Rowed) إلى الأسرة الثانية عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت Travelling boat, Meketre, music, harp; (Travelling Boat being Rowed)؟",
+      "a": "صُنعت Travelling boat, Meketre, music, harp; (Travelling Boat being Rowed) من خشب وpaint وgesso وlinen twine and linen fabric.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت Travelling boat, Meketre, music, harp; (Travelling Boat being Rowed)؟",
+      "a": "أُحضرت Travelling boat, Meketre, music, harp; (Travelling Boat being Rowed) من MMA excavations, 1920.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

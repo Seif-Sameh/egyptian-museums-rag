@@ -1,0 +1,118 @@
+{
+  "id": "MET_547771",
+  "names": {
+    "ar": "تميمة (Ram's-head  Amulet)",
+    "en": "Ram's-head  Amulet",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Amulet, Ram's head",
+  "period": {
+    "ar": "عصر الانتقال الثالث, Kushite Period",
+    "en": "Third Intermediate Period, Kushite Period",
+    "year_min": -712,
+    "year_max": -664
+  },
+  "dynasty": {
+    "ar": "الأسرة الخامسة والعشرون",
+    "en": "Dynasty 25"
+  },
+  "material": [
+    "Gold"
+  ],
+  "dimensions": {
+    "text": "H. 4.2 × W. 3.6 × D. 2 cm, 65g (1 5/8 × 1 7/16 × 13/16 in., 2.293oz.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": ""
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": ""
+  },
+  "description": {
+    "ar": "تميمة مصرية قديمة، معروفة بـ«Ram's-head  Amulet»، تعود إلى عصر الانتقال الثالث, Kushite Period، (الأسرة الخامسة والعشرون)، مصنوعة من ذهب، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Ram's-head  Amulet — Amulet, Ram's head. Period: Third Intermediate Period, Kushite Period, Dynasty 25, dated to ca. 712–664 BCE. Medium: Gold. Dimensions: H. 4.2 × W. 3.6 × D. 2 cm, 65g (1 5/8 × 1 7/16 × 13/16 in., 2.293oz.). Credit: Gift of Norbert Schimmel Trust, 1989.",
+    "ar_intro": "تميمة مصرية قديمة، معروفة بـ«Ram's-head  Amulet»، تعود إلى عصر الانتقال الثالث, Kushite Period، (الأسرة الخامسة والعشرون)، مصنوعة من ذهب، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Ram's-head  Amulet"
+  },
+  "images": [
+    {
+      "filename": "MET_547771_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP139144.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Ram's-head  Amulet",
+      "object_name": "Amulet, Ram's head"
+    },
+    {
+      "filename": "MET_547771_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/1989.281.98_front.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Ram's-head  Amulet",
+      "object_name": "Amulet, Ram's head"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/547771",
+      "title": "Ram's-head  Amulet",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "rams"
+  ],
+  "related_ids": [
+    "MET_545027",
+    "MET_587591"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تميمة (Ram's-head  Amulet)؟",
+      "a": "تميمة مصرية قديمة، معروفة بـ«Ram's-head  Amulet»، تعود إلى عصر الانتقال الثالث, Kushite Period، (الأسرة الخامسة والعشرون)، مصنوعة من ذهب، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تميمة (Ram's-head  Amulet) حاليًا؟",
+      "a": "تُحفظ تميمة (Ram's-head  Amulet) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تميمة (Ram's-head  Amulet)؟",
+      "a": "تعود تميمة (Ram's-head  Amulet) إلى الأسرة الخامسة والعشرون.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تميمة (Ram's-head  Amulet)؟",
+      "a": "صُنعت تميمة (Ram's-head  Amulet) من ذهب.",
+      "evidence": "material",
+      "type": "material"
+    }
+  ],
+  "highlight": false
+}

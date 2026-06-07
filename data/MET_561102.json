@@ -1,0 +1,130 @@
+{
+  "id": "MET_561102",
+  "names": {
+    "ar": "Cone (Funerary Cone)",
+    "en": "Funerary Cone",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Cone",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1425,
+    "year_max": -1400
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Pottery"
+  ],
+  "dimensions": {
+    "text": "H. 19 × Diam. 7.5 cm (7 1/2 × 2 15/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 117"
+  },
+  "description": {
+    "ar": "Cone مصرية قديمة، معروفة بـ«Funerary Cone»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من فخار، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Funerary Cone — Cone. Period: New Kingdom, Dynasty 18, dated to ca. 1425–1400 B.C.. Medium: Pottery. Dimensions: H. 19 × Diam. 7.5 cm (7 1/2 × 2 15/16 in.). Country of origin: Egypt. Credit: Gift of Norman de Garis Davies, 1930.",
+    "ar_intro": "Cone مصرية قديمة، معروفة بـ«Funerary Cone»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من فخار، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Funerary Cone"
+  },
+  "images": [
+    {
+      "filename": "MET_561102_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/30-6-67.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Funerary Cone",
+      "object_name": "Cone"
+    },
+    {
+      "filename": "MET_561102_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/Davies-348.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Funerary Cone",
+      "object_name": "Cone"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/561102",
+      "title": "Funerary Cone",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "hieroglyphs"
+  ],
+  "related_ids": [
+    "MET_544692",
+    "MET_544826",
+    "MET_546012",
+    "MET_547687",
+    "MET_554367",
+    "MET_554915",
+    "MET_554935",
+    "MET_554936"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي Cone (Funerary Cone)؟",
+      "a": "Cone مصرية قديمة، معروفة بـ«Funerary Cone»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من فخار، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد Cone (Funerary Cone) حاليًا؟",
+      "a": "تُحفظ Cone (Funerary Cone) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود Cone (Funerary Cone)؟",
+      "a": "تعود Cone (Funerary Cone) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت Cone (Funerary Cone)؟",
+      "a": "صُنعت Cone (Funerary Cone) من فخار.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت Cone (Funerary Cone)؟",
+      "a": "أُحضرت Cone (Funerary Cone) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

@@ -1,0 +1,131 @@
+{
+  "id": "MET_554769",
+  "names": {
+    "ar": "حامل لوحة (Stelophorous Statue of Bay)",
+    "en": "Stelophorous Statue of Bay",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Bay, stela, stelephorous",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1294,
+    "year_max": -1250
+  },
+  "dynasty": {
+    "ar": "الأسرة التاسعة عشرة",
+    "en": "Dynasty 19"
+  },
+  "material": [
+    "Limestone"
+  ],
+  "dimensions": {
+    "text": "Overall: H. 28.1 × W. 10.2 × D. 15 cm (11 1/16 in. × 4 in. × 5 7/8 in.)\r\nH. of upper half (66.99.94): 17.8 cm (7 in.)\r\nH. of lower half (2009.253): 11.5 cm (4 1/2 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 124"
+  },
+  "description": {
+    "ar": "حامل لوحة مصرية قديمة، معروفة بـ«Stelophorous Statue of Bay»، تعود إلى الدولة الحديثة، (الأسرة التاسعة عشرة)، مصنوعة من حجر جيري، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Stelophorous Statue of Bay — Bay, stela, stelephorous. Period: New Kingdom, Dynasty 19, dated to ca. 1294–1250 B.C.. Medium: Limestone. Dimensions: Overall: H. 28.1 × W. 10.2 × D. 15 cm (11 1/16 in. × 4 in. × 5 7/8 in.)\r\nH. of upper half (66.99.94): 17.8 cm (7 in.)\r\nH. of lower half (2009.253): 11.5 cm (4 1/2 in.). Country of origin: Egypt. Credit: Purchase, Fletcher Fund and The Guide Foundation Inc. Gift, 1966 (66.99.94); Gift of R. J. Demarée, 2009 (2009.253).",
+    "ar_intro": "حامل لوحة مصرية قديمة، معروفة بـ«Stelophorous Statue of Bay»، تعود إلى الدولة الحديثة، (الأسرة التاسعة عشرة)، مصنوعة من حجر جيري، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Stelophorous Statue of Bay"
+  },
+  "images": [
+    {
+      "filename": "MET_554769_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP231293.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Stelophorous Statue of Bay",
+      "object_name": "Bay, stela, stelephorous"
+    },
+    {
+      "filename": "MET_554769_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP231295.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Stelophorous Statue of Bay",
+      "object_name": "Bay, stela, stelephorous"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/554769",
+      "title": "Stelophorous Statue of Bay",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "men",
+    "hieroglyphs"
+  ],
+  "related_ids": [
+    "MET_544740",
+    "MET_544752",
+    "MET_545870",
+    "MET_544066",
+    "MET_544702",
+    "MET_547704",
+    "MET_544320",
+    "MET_544692"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي حامل لوحة (Stelophorous Statue of Bay)؟",
+      "a": "حامل لوحة مصرية قديمة، معروفة بـ«Stelophorous Statue of Bay»، تعود إلى الدولة الحديثة، (الأسرة التاسعة عشرة)، مصنوعة من حجر جيري، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد حامل لوحة (Stelophorous Statue of Bay) حاليًا؟",
+      "a": "تُحفظ حامل لوحة (Stelophorous Statue of Bay) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود حامل لوحة (Stelophorous Statue of Bay)؟",
+      "a": "تعود حامل لوحة (Stelophorous Statue of Bay) إلى الأسرة التاسعة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت حامل لوحة (Stelophorous Statue of Bay)؟",
+      "a": "صُنعت حامل لوحة (Stelophorous Statue of Bay) من حجر جيري.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت حامل لوحة (Stelophorous Statue of Bay)؟",
+      "a": "أُحضرت حامل لوحة (Stelophorous Statue of Bay) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

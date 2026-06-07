@@ -1,0 +1,119 @@
+{
+  "id": "MET_554996",
+  "names": {
+    "ar": "Cone, circular stamp, Merymose, Kush (Funerary Cone of the King's Son of Kush Merymose)",
+    "en": "Funerary Cone of the King's Son of Kush Merymose",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Cone, circular stamp, Merymose, Kush",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1550,
+    "year_max": -1295
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Pottery"
+  ],
+  "dimensions": {
+    "text": "L. 16.5 cm (6 1/2 in.); Diam. 7.8 cm (3 1/16 in)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 117"
+  },
+  "description": {
+    "ar": "Cone, circular stamp, Merymose, Kush مصرية قديمة، معروفة بـ«Funerary Cone of the King's Son of Kush Merymose»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من فخار، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Funerary Cone of the King's Son of Kush Merymose — Cone, circular stamp, Merymose, Kush. Period: New Kingdom, Dynasty 18, dated to ca. 1550–1295 B.C.. Medium: Pottery. Dimensions: L. 16.5 cm (6 1/2 in.); Diam. 7.8 cm (3 1/16 in). Country of origin: Egypt. Credit: Gift of Norman de Garis Davies, 1930.",
+    "ar_intro": "Cone, circular stamp, Merymose, Kush مصرية قديمة، معروفة بـ«Funerary Cone of the King's Son of Kush Merymose»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من فخار، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Funerary Cone of the King's Son of Kush Merymose"
+  },
+  "images": [
+    {
+      "filename": "MET_554996_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/30.6.73-acc.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Funerary Cone of the King's Son of Kush Merymose",
+      "object_name": "Cone, circular stamp, Merymose, Kush"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/554996",
+      "title": "Funerary Cone of the King's Son of Kush Merymose",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "hieroglyphs"
+  ],
+  "related_ids": [
+    "MET_544692",
+    "MET_544826",
+    "MET_546012",
+    "MET_547687",
+    "MET_554367",
+    "MET_554915",
+    "MET_554935",
+    "MET_554936"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي Cone, circular stamp, Merymose, Kush (Funerary Cone of the King's Son of Kush Merymose)؟",
+      "a": "Cone, circular stamp, Merymose, Kush مصرية قديمة، معروفة بـ«Funerary Cone of the King's Son of Kush Merymose»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من فخار، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد Cone, circular stamp, Merymose, Kush (Funerary Cone of the King's Son of Kush Merymose) حاليًا؟",
+      "a": "تُحفظ Cone, circular stamp, Merymose, Kush (Funerary Cone of the King's Son of Kush Merymose) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود Cone, circular stamp, Merymose, Kush (Funerary Cone of the King's Son of Kush Merymose)؟",
+      "a": "تعود Cone, circular stamp, Merymose, Kush (Funerary Cone of the King's Son of Kush Merymose) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت Cone, circular stamp, Merymose, Kush (Funerary Cone of the King's Son of Kush Merymose)؟",
+      "a": "صُنعت Cone, circular stamp, Merymose, Kush (Funerary Cone of the King's Son of Kush Merymose) من فخار.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت Cone, circular stamp, Merymose, Kush (Funerary Cone of the King's Son of Kush Merymose)؟",
+      "a": "أُحضرت Cone, circular stamp, Merymose, Kush (Funerary Cone of the King's Son of Kush Merymose) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

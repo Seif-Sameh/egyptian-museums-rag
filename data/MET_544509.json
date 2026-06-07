@@ -1,0 +1,136 @@
+{
+  "id": "MET_544509",
+  "names": {
+    "ar": "قلادة (Menat necklace from Malqata)",
+    "en": "Menat necklace from Malqata",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Music, menat, cat",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1390,
+    "year_max": -1352
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Faience",
+    "bronze or copper alloy",
+    "glass",
+    "agate",
+    "carnelian",
+    "lapis lazuli",
+    "turquoise"
+  ],
+  "dimensions": {
+    "text": "L. of counterpoise 14.7 cm (5 13/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "MMA excavations, 1911–12"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 119"
+  },
+  "description": {
+    "ar": "قلادة مصرية قديمة، معروفة بـ«Menat necklace from Malqata»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من خزف فاينس وbronze or copper alloy وglass وagate وcarnelian وlapis lazuli وturquoise، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Menat necklace from Malqata — Music, menat, cat. Period: New Kingdom, Dynasty 18, dated to ca. 1390–1352 B.C.. Medium: Faience, bronze or copper alloy, glass, agate, carnelian, lapis lazuli, turquoise. Dimensions: L. of counterpoise 14.7 cm (5 13/16 in.). Excavation: MMA excavations, 1911–12. Country of origin: Egypt. Credit: Rogers Fund, 1911.",
+    "ar_intro": "قلادة مصرية قديمة، معروفة بـ«Menat necklace from Malqata»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من خزف فاينس وbronze or copper alloy وglass وagate وcarnelian وlapis lazuli وturquoise، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Menat necklace from Malqata"
+  },
+  "images": [
+    {
+      "filename": "MET_544509_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DT234778.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Menat necklace from Malqata",
+      "object_name": "Music, menat, cat"
+    },
+    {
+      "filename": "MET_544509_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/11.215.450_216_217_view_1.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Menat necklace from Malqata",
+      "object_name": "Music, menat, cat"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544509",
+      "title": "Menat necklace from Malqata",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "musical instruments"
+  ],
+  "related_ids": [
+    "MET_544680",
+    "MET_544056",
+    "MET_544060",
+    "MET_544068",
+    "MET_544442",
+    "MET_544450",
+    "MET_544453",
+    "MET_544478"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي قلادة (Menat necklace from Malqata)؟",
+      "a": "قلادة مصرية قديمة، معروفة بـ«Menat necklace from Malqata»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من خزف فاينس وbronze or copper alloy وglass وagate وcarnelian وlapis lazuli وturquoise، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد قلادة (Menat necklace from Malqata) حاليًا؟",
+      "a": "تُحفظ قلادة (Menat necklace from Malqata) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود قلادة (Menat necklace from Malqata)؟",
+      "a": "تعود قلادة (Menat necklace from Malqata) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت قلادة (Menat necklace from Malqata)؟",
+      "a": "صُنعت قلادة (Menat necklace from Malqata) من خزف فاينس وbronze or copper alloy وglass وagate وعقيق أحمر ولازورد وفيروز.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت قلادة (Menat necklace from Malqata)؟",
+      "a": "أُحضرت قلادة (Menat necklace from Malqata) من MMA excavations, 1911–12.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

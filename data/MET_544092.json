@@ -1,0 +1,128 @@
+{
+  "id": "MET_544092",
+  "names": {
+    "ar": "تمثال صغير (Striding Thoth)",
+    "en": "Striding Thoth",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Statuette, Thoth",
+  "period": {
+    "ar": "العصر البطلمي",
+    "en": "Ptolemaic Period",
+    "year_min": -332,
+    "year_max": -30
+  },
+  "dynasty": {
+    "ar": "",
+    "en": ""
+  },
+  "material": [
+    "Faience"
+  ],
+  "dimensions": {
+    "text": "H. 14.1 × W. 3.6 × D. 5.4 cm (5 9/16 × 1 7/16 × 2 1/8 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 134"
+  },
+  "description": {
+    "ar": "تمثال صغير مصرية قديمة، معروفة بـ«Striding Thoth»، تعود إلى العصر البطلمي، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Striding Thoth — Statuette, Thoth. Period: Ptolemaic Period, dated to 332–30 BCE. Medium: Faience. Dimensions: H. 14.1 × W. 3.6 × D. 5.4 cm (5 9/16 × 1 7/16 × 2 1/8 in.). Country of origin: Egypt. Credit: Purchase, Edward S. Harkness Gift, 1926.",
+    "ar_intro": "تمثال صغير مصرية قديمة، معروفة بـ«Striding Thoth»، تعود إلى العصر البطلمي، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Striding Thoth"
+  },
+  "images": [
+    {
+      "filename": "MET_544092_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-39665-005.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Striding Thoth",
+      "object_name": "Statuette, Thoth"
+    },
+    {
+      "filename": "MET_544092_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP-39665-001.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Striding Thoth",
+      "object_name": "Statuette, Thoth"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544092",
+      "title": "Striding Thoth",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "birds",
+    "gods"
+  ],
+  "related_ids": [
+    "MET_544067",
+    "MET_544822",
+    "MET_548339",
+    "MET_544691",
+    "MET_547904"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال صغير (Striding Thoth)؟",
+      "a": "تمثال صغير مصرية قديمة، معروفة بـ«Striding Thoth»، تعود إلى العصر البطلمي، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال صغير (Striding Thoth) حاليًا؟",
+      "a": "تُحفظ تمثال صغير (Striding Thoth) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال صغير (Striding Thoth)؟",
+      "a": "تعود تمثال صغير (Striding Thoth) إلى العصر البطلمي.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال صغير (Striding Thoth)؟",
+      "a": "صُنعت تمثال صغير (Striding Thoth) من خزف فاينس.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تمثال صغير (Striding Thoth)؟",
+      "a": "أُحضرت تمثال صغير (Striding Thoth) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

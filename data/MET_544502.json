@@ -1,0 +1,122 @@
+{
+  "id": "MET_544502",
+  "names": {
+    "ar": "Ceiling painting, palace of Amenhotep III (Ceiling painting from the palace of Amenhotep III)",
+    "en": "Ceiling painting from the palace of Amenhotep III",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Ceiling painting, palace of Amenhotep III",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1390,
+    "year_max": -1352
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Dried Mud",
+    "mud plaster",
+    "paint",
+    "gesso"
+  ],
+  "dimensions": {
+    "text": "h. 140 cm (55 1/8 in); w. 140 cm (55 1/8 in)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "MMA excavations, 1910–11"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 119"
+  },
+  "description": {
+    "ar": "Ceiling painting, palace of Amenhotep III مصرية قديمة، معروفة بـ«Ceiling painting from the palace of Amenhotep III»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من Dried Mud وmud plaster وpaint وgesso، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Ceiling painting from the palace of Amenhotep III — Ceiling painting, palace of Amenhotep III. Period: New Kingdom, Dynasty 18, dated to ca. 1390–1352 B.C.. Medium: Dried Mud, mud plaster, paint, gesso. Dimensions: h. 140 cm (55 1/8 in); w. 140 cm (55 1/8 in). Excavation: MMA excavations, 1910–11. Country of origin: Egypt. Credit: Rogers Fund, 1911.",
+    "ar_intro": "Ceiling painting, palace of Amenhotep III مصرية قديمة، معروفة بـ«Ceiling painting from the palace of Amenhotep III»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من Dried Mud وmud plaster وpaint وgesso، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Ceiling painting from the palace of Amenhotep III"
+  },
+  "images": [
+    {
+      "filename": "MET_544502_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DT256117.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Ceiling painting from the palace of Amenhotep III",
+      "object_name": "Ceiling painting, palace of Amenhotep III"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544502",
+      "title": "Ceiling painting from the palace of Amenhotep III",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "ox"
+  ],
+  "related_ids": [
+    "MET_544453",
+    "MET_544478",
+    "MET_544498",
+    "MET_544056",
+    "MET_544060",
+    "MET_544068",
+    "MET_544442",
+    "MET_544450"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي Ceiling painting, palace of Amenhotep III (Ceiling painting from the palace of Amenhotep III)؟",
+      "a": "Ceiling painting, palace of Amenhotep III مصرية قديمة، معروفة بـ«Ceiling painting from the palace of Amenhotep III»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من Dried Mud وmud plaster وpaint وgesso، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد Ceiling painting, palace of Amenhotep III (Ceiling painting from the palace of Amenhotep III) حاليًا؟",
+      "a": "تُحفظ Ceiling painting, palace of Amenhotep III (Ceiling painting from the palace of Amenhotep III) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود Ceiling painting, palace of Amenhotep III (Ceiling painting from the palace of Amenhotep III)؟",
+      "a": "تعود Ceiling painting, palace of Amenhotep III (Ceiling painting from the palace of Amenhotep III) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت Ceiling painting, palace of Amenhotep III (Ceiling painting from the palace of Amenhotep III)؟",
+      "a": "صُنعت Ceiling painting, palace of Amenhotep III (Ceiling painting from the palace of Amenhotep III) من Dried Mud وmud plaster وpaint وgesso.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت Ceiling painting, palace of Amenhotep III (Ceiling painting from the palace of Amenhotep III)؟",
+      "a": "أُحضرت Ceiling painting, palace of Amenhotep III (Ceiling painting from the palace of Amenhotep III) من MMA excavations, 1910–11.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": true
+}

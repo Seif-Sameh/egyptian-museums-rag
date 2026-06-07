@@ -1,0 +1,126 @@
+{
+  "id": "MET_544514",
+  "names": {
+    "ar": "Head, queen, fragment, lips (Fragment of a Queen's Face)",
+    "en": "Fragment of a Queen's Face",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Head, queen, fragment, lips",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1390,
+    "year_max": -1336
+  },
+  "dynasty": {
+    "ar": "mid الأسرة الثامنة عشرة",
+    "en": "mid Dynasty 18"
+  },
+  "material": [
+    "Yellow jasper"
+  ],
+  "dimensions": {
+    "text": "h. 13 cm (5 1/8 in.); w. 12.5 cm (4 15/16 in.); d. 12.5 cm (4 15/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": ""
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 121"
+  },
+  "description": {
+    "ar": "Head, queen, fragment, lips مصرية قديمة، معروفة بـ«Fragment of a Queen's Face»، تعود إلى الدولة الحديثة، (mid الأسرة الثامنة عشرة)، مصنوعة من Yellow jasper، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Fragment of a Queen's Face — Head, queen, fragment, lips. Period: New Kingdom, mid Dynasty 18, dated to ca. 1390–1336 B.C.. Medium: Yellow jasper. Dimensions: h. 13 cm (5 1/8 in.); w. 12.5 cm (4 15/16 in.); d. 12.5 cm (4 15/16 in.). Credit: Purchase, Edward S. Harkness Gift, 1926.",
+    "ar_intro": "Head, queen, fragment, lips مصرية قديمة، معروفة بـ«Fragment of a Queen's Face»، تعود إلى الدولة الحديثة، (mid الأسرة الثامنة عشرة)، مصنوعة من Yellow jasper، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Fragment of a Queen's Face"
+  },
+  "images": [
+    {
+      "filename": "MET_544514_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP355835.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Fragment of a Queen's Face",
+      "object_name": "Head, queen, fragment, lips"
+    },
+    {
+      "filename": "MET_544514_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP340883.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Fragment of a Queen's Face",
+      "object_name": "Head, queen, fragment, lips"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544514",
+      "title": "Fragment of a Queen's Face",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "queens",
+    "faces",
+    "women"
+  ],
+  "related_ids": [
+    "MET_543896",
+    "MET_544184",
+    "MET_543899",
+    "MET_543901",
+    "MET_544210",
+    "MET_544450",
+    "MET_544689",
+    "MET_544740"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي Head, queen, fragment, lips (Fragment of a Queen's Face)؟",
+      "a": "Head, queen, fragment, lips مصرية قديمة، معروفة بـ«Fragment of a Queen's Face»، تعود إلى الدولة الحديثة، (mid الأسرة الثامنة عشرة)، مصنوعة من Yellow jasper، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد Head, queen, fragment, lips (Fragment of a Queen's Face) حاليًا؟",
+      "a": "تُحفظ Head, queen, fragment, lips (Fragment of a Queen's Face) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود Head, queen, fragment, lips (Fragment of a Queen's Face)؟",
+      "a": "تعود Head, queen, fragment, lips (Fragment of a Queen's Face) إلى mid الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت Head, queen, fragment, lips (Fragment of a Queen's Face)؟",
+      "a": "صُنعت Head, queen, fragment, lips (Fragment of a Queen's Face) من Yellow jasper.",
+      "evidence": "material",
+      "type": "material"
+    }
+  ],
+  "highlight": false
+}

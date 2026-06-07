@@ -1,0 +1,128 @@
+{
+  "id": "MET_548339",
+  "names": {
+    "ar": "نقش بارز (Lotiform Chalice)",
+    "en": "Lotiform Chalice",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Chalice, cup, lotiform, relief",
+  "period": {
+    "ar": "عصر الانتقال الثالث",
+    "en": "Third Intermediate Period",
+    "year_min": -25,
+    "year_max": -22
+  },
+  "dynasty": {
+    "ar": "الأسرة الثانية والعشرون-25",
+    "en": "Dynasty 22-25"
+  },
+  "material": [
+    "Faience"
+  ],
+  "dimensions": {
+    "text": "H. 14.5 cm (5 11/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": ""
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 125"
+  },
+  "description": {
+    "ar": "نقش بارز مصرية قديمة، معروفة بـ«Lotiform Chalice»، تعود إلى عصر الانتقال الثالث، (الأسرة الثانية والعشرون-25)، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Lotiform Chalice — Chalice, cup, lotiform, relief. Period: Third Intermediate Period, Dynasty 22-25, dated to ca. 945–664 B.C.. Medium: Faience. Dimensions: H. 14.5 cm (5 11/16 in.). Credit: Purchase, Edward S. Harkness Gift, 1926.",
+    "ar_intro": "نقش بارز مصرية قديمة، معروفة بـ«Lotiform Chalice»، تعود إلى عصر الانتقال الثالث، (الأسرة الثانية والعشرون-25)، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Lotiform Chalice"
+  },
+  "images": [
+    {
+      "filename": "MET_548339_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/LC-26_7_971_EGDP029864.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Lotiform Chalice",
+      "object_name": "Chalice, cup, lotiform, relief"
+    },
+    {
+      "filename": "MET_548339_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/LC-26_7_971_EGDP029863.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Lotiform Chalice",
+      "object_name": "Chalice, cup, lotiform, relief"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/548339",
+      "title": "Lotiform Chalice",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "birds",
+    "men",
+    "bulls",
+    "fish",
+    "lotuses"
+  ],
+  "related_ids": [
+    "MET_544067",
+    "MET_544092",
+    "MET_544822",
+    "MET_543864",
+    "MET_543882",
+    "MET_543896",
+    "MET_543899",
+    "MET_543901"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي نقش بارز (Lotiform Chalice)؟",
+      "a": "نقش بارز مصرية قديمة، معروفة بـ«Lotiform Chalice»، تعود إلى عصر الانتقال الثالث، (الأسرة الثانية والعشرون-25)، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد نقش بارز (Lotiform Chalice) حاليًا؟",
+      "a": "تُحفظ نقش بارز (Lotiform Chalice) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود نقش بارز (Lotiform Chalice)؟",
+      "a": "تعود نقش بارز (Lotiform Chalice) إلى الأسرة الثانية والعشرون-25.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت نقش بارز (Lotiform Chalice)؟",
+      "a": "صُنعت نقش بارز (Lotiform Chalice) من خزف فاينس.",
+      "evidence": "material",
+      "type": "material"
+    }
+  ],
+  "highlight": false
+}

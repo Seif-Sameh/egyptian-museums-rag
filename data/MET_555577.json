@@ -1,0 +1,124 @@
+{
+  "id": "MET_555577",
+  "names": {
+    "ar": "تميمة (Falcon Amulet)",
+    "en": "Falcon Amulet",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Amulet, falcon",
+  "period": {
+    "ar": "Late الدولة القديمة–Early الدولة الوسطى",
+    "en": "Late Old Kingdom–Early Middle Kingdom",
+    "year_min": -12,
+    "year_max": -8
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة–12",
+    "en": "Dynasty 8–12"
+  },
+  "material": [
+    "Carnelian"
+  ],
+  "dimensions": {
+    "text": "H. 1.5 × W. 1.5 × D. 0.4 cm (9/16 × 9/16 × 3/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": ""
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 103"
+  },
+  "description": {
+    "ar": "تميمة مصرية قديمة، معروفة بـ«Falcon Amulet»، تعود إلى Late الدولة القديمة–Early الدولة الوسطى، (الأسرة الثامنة–12)، مصنوعة من عقيق أحمر، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Falcon Amulet — Amulet, falcon. Period: Late Old Kingdom–Early Middle Kingdom, Dynasty 8–12, dated to ca. 2150–1950 B.C.. Medium: Carnelian. Dimensions: H. 1.5 × W. 1.5 × D. 0.4 cm (9/16 × 9/16 × 3/16 in.). Credit: Rogers Fund, 1959.",
+    "ar_intro": "تميمة مصرية قديمة، معروفة بـ«Falcon Amulet»، تعود إلى Late الدولة القديمة–Early الدولة الوسطى، (الأسرة الثامنة–12)، مصنوعة من عقيق أحمر، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Falcon Amulet"
+  },
+  "images": [
+    {
+      "filename": "MET_555577_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/LC-59_103_15_EGDP036718.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Falcon Amulet",
+      "object_name": "Amulet, falcon"
+    },
+    {
+      "filename": "MET_555577_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/LC-59_103_15_EGDP036719.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Falcon Amulet",
+      "object_name": "Amulet, falcon"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/555577",
+      "title": "Falcon Amulet",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "falcons"
+  ],
+  "related_ids": [
+    "MET_552062",
+    "MET_552061",
+    "MET_555578",
+    "MET_555579",
+    "MET_555580",
+    "MET_555581",
+    "MET_555582",
+    "MET_555583"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تميمة (Falcon Amulet)؟",
+      "a": "تميمة مصرية قديمة، معروفة بـ«Falcon Amulet»، تعود إلى Late الدولة القديمة–Early الدولة الوسطى، (الأسرة الثامنة–12)، مصنوعة من عقيق أحمر، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تميمة (Falcon Amulet) حاليًا؟",
+      "a": "تُحفظ تميمة (Falcon Amulet) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تميمة (Falcon Amulet)؟",
+      "a": "تعود تميمة (Falcon Amulet) إلى الأسرة الثامنة–12.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تميمة (Falcon Amulet)؟",
+      "a": "صُنعت تميمة (Falcon Amulet) من عقيق أحمر.",
+      "evidence": "material",
+      "type": "material"
+    }
+  ],
+  "highlight": false
+}

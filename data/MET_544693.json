@@ -1,0 +1,122 @@
+{
+  "id": "MET_544693",
+  "names": {
+    "ar": "تمثال (Face from a Composite Statue, probably Queen Tiye)",
+    "en": "Face from a Composite Statue, probably Queen Tiye",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Head, Queen Tiye",
+  "period": {
+    "ar": "الدولة الحديثة, Amarna Period",
+    "en": "New Kingdom, Amarna Period",
+    "year_min": -1353,
+    "year_max": -1336
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Quartzite"
+  ],
+  "dimensions": {
+    "text": "H. 13.3 cm (5 1/4 in.); W. 12.5 cm (4 15/16 in.); D. 12.4 cm (4 7/8 in.); H. of face 11 cm (4 5/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": ""
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 121"
+  },
+  "description": {
+    "ar": "تمثال مصرية قديمة، معروفة بـ«Face from a Composite Statue, probably Queen Tiye»، تعود إلى الدولة الحديثة, Amarna Period، (الأسرة الثامنة عشرة)، مصنوعة من كوارتزيت، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Face from a Composite Statue, probably Queen Tiye — Head, Queen Tiye. Period: New Kingdom, Amarna Period, Dynasty 18, dated to ca. 1353–1336 B.C.. Medium: Quartzite. Dimensions: H. 13.3 cm (5 1/4 in.); W. 12.5 cm (4 15/16 in.); D. 12.4 cm (4 7/8 in.); H. of face 11 cm (4 5/16 in.). Credit: Rogers Fund, 1911.",
+    "ar_intro": "تمثال مصرية قديمة، معروفة بـ«Face from a Composite Statue, probably Queen Tiye»، تعود إلى الدولة الحديثة, Amarna Period، (الأسرة الثامنة عشرة)، مصنوعة من كوارتزيت، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Face from a Composite Statue, probably Queen Tiye"
+  },
+  "images": [
+    {
+      "filename": "MET_544693_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DT11514.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Face from a Composite Statue, probably Queen Tiye",
+      "object_name": "Head, Queen Tiye"
+    },
+    {
+      "filename": "MET_544693_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DT11515.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Face from a Composite Statue, probably Queen Tiye",
+      "object_name": "Head, Queen Tiye"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544693",
+      "title": "Face from a Composite Statue, probably Queen Tiye",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [],
+  "related_ids": [
+    "MET_544056",
+    "MET_544060",
+    "MET_544068",
+    "MET_544442",
+    "MET_544450",
+    "MET_544453",
+    "MET_544478",
+    "MET_544498"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال (Face from a Composite Statue, probably Queen Tiye)؟",
+      "a": "تمثال مصرية قديمة، معروفة بـ«Face from a Composite Statue, probably Queen Tiye»، تعود إلى الدولة الحديثة, Amarna Period، (الأسرة الثامنة عشرة)، مصنوعة من كوارتزيت، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال (Face from a Composite Statue, probably Queen Tiye) حاليًا؟",
+      "a": "تُحفظ تمثال (Face from a Composite Statue, probably Queen Tiye) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال (Face from a Composite Statue, probably Queen Tiye)؟",
+      "a": "تعود تمثال (Face from a Composite Statue, probably Queen Tiye) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال (Face from a Composite Statue, probably Queen Tiye)؟",
+      "a": "صُنعت تمثال (Face from a Composite Statue, probably Queen Tiye) من كوارتزيت.",
+      "evidence": "material",
+      "type": "material"
+    }
+  ],
+  "highlight": false
+}

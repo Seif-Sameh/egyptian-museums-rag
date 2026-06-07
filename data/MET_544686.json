@@ -1,0 +1,124 @@
+{
+  "id": "MET_544686",
+  "names": {
+    "ar": "تمثال أوشابتي (Funerary Figure of Akhenaten)",
+    "en": "Funerary Figure of Akhenaten",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Funerary figure,  shabti, Akhenaten",
+  "period": {
+    "ar": "الدولة الحديثة, Amarna Period",
+    "en": "New Kingdom, Amarna Period",
+    "year_min": -1353,
+    "year_max": -1336
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Granite"
+  ],
+  "dimensions": {
+    "text": "H. 27 × W. 8.2 × D. 7 cm (10 5/8 × 3 1/4 × 2 3/4 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": ""
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 122"
+  },
+  "description": {
+    "ar": "تمثال أوشابتي مصرية قديمة، معروفة بـ«Funerary Figure of Akhenaten»، تعود إلى الدولة الحديثة, Amarna Period، (الأسرة الثامنة عشرة)، مصنوعة من جرانيت، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Funerary Figure of Akhenaten — Funerary figure,  shabti, Akhenaten. Period: New Kingdom, Amarna Period, Dynasty 18, dated to ca. 1353–1336 B.C.. Medium: Granite. Dimensions: H. 27 × W. 8.2 × D. 7 cm (10 5/8 × 3 1/4 × 2 3/4 in.). Credit: Gift of Mr. and Mrs. Jack A. Josephson, 1982.",
+    "ar_intro": "تمثال أوشابتي مصرية قديمة، معروفة بـ«Funerary Figure of Akhenaten»، تعود إلى الدولة الحديثة, Amarna Period، (الأسرة الثامنة عشرة)، مصنوعة من جرانيت، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Funerary Figure of Akhenaten"
+  },
+  "images": [
+    {
+      "filename": "MET_544686_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-24220-001.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Funerary Figure of Akhenaten",
+      "object_name": "Funerary figure,  shabti, Akhenaten"
+    },
+    {
+      "filename": "MET_544686_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP-24220-002.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Funerary Figure of Akhenaten",
+      "object_name": "Funerary figure,  shabti, Akhenaten"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544686",
+      "title": "Funerary Figure of Akhenaten",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "men"
+  ],
+  "related_ids": [
+    "MET_544056",
+    "MET_544453",
+    "MET_544478",
+    "MET_544683",
+    "MET_544692",
+    "MET_544720",
+    "MET_547684",
+    "MET_547687"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال أوشابتي (Funerary Figure of Akhenaten)؟",
+      "a": "تمثال أوشابتي مصرية قديمة، معروفة بـ«Funerary Figure of Akhenaten»، تعود إلى الدولة الحديثة, Amarna Period، (الأسرة الثامنة عشرة)، مصنوعة من جرانيت، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال أوشابتي (Funerary Figure of Akhenaten) حاليًا؟",
+      "a": "تُحفظ تمثال أوشابتي (Funerary Figure of Akhenaten) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال أوشابتي (Funerary Figure of Akhenaten)؟",
+      "a": "تعود تمثال أوشابتي (Funerary Figure of Akhenaten) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال أوشابتي (Funerary Figure of Akhenaten)؟",
+      "a": "صُنعت تمثال أوشابتي (Funerary Figure of Akhenaten) من جرانيت.",
+      "evidence": "material",
+      "type": "material"
+    }
+  ],
+  "highlight": true
+}

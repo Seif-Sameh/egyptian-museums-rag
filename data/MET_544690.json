@@ -1,0 +1,131 @@
+{
+  "id": "MET_544690",
+  "names": {
+    "ar": "Head, Tutankhamun, god's hand (Head of Tutankhamun)",
+    "en": "Head of Tutankhamun",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Head, Tutankhamun, god's hand",
+  "period": {
+    "ar": "الدولة الحديثة, Amarna Period",
+    "en": "New Kingdom, Amarna Period",
+    "year_min": -1336,
+    "year_max": -1327
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Indurated Limestone"
+  ],
+  "dimensions": {
+    "text": "H. 17.2 cm (6 3/4 in.); W. 16 cm (6 5/16 in.); D. 23.6 cm (9 5/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 121"
+  },
+  "description": {
+    "ar": "Head, Tutankhamun, god's hand مصرية قديمة، معروفة بـ«Head of Tutankhamun»، تعود إلى الدولة الحديثة, Amarna Period، (الأسرة الثامنة عشرة)، مصنوعة من Indurated Limestone، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Head of Tutankhamun — Head, Tutankhamun, god's hand. Period: New Kingdom, Amarna Period, Dynasty 18, dated to ca. 1336–1327 B.C.. Medium: Indurated Limestone. Dimensions: H. 17.2 cm (6 3/4 in.); W. 16 cm (6 5/16 in.); D. 23.6 cm (9 5/16 in.). Country of origin: Egypt. Credit: Rogers Fund, 1950.",
+    "ar_intro": "Head, Tutankhamun, god's hand مصرية قديمة، معروفة بـ«Head of Tutankhamun»، تعود إلى الدولة الحديثة, Amarna Period، (الأسرة الثامنة عشرة)، مصنوعة من Indurated Limestone، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Head of Tutankhamun"
+  },
+  "images": [
+    {
+      "filename": "MET_544690_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DT546.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Head of Tutankhamun",
+      "object_name": "Head, Tutankhamun, god's hand"
+    },
+    {
+      "filename": "MET_544690_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP226663.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Head of Tutankhamun",
+      "object_name": "Head, Tutankhamun, god's hand"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544690",
+      "title": "Head of Tutankhamun",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "tutankhamun",
+    "heads"
+  ],
+  "related_ids": [
+    "MET_544691",
+    "MET_544781",
+    "MET_544782",
+    "TUT_DAGGER",
+    "TUT_MASK",
+    "MET_544060",
+    "MET_544453",
+    "MET_544689"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي Head, Tutankhamun, god's hand (Head of Tutankhamun)؟",
+      "a": "Head, Tutankhamun, god's hand مصرية قديمة، معروفة بـ«Head of Tutankhamun»، تعود إلى الدولة الحديثة, Amarna Period، (الأسرة الثامنة عشرة)، مصنوعة من Indurated Limestone، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد Head, Tutankhamun, god's hand (Head of Tutankhamun) حاليًا؟",
+      "a": "تُحفظ Head, Tutankhamun, god's hand (Head of Tutankhamun) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود Head, Tutankhamun, god's hand (Head of Tutankhamun)؟",
+      "a": "تعود Head, Tutankhamun, god's hand (Head of Tutankhamun) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت Head, Tutankhamun, god's hand (Head of Tutankhamun)؟",
+      "a": "صُنعت Head, Tutankhamun, god's hand (Head of Tutankhamun) من Indurated Limestone.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت Head, Tutankhamun, god's hand (Head of Tutankhamun)؟",
+      "a": "أُحضرت Head, Tutankhamun, god's hand (Head of Tutankhamun) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": true
+}

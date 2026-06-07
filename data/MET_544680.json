@@ -1,0 +1,120 @@
+{
+  "id": "MET_544680",
+  "names": {
+    "ar": "Music, clapper, arm, hand (Pair of Clappers)",
+    "en": "Pair of Clappers",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Music, clapper, arm, hand",
+  "period": {
+    "ar": "الدولة الحديثة, Amarna Period",
+    "en": "New Kingdom, Amarna Period",
+    "year_min": -1353,
+    "year_max": -1336
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Hippopotamus ivory"
+  ],
+  "dimensions": {
+    "text": "max. L. 21.5; max. h. as resting 2 ; max w. as resting 3.6 cm (8 7/16 x 13/16 x 1 7/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt Exploration Society excavations, 1931–2"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 121"
+  },
+  "description": {
+    "ar": "Music, clapper, arm, hand مصرية قديمة، معروفة بـ«Pair of Clappers»، تعود إلى الدولة الحديثة, Amarna Period، (الأسرة الثامنة عشرة)، مصنوعة من Hippopotamus ivory، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Pair of Clappers — Music, clapper, arm, hand. Period: New Kingdom, Amarna Period, Dynasty 18, dated to ca. 1353–1336 B.C.. Medium: Hippopotamus ivory. Dimensions: max. L. 21.5; max. h. as resting 2 ; max w. as resting 3.6 cm (8 7/16 x 13/16 x 1 7/16 in.). Excavation: Egypt Exploration Society excavations, 1931–2. Country of origin: Egypt. Credit: Gift of Mrs. John Hubbard and Egypt Exploration Society, 1932.",
+    "ar_intro": "Music, clapper, arm, hand مصرية قديمة، معروفة بـ«Pair of Clappers»، تعود إلى الدولة الحديثة, Amarna Period، (الأسرة الثامنة عشرة)، مصنوعة من Hippopotamus ivory، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Pair of Clappers"
+  },
+  "images": [
+    {
+      "filename": "MET_544680_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DT11781.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Pair of Clappers",
+      "object_name": "Music, clapper, arm, hand"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544680",
+      "title": "Pair of Clappers",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "musical instruments",
+    "hands"
+  ],
+  "related_ids": [
+    "MET_544509",
+    "MET_544056",
+    "MET_544060",
+    "MET_544068",
+    "MET_544442",
+    "MET_544450",
+    "MET_544453",
+    "MET_544478"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي Music, clapper, arm, hand (Pair of Clappers)؟",
+      "a": "Music, clapper, arm, hand مصرية قديمة، معروفة بـ«Pair of Clappers»، تعود إلى الدولة الحديثة, Amarna Period، (الأسرة الثامنة عشرة)، مصنوعة من Hippopotamus ivory، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد Music, clapper, arm, hand (Pair of Clappers) حاليًا؟",
+      "a": "تُحفظ Music, clapper, arm, hand (Pair of Clappers) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود Music, clapper, arm, hand (Pair of Clappers)؟",
+      "a": "تعود Music, clapper, arm, hand (Pair of Clappers) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت Music, clapper, arm, hand (Pair of Clappers)؟",
+      "a": "صُنعت Music, clapper, arm, hand (Pair of Clappers) من Hippopotamus ivory.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت Music, clapper, arm, hand (Pair of Clappers)؟",
+      "a": "أُحضرت Music, clapper, arm, hand (Pair of Clappers) من Egypt Exploration Society excavations, 1931–2.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

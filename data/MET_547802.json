@@ -1,0 +1,119 @@
+{
+  "id": "MET_547802",
+  "names": {
+    "ar": "Temple, Dendur (The Temple of Dendur)",
+    "en": "The Temple of Dendur",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Temple, Dendur",
+  "period": {
+    "ar": "العصر الروماني",
+    "en": "Roman Period",
+    "year_min": 10,
+    "year_max": 10
+  },
+  "dynasty": {
+    "ar": "",
+    "en": ""
+  },
+  "material": [
+    "Aeolian sandstone"
+  ],
+  "dimensions": {
+    "text": "Temple proper: H. 6.40 m (21 ft.); W. 6.40 m (21 ft.); L. 12.50 m (41 ft.); Gate: H. 8.08 m (26.5 ft.); W. × 3.66 m (12 ft.); D. 3.35 m (11 ft.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Nubia"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 131"
+  },
+  "description": {
+    "ar": "Temple, Dendur مصرية قديمة، معروفة بـ«The Temple of Dendur»، تعود إلى العصر الروماني، مصنوعة من Aeolian sandstone، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "The Temple of Dendur — Temple, Dendur. Period: Roman Period, dated to completed by 10 B.C.. Medium: Aeolian sandstone. Dimensions: Temple proper: H. 6.40 m (21 ft.); W. 6.40 m (21 ft.); L. 12.50 m (41 ft.); Gate: H. 8.08 m (26.5 ft.); W. × 3.66 m (12 ft.); D. 3.35 m (11 ft.). Country of origin: Nubia. Credit: Given to the United States by Egypt in 1965 and awarded to The Metropolitan Museum of Art in 1967..",
+    "ar_intro": "Temple, Dendur مصرية قديمة، معروفة بـ«The Temple of Dendur»، تعود إلى العصر الروماني، مصنوعة من Aeolian sandstone، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "The Temple of Dendur"
+  },
+  "images": [
+    {
+      "filename": "MET_547802_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP240337.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "The Temple of Dendur",
+      "object_name": "Temple, Dendur"
+    },
+    {
+      "filename": "MET_547802_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/LC-68_154_EGDP025609.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "The Temple of Dendur",
+      "object_name": "Temple, Dendur"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/547802",
+      "title": "The Temple of Dendur",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [],
+  "related_ids": [],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي Temple, Dendur (The Temple of Dendur)؟",
+      "a": "Temple, Dendur مصرية قديمة، معروفة بـ«The Temple of Dendur»، تعود إلى العصر الروماني، مصنوعة من Aeolian sandstone، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد Temple, Dendur (The Temple of Dendur) حاليًا؟",
+      "a": "تُحفظ Temple, Dendur (The Temple of Dendur) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود Temple, Dendur (The Temple of Dendur)؟",
+      "a": "تعود Temple, Dendur (The Temple of Dendur) إلى العصر الروماني.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت Temple, Dendur (The Temple of Dendur)؟",
+      "a": "صُنعت Temple, Dendur (The Temple of Dendur) من Aeolian sandstone.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت Temple, Dendur (The Temple of Dendur)؟",
+      "a": "أُحضرت Temple, Dendur (The Temple of Dendur) من Nubia.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

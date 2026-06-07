@@ -1,0 +1,128 @@
+{
+  "id": "MET_569404",
+  "names": {
+    "ar": "جعران (Scarab)",
+    "en": "Scarab",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Scarab",
+  "period": {
+    "ar": "الدولة الحديثة, Ramesside",
+    "en": "New Kingdom, Ramesside",
+    "year_min": -20,
+    "year_max": -19
+  },
+  "dynasty": {
+    "ar": "الأسرة التاسعة عشرة–20",
+    "en": "Dynasty 19–20"
+  },
+  "material": [
+    "Beryl"
+  ],
+  "dimensions": {
+    "text": "L. 1.6 × W. 1.3 × H. 0.8 cm (5/8 × 1/2 × 5/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 122"
+  },
+  "description": {
+    "ar": "جعران مصرية قديمة، معروفة بـ«Scarab»، تعود إلى الدولة الحديثة, Ramesside، (الأسرة التاسعة عشرة–20)، مصنوعة من Beryl، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Scarab. Period: New Kingdom, Ramesside, Dynasty 19–20, dated to ca. 1295–1070 B.C.. Medium: Beryl. Dimensions: L. 1.6 × W. 1.3 × H. 0.8 cm (5/8 × 1/2 × 5/16 in.). Country of origin: Egypt. Credit: Gift of Darius Ogden Mills, 1904.",
+    "ar_intro": "جعران مصرية قديمة، معروفة بـ«Scarab»، تعود إلى الدولة الحديثة, Ramesside، (الأسرة التاسعة عشرة–20)، مصنوعة من Beryl، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Scarab"
+  },
+  "images": [
+    {
+      "filename": "MET_569404_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-31055-002.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Scarab",
+      "object_name": "Scarab"
+    },
+    {
+      "filename": "MET_569404_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP-31055-001.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Scarab",
+      "object_name": "Scarab"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/569404",
+      "title": "Scarab",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [],
+  "related_ids": [
+    "MET_545919",
+    "MET_555398",
+    "MET_569388",
+    "MET_569389",
+    "MET_569390",
+    "MET_569391",
+    "MET_569392",
+    "MET_569393"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي جعران (Scarab)؟",
+      "a": "جعران مصرية قديمة، معروفة بـ«Scarab»، تعود إلى الدولة الحديثة, Ramesside، (الأسرة التاسعة عشرة–20)، مصنوعة من Beryl، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد جعران (Scarab) حاليًا؟",
+      "a": "تُحفظ جعران (Scarab) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود جعران (Scarab)؟",
+      "a": "تعود جعران (Scarab) إلى الأسرة التاسعة عشرة–20.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت جعران (Scarab)؟",
+      "a": "صُنعت جعران (Scarab) من Beryl.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت جعران (Scarab)؟",
+      "a": "أُحضرت جعران (Scarab) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

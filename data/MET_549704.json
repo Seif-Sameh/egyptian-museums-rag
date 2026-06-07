@@ -1,0 +1,119 @@
+{
+  "id": "MET_549704",
+  "names": {
+    "ar": "تميمة (Design Amulet, Baboon Pierced Transversally on the Back, Device not understood)",
+    "en": "Design Amulet, Baboon Pierced Transversally on the Back, Device not understood",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Design Amulet, baboon",
+  "period": {
+    "ar": "عصر الانتقال الأول",
+    "en": "First Intermediate Period",
+    "year_min": -11,
+    "year_max": -9
+  },
+  "dynasty": {
+    "ar": "الأسرة التاسعة–11",
+    "en": "Dynasty 9–11"
+  },
+  "material": [
+    "Limestone"
+  ],
+  "dimensions": {
+    "text": "H. 4.1 × W. 2.9 × D. 2.5 cm (1 5/8 × 1 1/8 × 1 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 103"
+  },
+  "description": {
+    "ar": "تميمة مصرية قديمة، معروفة بـ«Design Amulet, Baboon Pierced Transversally on the Back, Device not understood»، تعود إلى عصر الانتقال الأول، (الأسرة التاسعة–11)، مصنوعة من حجر جيري، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Design Amulet, Baboon Pierced Transversally on the Back, Device not understood — Design Amulet, baboon. Period: First Intermediate Period, Dynasty 9–11, dated to ca. 2100–2010 B.C.. Medium: Limestone. Dimensions: H. 4.1 × W. 2.9 × D. 2.5 cm (1 5/8 × 1 1/8 × 1 in.). Country of origin: Egypt. Credit: Purchase, Fletcher Fund and The Guide Foundation Inc. Gift, 1966.",
+    "ar_intro": "تميمة مصرية قديمة، معروفة بـ«Design Amulet, Baboon Pierced Transversally on the Back, Device not understood»، تعود إلى عصر الانتقال الأول، (الأسرة التاسعة–11)، مصنوعة من حجر جيري، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Design Amulet, Baboon Pierced Transversally on the Back, Device not understood"
+  },
+  "images": [
+    {
+      "filename": "MET_549704_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/LC-66_99_155_EGDP036796.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Design Amulet, Baboon Pierced Transversally on the Back, Device not understood",
+      "object_name": "Design Amulet, baboon"
+    },
+    {
+      "filename": "MET_549704_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/LC-66_99_155_EGDP036800.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Design Amulet, Baboon Pierced Transversally on the Back, Device not understood",
+      "object_name": "Design Amulet, baboon"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/549704",
+      "title": "Design Amulet, Baboon Pierced Transversally on the Back, Device not understood",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [],
+  "related_ids": [],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تميمة (Design Amulet, Baboon Pierced Transversally on the Back, Device not understood)؟",
+      "a": "تميمة مصرية قديمة، معروفة بـ«Design Amulet, Baboon Pierced Transversally on the Back, Device not understood»، تعود إلى عصر الانتقال الأول، (الأسرة التاسعة–11)، مصنوعة من حجر جيري، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تميمة (Design Amulet, Baboon Pierced Transversally on the Back, Device not understood) حاليًا؟",
+      "a": "تُحفظ تميمة (Design Amulet, Baboon Pierced Transversally on the Back, Device not understood) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تميمة (Design Amulet, Baboon Pierced Transversally on the Back, Device not understood)؟",
+      "a": "تعود تميمة (Design Amulet, Baboon Pierced Transversally on the Back, Device not understood) إلى الأسرة التاسعة–11.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تميمة (Design Amulet, Baboon Pierced Transversally on the Back, Device not understood)؟",
+      "a": "صُنعت تميمة (Design Amulet, Baboon Pierced Transversally on the Back, Device not understood) من حجر جيري.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تميمة (Design Amulet, Baboon Pierced Transversally on the Back, Device not understood)؟",
+      "a": "أُحضرت تميمة (Design Amulet, Baboon Pierced Transversally on the Back, Device not understood) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

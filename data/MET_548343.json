@@ -1,0 +1,130 @@
+{
+  "id": "MET_548343",
+  "names": {
+    "ar": "تمثال أوشابتي (Shabti of Yuya)",
+    "en": "Shabti of Yuya",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Shabti, Yuya",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1390,
+    "year_max": -1352
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Cedar",
+    "paint",
+    "Egyptian blue"
+  ],
+  "dimensions": {
+    "text": "H. 28.5 cm (11 1/4 in.); w. at elbows 7.8 cm (3 1/16 in.); d. at foot 5.4 cm (2 1/8 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Davis/Quibell & Weigall excavations, 1905"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 119"
+  },
+  "description": {
+    "ar": "تمثال أوشابتي مصرية قديمة، معروفة بـ«Shabti of Yuya»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من خشب الأرز وpaint وEgyptian blue، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Shabti of Yuya — Shabti, Yuya. Period: New Kingdom, Dynasty 18, dated to ca. 1390–1352 B.C.. Medium: Cedar, paint, Egyptian blue. Dimensions: H. 28.5 cm (11 1/4 in.); w. at elbows 7.8 cm (3 1/16 in.); d. at foot 5.4 cm (2 1/8 in.). Excavation: Davis/Quibell & Weigall excavations, 1905. Country of origin: Egypt. Credit: Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915.",
+    "ar_intro": "تمثال أوشابتي مصرية قديمة، معروفة بـ«Shabti of Yuya»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من خشب الأرز وpaint وEgyptian blue، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Shabti of Yuya"
+  },
+  "images": [
+    {
+      "filename": "MET_548343_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/LC-30_8_57_EGDP028038.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Shabti of Yuya",
+      "object_name": "Shabti, Yuya"
+    },
+    {
+      "filename": "MET_548343_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/LC-30_8_57_EGDP028042.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Shabti of Yuya",
+      "object_name": "Shabti, Yuya"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/548343",
+      "title": "Shabti of Yuya",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [],
+  "related_ids": [
+    "YUYA_TUYA",
+    "MET_544056",
+    "MET_544060",
+    "MET_544068",
+    "MET_544442",
+    "MET_544450",
+    "MET_544453",
+    "MET_544478"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال أوشابتي (Shabti of Yuya)؟",
+      "a": "تمثال أوشابتي مصرية قديمة، معروفة بـ«Shabti of Yuya»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من خشب الأرز وpaint وEgyptian blue، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال أوشابتي (Shabti of Yuya) حاليًا؟",
+      "a": "تُحفظ تمثال أوشابتي (Shabti of Yuya) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال أوشابتي (Shabti of Yuya)؟",
+      "a": "تعود تمثال أوشابتي (Shabti of Yuya) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال أوشابتي (Shabti of Yuya)؟",
+      "a": "صُنعت تمثال أوشابتي (Shabti of Yuya) من خشب الأرز وpaint وEgyptian blue.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تمثال أوشابتي (Shabti of Yuya)؟",
+      "a": "أُحضرت تمثال أوشابتي (Shabti of Yuya) من Davis/Quibell & Weigall excavations, 1905.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

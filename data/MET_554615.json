@@ -1,0 +1,119 @@
+{
+  "id": "MET_554615",
+  "names": {
+    "ar": "Sistrum, Hathor emblem, Bat (Hathor Head from a Sistrum Handle)",
+    "en": "Hathor Head from a Sistrum Handle",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Sistrum, Hathor emblem, Bat",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1550,
+    "year_max": -1295
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Faience"
+  ],
+  "dimensions": {
+    "text": "L. 2.5 cm (1 in)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 117"
+  },
+  "description": {
+    "ar": "Sistrum, Hathor emblem, Bat مصرية قديمة، معروفة بـ«Hathor Head from a Sistrum Handle»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Hathor Head from a Sistrum Handle — Sistrum, Hathor emblem, Bat. Period: New Kingdom, Dynasty 18, dated to ca. 1550–1295 B.C.. Medium: Faience. Dimensions: L. 2.5 cm (1 in). Country of origin: Egypt. Credit: Gift of Joseph W. Drexel, 1889.",
+    "ar_intro": "Sistrum, Hathor emblem, Bat مصرية قديمة، معروفة بـ«Hathor Head from a Sistrum Handle»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Hathor Head from a Sistrum Handle"
+  },
+  "images": [
+    {
+      "filename": "MET_554615_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/89.2.225_acc.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Hathor Head from a Sistrum Handle",
+      "object_name": "Sistrum, Hathor emblem, Bat"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/554615",
+      "title": "Hathor Head from a Sistrum Handle",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "hathor"
+  ],
+  "related_ids": [
+    "MET_544056",
+    "MET_544060",
+    "MET_544068",
+    "MET_544442",
+    "MET_544450",
+    "MET_544453",
+    "MET_544478",
+    "MET_544498"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي Sistrum, Hathor emblem, Bat (Hathor Head from a Sistrum Handle)؟",
+      "a": "Sistrum, Hathor emblem, Bat مصرية قديمة، معروفة بـ«Hathor Head from a Sistrum Handle»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد Sistrum, Hathor emblem, Bat (Hathor Head from a Sistrum Handle) حاليًا؟",
+      "a": "تُحفظ Sistrum, Hathor emblem, Bat (Hathor Head from a Sistrum Handle) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود Sistrum, Hathor emblem, Bat (Hathor Head from a Sistrum Handle)؟",
+      "a": "تعود Sistrum, Hathor emblem, Bat (Hathor Head from a Sistrum Handle) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت Sistrum, Hathor emblem, Bat (Hathor Head from a Sistrum Handle)؟",
+      "a": "صُنعت Sistrum, Hathor emblem, Bat (Hathor Head from a Sistrum Handle) من خزف فاينس.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت Sistrum, Hathor emblem, Bat (Hathor Head from a Sistrum Handle)؟",
+      "a": "أُحضرت Sistrum, Hathor emblem, Bat (Hathor Head from a Sistrum Handle) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

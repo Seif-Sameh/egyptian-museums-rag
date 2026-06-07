@@ -1,0 +1,125 @@
+{
+  "id": "MET_543937",
+  "names": {
+    "ar": "Mastaba, Perneb (Mastaba Tomb of Perneb)",
+    "en": "Mastaba Tomb of Perneb",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Mastaba, Perneb",
+  "period": {
+    "ar": "الدولة القديمة",
+    "en": "Old Kingdom",
+    "year_min": -2381,
+    "year_max": -2323
+  },
+  "dynasty": {
+    "ar": "الأسرة الخامسة",
+    "en": "Dynasty 5"
+  },
+  "material": [
+    "Limestone",
+    "paint"
+  ],
+  "dimensions": {
+    "text": "H. 482.2 cm (15 ft. 9 13/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egyptian Antiquities Service/Quibell excavations"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 100"
+  },
+  "description": {
+    "ar": "Mastaba, Perneb مصرية قديمة، معروفة بـ«Mastaba Tomb of Perneb»، تعود إلى الدولة القديمة، (الأسرة الخامسة)، مصنوعة من حجر جيري وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Mastaba Tomb of Perneb — Mastaba, Perneb. Period: Old Kingdom, Dynasty 5, dated to ca. 2381–2323 B.C.. Medium: Limestone, paint. Dimensions: H. 482.2 cm (15 ft. 9 13/16 in.). Excavation: Egyptian Antiquities Service/Quibell excavations. Country of origin: Egypt. Credit: Gift of Edward S. Harkness, 1913.",
+    "ar_intro": "Mastaba, Perneb مصرية قديمة، معروفة بـ«Mastaba Tomb of Perneb»، تعود إلى الدولة القديمة، (الأسرة الخامسة)، مصنوعة من حجر جيري وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Mastaba Tomb of Perneb"
+  },
+  "images": [
+    {
+      "filename": "MET_543937_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP108489.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Mastaba Tomb of Perneb",
+      "object_name": "Mastaba, Perneb"
+    },
+    {
+      "filename": "MET_543937_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/13.183.3.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Mastaba Tomb of Perneb",
+      "object_name": "Mastaba, Perneb"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/543937",
+      "title": "Mastaba Tomb of Perneb",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "tombs"
+  ],
+  "related_ids": [
+    "MET_543882",
+    "MET_543901"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي Mastaba, Perneb (Mastaba Tomb of Perneb)؟",
+      "a": "Mastaba, Perneb مصرية قديمة، معروفة بـ«Mastaba Tomb of Perneb»، تعود إلى الدولة القديمة، (الأسرة الخامسة)، مصنوعة من حجر جيري وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد Mastaba, Perneb (Mastaba Tomb of Perneb) حاليًا؟",
+      "a": "تُحفظ Mastaba, Perneb (Mastaba Tomb of Perneb) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود Mastaba, Perneb (Mastaba Tomb of Perneb)؟",
+      "a": "تعود Mastaba, Perneb (Mastaba Tomb of Perneb) إلى الأسرة الخامسة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت Mastaba, Perneb (Mastaba Tomb of Perneb)؟",
+      "a": "صُنعت Mastaba, Perneb (Mastaba Tomb of Perneb) من حجر جيري وpaint.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت Mastaba, Perneb (Mastaba Tomb of Perneb)؟",
+      "a": "أُحضرت Mastaba, Perneb (Mastaba Tomb of Perneb) من Egyptian Antiquities Service/Quibell excavations.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

@@ -1,0 +1,120 @@
+{
+  "id": "MET_552036",
+  "names": {
+    "ar": "تميمة (Design Amulet, Back in the Form of a Woman Suckling a Child, Device showing Two Lizards Head-to-tail)",
+    "en": "Design Amulet, Back in the Form of a Woman Suckling a Child, Device showing Two Lizards Head-to-tail",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Design Amulet, woman with baby, lizards",
+  "period": {
+    "ar": "عصر الانتقال الأول",
+    "en": "First Intermediate Period",
+    "year_min": 9,
+    "year_max": 9
+  },
+  "dynasty": {
+    "ar": "الأسرة التاسعة",
+    "en": "Dynasty 9"
+  },
+  "material": [
+    "Steatite",
+    "glazed"
+  ],
+  "dimensions": {
+    "text": "H. 1.8 × W. 1.2 × D. 1.4 cm (11/16 × 1/2 × 9/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 103"
+  },
+  "description": {
+    "ar": "تميمة مصرية قديمة، معروفة بـ«Design Amulet, Back in the Form of a Woman Suckling a Child, Device showing Two Lizards Head-to-tail»، تعود إلى عصر الانتقال الأول، (الأسرة التاسعة)، مصنوعة من حجر صابوني وglazed، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Design Amulet, Back in the Form of a Woman Suckling a Child, Device showing Two Lizards Head-to-tail — Design Amulet, woman with baby, lizards. Period: First Intermediate Period, Dynasty 9, dated to ca. 2100–2080 B.C.. Medium: Steatite, glazed. Dimensions: H. 1.8 × W. 1.2 × D. 1.4 cm (11/16 × 1/2 × 9/16 in.). Country of origin: Egypt. Credit: Gift of Helen Miller Gould, 1910.",
+    "ar_intro": "تميمة مصرية قديمة، معروفة بـ«Design Amulet, Back in the Form of a Woman Suckling a Child, Device showing Two Lizards Head-to-tail»، تعود إلى عصر الانتقال الأول، (الأسرة التاسعة)، مصنوعة من حجر صابوني وglazed، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Design Amulet, Back in the Form of a Woman Suckling a Child, Device showing Two Lizards Head-to-tail"
+  },
+  "images": [
+    {
+      "filename": "MET_552036_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/LC-10_130_751_EGDP036784.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Design Amulet, Back in the Form of a Woman Suckling a Child, Device showing Two Lizards Head-to-tail",
+      "object_name": "Design Amulet, woman with baby, lizards"
+    },
+    {
+      "filename": "MET_552036_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/LC-10_130_751_EGDP036783.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Design Amulet, Back in the Form of a Woman Suckling a Child, Device showing Two Lizards Head-to-tail",
+      "object_name": "Design Amulet, woman with baby, lizards"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/552036",
+      "title": "Design Amulet, Back in the Form of a Woman Suckling a Child, Device showing Two Lizards Head-to-tail",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [],
+  "related_ids": [],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تميمة (Design Amulet, Back in the Form of a Woman Suckling a Child, Device showing Two Lizards Head-to-tail)؟",
+      "a": "تميمة مصرية قديمة، معروفة بـ«Design Amulet, Back in the Form of a Woman Suckling a Child, Device showing Two Lizards Head-to-tail»، تعود إلى عصر الانتقال الأول، (الأسرة التاسعة)، مصنوعة من حجر صابوني وglazed، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تميمة (Design Amulet, Back in the Form of a Woman Suckling a Child, Device showing Two Lizards Head-to-tail) حاليًا؟",
+      "a": "تُحفظ تميمة (Design Amulet, Back in the Form of a Woman Suckling a Child, Device showing Two Lizards Head-to-tail) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تميمة (Design Amulet, Back in the Form of a Woman Suckling a Child, Device showing Two Lizards Head-to-tail)؟",
+      "a": "تعود تميمة (Design Amulet, Back in the Form of a Woman Suckling a Child, Device showing Two Lizards Head-to-tail) إلى الأسرة التاسعة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تميمة (Design Amulet, Back in the Form of a Woman Suckling a Child, Device showing Two Lizards Head-to-tail)؟",
+      "a": "صُنعت تميمة (Design Amulet, Back in the Form of a Woman Suckling a Child, Device showing Two Lizards Head-to-tail) من حجر صابوني وglazed.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تميمة (Design Amulet, Back in the Form of a Woman Suckling a Child, Device showing Two Lizards Head-to-tail)؟",
+      "a": "أُحضرت تميمة (Design Amulet, Back in the Form of a Woman Suckling a Child, Device showing Two Lizards Head-to-tail) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

@@ -1,0 +1,119 @@
+{
+  "id": "MET_547232",
+  "names": {
+    "ar": "تمثال صغير (A Tusk Figurine of a Man)",
+    "en": "A Tusk Figurine of a Man",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Statuette, Tusk",
+  "period": {
+    "ar": "Predynastic, Late Naqada l– Early Naqada II",
+    "en": "Predynastic, Late Naqada l– Early Naqada II",
+    "year_min": -3900,
+    "year_max": -3500
+  },
+  "dynasty": {
+    "ar": "",
+    "en": ""
+  },
+  "material": [
+    "Probably elephant ivory and organic material"
+  ],
+  "dimensions": {
+    "text": "h. 22.4 cm (8 13/16 in); w. 3 cm (13/16 in); d. 3.2 cm (1 1/4 in)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": ""
+  },
+  "description": {
+    "ar": "تمثال صغير مصرية قديمة، معروفة بـ«A Tusk Figurine of a Man»، تعود إلى Predynastic, Late Naqada l– Early Naqada II، مصنوعة من Probably elephant ivory and organic material، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "A Tusk Figurine of a Man — Statuette, Tusk. Period: Predynastic, Late Naqada l– Early Naqada II, dated to ca. 3900–3500 B.C.. Medium: Probably elephant ivory and organic material. Dimensions: h. 22.4 cm (8 13/16 in); w. 3 cm (13/16 in); d. 3.2 cm (1 1/4 in). Country of origin: Egypt. Credit: Rogers Fund, 1923.",
+    "ar_intro": "تمثال صغير مصرية قديمة، معروفة بـ«A Tusk Figurine of a Man»، تعود إلى Predynastic, Late Naqada l– Early Naqada II، مصنوعة من Probably elephant ivory and organic material، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "A Tusk Figurine of a Man"
+  },
+  "images": [
+    {
+      "filename": "MET_547232_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP237714.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "A Tusk Figurine of a Man",
+      "object_name": "Statuette, Tusk"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/547232",
+      "title": "A Tusk Figurine of a Man",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "men"
+  ],
+  "related_ids": [
+    "MET_543864",
+    "MET_543882",
+    "MET_543896",
+    "MET_543899",
+    "MET_543901",
+    "MET_543903",
+    "MET_544056",
+    "MET_544076"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال صغير (A Tusk Figurine of a Man)؟",
+      "a": "تمثال صغير مصرية قديمة، معروفة بـ«A Tusk Figurine of a Man»، تعود إلى Predynastic, Late Naqada l– Early Naqada II، مصنوعة من Probably elephant ivory and organic material، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال صغير (A Tusk Figurine of a Man) حاليًا؟",
+      "a": "تُحفظ تمثال صغير (A Tusk Figurine of a Man) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال صغير (A Tusk Figurine of a Man)؟",
+      "a": "تعود تمثال صغير (A Tusk Figurine of a Man) إلى Predynastic, Late Naqada l– Early Naqada II.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال صغير (A Tusk Figurine of a Man)؟",
+      "a": "صُنعت تمثال صغير (A Tusk Figurine of a Man) من Probably elephant ivory and organic material.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تمثال صغير (A Tusk Figurine of a Man)؟",
+      "a": "أُحضرت تمثال صغير (A Tusk Figurine of a Man) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

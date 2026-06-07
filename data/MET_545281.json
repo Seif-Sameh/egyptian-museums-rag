@@ -1,0 +1,138 @@
+{
+  "id": "MET_545281",
+  "names": {
+    "ar": "Model, granary, Meketre (Model of a Granary with Scribes)",
+    "en": "Model of a Granary with Scribes",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Model, granary, Meketre",
+  "period": {
+    "ar": "الدولة الوسطى",
+    "en": "Middle Kingdom",
+    "year_min": -1981,
+    "year_max": -1975
+  },
+  "dynasty": {
+    "ar": "الأسرة الثانية عشرة",
+    "en": "Dynasty 12"
+  },
+  "material": [
+    "Wood",
+    "plaster",
+    "paint",
+    "linen",
+    "grain"
+  ],
+  "dimensions": {
+    "text": "L. 74.9 (29 1/2 in); W. 56 cm (22 1/16 in); H. 36.5 (14 3/8 in);\r\naverage height of figures: 20 cm (7 7/8 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "MMA excavations, 1920"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 105"
+  },
+  "description": {
+    "ar": "Model, granary, Meketre مصرية قديمة، معروفة بـ«Model of a Granary with Scribes»، تعود إلى الدولة الوسطى، (الأسرة الثانية عشرة)، مصنوعة من خشب وplaster وpaint وlinen وgrain، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Model of a Granary with Scribes — Model, granary, Meketre. Period: Middle Kingdom, Dynasty 12, dated to ca. 1981–1975 B.C.. Medium: Wood, plaster, paint, linen, grain. Dimensions: L. 74.9 (29 1/2 in); W. 56 cm (22 1/16 in); H. 36.5 (14 3/8 in);\r\naverage height of figures: 20 cm (7 7/8 in.). Excavation: MMA excavations, 1920. Country of origin: Egypt. Credit: Rogers Fund and Edward S. Harkness Gift, 1920.",
+    "ar_intro": "Model, granary, Meketre مصرية قديمة، معروفة بـ«Model of a Granary with Scribes»، تعود إلى الدولة الوسطى، (الأسرة الثانية عشرة)، مصنوعة من خشب وplaster وpaint وlinen وgrain، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Model of a Granary with Scribes"
+  },
+  "images": [
+    {
+      "filename": "MET_545281_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP351557.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Model of a Granary with Scribes",
+      "object_name": "Model, granary, Meketre"
+    },
+    {
+      "filename": "MET_545281_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP351558.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Model of a Granary with Scribes",
+      "object_name": "Model, granary, Meketre"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/545281",
+      "title": "Model of a Granary with Scribes",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "food",
+    "men",
+    "working",
+    "writing",
+    "meketre-models"
+  ],
+  "related_ids": [
+    "MET_544214",
+    "MET_544320",
+    "MET_543864",
+    "MET_544184",
+    "MET_544210",
+    "MET_543867",
+    "MET_544186",
+    "MET_544227"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي Model, granary, Meketre (Model of a Granary with Scribes)؟",
+      "a": "Model, granary, Meketre مصرية قديمة، معروفة بـ«Model of a Granary with Scribes»، تعود إلى الدولة الوسطى، (الأسرة الثانية عشرة)، مصنوعة من خشب وplaster وpaint وlinen وgrain، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد Model, granary, Meketre (Model of a Granary with Scribes) حاليًا؟",
+      "a": "تُحفظ Model, granary, Meketre (Model of a Granary with Scribes) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود Model, granary, Meketre (Model of a Granary with Scribes)؟",
+      "a": "تعود Model, granary, Meketre (Model of a Granary with Scribes) إلى الأسرة الثانية عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت Model, granary, Meketre (Model of a Granary with Scribes)؟",
+      "a": "صُنعت Model, granary, Meketre (Model of a Granary with Scribes) من خشب وplaster وpaint وlinen وgrain.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت Model, granary, Meketre (Model of a Granary with Scribes)؟",
+      "a": "أُحضرت Model, granary, Meketre (Model of a Granary with Scribes) من MMA excavations, 1920.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

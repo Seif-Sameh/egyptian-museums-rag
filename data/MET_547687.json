@@ -1,0 +1,122 @@
+{
+  "id": "MET_547687",
+  "names": {
+    "ar": "كرسي (Chair of Reniseneb)",
+    "en": "Chair of Reniseneb",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Chair, Reniseneb",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": 18,
+    "year_max": 18
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Wood",
+    "ebony",
+    "ivory"
+  ],
+  "dimensions": {
+    "text": "h. 86.2 cm (33 15/16 in)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 116"
+  },
+  "description": {
+    "ar": "كرسي مصرية قديمة، معروفة بـ«Chair of Reniseneb»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من خشب وebony وivory، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Chair of Reniseneb — Chair, Reniseneb. Period: New Kingdom, Dynasty 18, dated to ca. 1450 B.C.. Medium: Wood, ebony, ivory. Dimensions: h. 86.2 cm (33 15/16 in). Country of origin: Egypt. Credit: Purchase, Patricia R. Lassalle Gift, 1968.",
+    "ar_intro": "كرسي مصرية قديمة، معروفة بـ«Chair of Reniseneb»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من خشب وebony وivory، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Chair of Reniseneb"
+  },
+  "images": [
+    {
+      "filename": "MET_547687_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DT536.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Chair of Reniseneb",
+      "object_name": "Chair, Reniseneb"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/547687",
+      "title": "Chair of Reniseneb",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "men",
+    "hieroglyphs"
+  ],
+  "related_ids": [
+    "MET_544692",
+    "MET_544056",
+    "MET_544453",
+    "MET_544478",
+    "MET_544683",
+    "MET_544686",
+    "MET_544720",
+    "MET_544826"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي كرسي (Chair of Reniseneb)؟",
+      "a": "كرسي مصرية قديمة، معروفة بـ«Chair of Reniseneb»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من خشب وebony وivory، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد كرسي (Chair of Reniseneb) حاليًا؟",
+      "a": "تُحفظ كرسي (Chair of Reniseneb) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود كرسي (Chair of Reniseneb)؟",
+      "a": "تعود كرسي (Chair of Reniseneb) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت كرسي (Chair of Reniseneb)؟",
+      "a": "صُنعت كرسي (Chair of Reniseneb) من خشب وebony وivory.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت كرسي (Chair of Reniseneb)؟",
+      "a": "أُحضرت كرسي (Chair of Reniseneb) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

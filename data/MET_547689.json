@@ -1,0 +1,131 @@
+{
+  "id": "MET_547689",
+  "names": {
+    "ar": "تمثال صغير (Statuette of an ancestral king)",
+    "en": "Statuette of an ancestral king",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Statuette, Ritual Figure",
+  "period": {
+    "ar": "العصر المتأخر–Early العصر البطلمي",
+    "en": "Late Period–Early Ptolemaic Period",
+    "year_min": -390,
+    "year_max": -246
+  },
+  "dynasty": {
+    "ar": "الأسرة الثلاثون or later",
+    "en": "Dynasty 30 or later"
+  },
+  "material": [
+    "Wood",
+    "formerly clad with lead sheet"
+  ],
+  "dimensions": {
+    "text": "H. 20.8 × W. 14.5 × D. 11 cm (8 3/16 × 5 11/16 × 4 5/16 in.); H. (with tang): 23.3 cm (9 3/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 128"
+  },
+  "description": {
+    "ar": "تمثال صغير مصرية قديمة، معروفة بـ«Statuette of an ancestral king»، تعود إلى العصر المتأخر–Early العصر البطلمي، (الأسرة الثلاثون or later)، مصنوعة من خشب وformerly clad with lead sheet، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Statuette of an ancestral king — Statuette, Ritual Figure. Period: Late Period–Early Ptolemaic Period, Dynasty 30 or later, dated to 390–246 BCE. Medium: Wood, formerly clad with lead sheet. Dimensions: H. 20.8 × W. 14.5 × D. 11 cm (8 3/16 × 5 11/16 × 4 5/16 in.); H. (with tang): 23.3 cm (9 3/16 in.). Country of origin: Egypt. Credit: Purchase, Anne and John V. Hansen Egyptian Purchase Fund, and Magda Saleh and Jack Josephson Gift, 2003.",
+    "ar_intro": "تمثال صغير مصرية قديمة، معروفة بـ«Statuette of an ancestral king»، تعود إلى العصر المتأخر–Early العصر البطلمي، (الأسرة الثلاثون or later)، مصنوعة من خشب وformerly clad with lead sheet، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Statuette of an ancestral king"
+  },
+  "images": [
+    {
+      "filename": "MET_547689_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-38637-001.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Statuette of an ancestral king",
+      "object_name": "Statuette, Ritual Figure"
+    },
+    {
+      "filename": "MET_547689_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP-38637-002.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Statuette of an ancestral king",
+      "object_name": "Statuette, Ritual Figure"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/547689",
+      "title": "Statuette of an ancestral king",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "men"
+  ],
+  "related_ids": [
+    "MET_543864",
+    "MET_543882",
+    "MET_543896",
+    "MET_543899",
+    "MET_543901",
+    "MET_543903",
+    "MET_544056",
+    "MET_544076"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال صغير (Statuette of an ancestral king)؟",
+      "a": "تمثال صغير مصرية قديمة، معروفة بـ«Statuette of an ancestral king»، تعود إلى العصر المتأخر–Early العصر البطلمي، (الأسرة الثلاثون or later)، مصنوعة من خشب وformerly clad with lead sheet، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال صغير (Statuette of an ancestral king) حاليًا؟",
+      "a": "تُحفظ تمثال صغير (Statuette of an ancestral king) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال صغير (Statuette of an ancestral king)؟",
+      "a": "تعود تمثال صغير (Statuette of an ancestral king) إلى الأسرة الثلاثون or later.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال صغير (Statuette of an ancestral king)؟",
+      "a": "صُنعت تمثال صغير (Statuette of an ancestral king) من خشب وformerly clad with lead sheet.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تمثال صغير (Statuette of an ancestral king)؟",
+      "a": "أُحضرت تمثال صغير (Statuette of an ancestral king) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

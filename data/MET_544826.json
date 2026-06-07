@@ -1,0 +1,132 @@
+{
+  "id": "MET_544826",
+  "names": {
+    "ar": "كرسي (Arm Panel From a Ceremonial Chair of Thutmose IV)",
+    "en": "Arm Panel From a Ceremonial Chair of Thutmose IV",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Chair, Arm Panel",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1400,
+    "year_max": -1390
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Wood (<em>Ficus sycomorus</em>?)"
+  ],
+  "dimensions": {
+    "text": "H. 26 × W. 30 × Th. 2.2 cm (10 1/4 × 11 13/16 × 7/8 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Davis/Carter excavations, 1903"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 119"
+  },
+  "description": {
+    "ar": "كرسي مصرية قديمة، معروفة بـ«Arm Panel From a Ceremonial Chair of Thutmose IV»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من Wood (<em>Ficus sycomorus</em>?)، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Arm Panel From a Ceremonial Chair of Thutmose IV — Chair, Arm Panel. Period: New Kingdom, Dynasty 18, dated to ca. 1400–1390 BCE. Medium: Wood (<em>Ficus sycomorus</em>?). Dimensions: H. 26 × W. 30 × Th. 2.2 cm (10 1/4 × 11 13/16 × 7/8 in.). Excavation: Davis/Carter excavations, 1903. Country of origin: Egypt. Credit: Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915.",
+    "ar_intro": "كرسي مصرية قديمة، معروفة بـ«Arm Panel From a Ceremonial Chair of Thutmose IV»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من Wood (<em>Ficus sycomorus</em>?)، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Arm Panel From a Ceremonial Chair of Thutmose IV"
+  },
+  "images": [
+    {
+      "filename": "MET_544826_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-17705-001.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Arm Panel From a Ceremonial Chair of Thutmose IV",
+      "object_name": "Chair, Arm Panel"
+    },
+    {
+      "filename": "MET_544826_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP-17705-002.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Arm Panel From a Ceremonial Chair of Thutmose IV",
+      "object_name": "Chair, Arm Panel"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544826",
+      "title": "Arm Panel From a Ceremonial Chair of Thutmose IV",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "falcons",
+    "hieroglyphs",
+    "sphinx"
+  ],
+  "related_ids": [
+    "MET_554915",
+    "MET_547772",
+    "MET_544442",
+    "MET_544498",
+    "MET_544692",
+    "MET_546012",
+    "MET_547687",
+    "MET_554367"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي كرسي (Arm Panel From a Ceremonial Chair of Thutmose IV)؟",
+      "a": "كرسي مصرية قديمة، معروفة بـ«Arm Panel From a Ceremonial Chair of Thutmose IV»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من Wood (<em>Ficus sycomorus</em>?)، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد كرسي (Arm Panel From a Ceremonial Chair of Thutmose IV) حاليًا؟",
+      "a": "تُحفظ كرسي (Arm Panel From a Ceremonial Chair of Thutmose IV) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود كرسي (Arm Panel From a Ceremonial Chair of Thutmose IV)؟",
+      "a": "تعود كرسي (Arm Panel From a Ceremonial Chair of Thutmose IV) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت كرسي (Arm Panel From a Ceremonial Chair of Thutmose IV)؟",
+      "a": "صُنعت كرسي (Arm Panel From a Ceremonial Chair of Thutmose IV) من Wood (<em>Ficus sycomorus</em>?).",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت كرسي (Arm Panel From a Ceremonial Chair of Thutmose IV)؟",
+      "a": "أُحضرت كرسي (Arm Panel From a Ceremonial Chair of Thutmose IV) من Davis/Carter excavations, 1903.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": true
+}

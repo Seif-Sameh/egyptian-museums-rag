@@ -1,0 +1,130 @@
+{
+  "id": "MET_544227",
+  "names": {
+    "ar": "تمثال صغير (Hippopotamus (\"William\"))",
+    "en": "Hippopotamus (\"William\")",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Figurine, Hippopotamus (\"William\"); Dendur-decoded",
+  "period": {
+    "ar": "الدولة الوسطى",
+    "en": "Middle Kingdom",
+    "year_min": -1961,
+    "year_max": -1878
+  },
+  "dynasty": {
+    "ar": "الأسرة الثانية عشرة",
+    "en": "Dynasty 12"
+  },
+  "material": [
+    "Faience"
+  ],
+  "dimensions": {
+    "text": "L. 20 cm (7 7/8 in.); W. 7.5 cm (2 15/16 in.); H. 11.2 cm (4 7/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Khashaba excavations, 1910"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 111"
+  },
+  "description": {
+    "ar": "تمثال صغير مصرية قديمة، معروفة بـ«Hippopotamus (\"William\")»، تعود إلى الدولة الوسطى، (الأسرة الثانية عشرة)، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Hippopotamus (\"William\") — Figurine, Hippopotamus (\"William\"); Dendur-decoded. Period: Middle Kingdom, Dynasty 12, dated to ca. 1961–1878 B.C.. Medium: Faience. Dimensions: L. 20 cm (7 7/8 in.); W. 7.5 cm (2 15/16 in.); H. 11.2 cm (4 7/16 in.). Excavation: Khashaba excavations, 1910. Country of origin: Egypt. Credit: Gift of Edward S. Harkness, 1917.",
+    "ar_intro": "تمثال صغير مصرية قديمة، معروفة بـ«Hippopotamus (\"William\")»، تعود إلى الدولة الوسطى، (الأسرة الثانية عشرة)، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Hippopotamus (\"William\")"
+  },
+  "images": [
+    {
+      "filename": "MET_544227_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP248993.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Hippopotamus (\"William\")",
+      "object_name": "Figurine, Hippopotamus (\"William\"); Dendur-decoded"
+    },
+    {
+      "filename": "MET_544227_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP247657.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Hippopotamus (\"William\")",
+      "object_name": "Figurine, Hippopotamus (\"William\"); Dendur-decoded"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544227",
+      "title": "Hippopotamus (\"William\")",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "hippos"
+  ],
+  "related_ids": [
+    "MET_543864",
+    "MET_543867",
+    "MET_544184",
+    "MET_544186",
+    "MET_544210",
+    "MET_544214",
+    "MET_544228",
+    "MET_544232"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال صغير (Hippopotamus (\"William\"))؟",
+      "a": "تمثال صغير مصرية قديمة، معروفة بـ«Hippopotamus (\"William\")»، تعود إلى الدولة الوسطى، (الأسرة الثانية عشرة)، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال صغير (Hippopotamus (\"William\")) حاليًا؟",
+      "a": "تُحفظ تمثال صغير (Hippopotamus (\"William\")) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال صغير (Hippopotamus (\"William\"))؟",
+      "a": "تعود تمثال صغير (Hippopotamus (\"William\")) إلى الأسرة الثانية عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال صغير (Hippopotamus (\"William\"))؟",
+      "a": "صُنعت تمثال صغير (Hippopotamus (\"William\")) من خزف فاينس.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تمثال صغير (Hippopotamus (\"William\"))؟",
+      "a": "أُحضرت تمثال صغير (Hippopotamus (\"William\")) من Khashaba excavations, 1910.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

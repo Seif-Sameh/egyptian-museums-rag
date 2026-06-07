@@ -1,0 +1,128 @@
+{
+  "id": "MET_544822",
+  "names": {
+    "ar": "Jug, Dolphins (Jug Decorated with Dolphins and Birds)",
+    "en": "Jug Decorated with Dolphins and Birds",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Jug, Dolphins",
+  "period": {
+    "ar": "الدولة الوسطى or عصر الانتقال الثاني",
+    "en": "Middle Kingdom or Second Intermediate Period",
+    "year_min": -15,
+    "year_max": -13
+  },
+  "dynasty": {
+    "ar": "الأسرة الثالثة عشرة–15",
+    "en": "Dynasty 13–15"
+  },
+  "material": [
+    "Pottery",
+    "manganese black",
+    "gypsum fill"
+  ],
+  "dimensions": {
+    "text": "H. 15 cm (5 7/8 in.); Diam. 14.9 cm (5 7/8 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "MMA excavations, 1920–21"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 111"
+  },
+  "description": {
+    "ar": "Jug, Dolphins مصرية قديمة، معروفة بـ«Jug Decorated with Dolphins and Birds»، تعود إلى الدولة الوسطى or عصر الانتقال الثاني، (الأسرة الثالثة عشرة–15)، مصنوعة من فخار وmanganese black وgypsum fill، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Jug Decorated with Dolphins and Birds — Jug, Dolphins. Period: Middle Kingdom or Second Intermediate Period, Dynasty 13–15, dated to ca. 1750–1550 B.C.. Medium: Pottery, manganese black, gypsum fill. Dimensions: H. 15 cm (5 7/8 in.); Diam. 14.9 cm (5 7/8 in.). Excavation: MMA excavations, 1920–21. Country of origin: Egypt. Credit: Rogers Fund and Edward S. Harkness Gift, 1922.",
+    "ar_intro": "Jug, Dolphins مصرية قديمة، معروفة بـ«Jug Decorated with Dolphins and Birds»، تعود إلى الدولة الوسطى or عصر الانتقال الثاني، (الأسرة الثالثة عشرة–15)، مصنوعة من فخار وmanganese black وgypsum fill، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Jug Decorated with Dolphins and Birds"
+  },
+  "images": [
+    {
+      "filename": "MET_544822_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP350589.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Jug Decorated with Dolphins and Birds",
+      "object_name": "Jug, Dolphins"
+    },
+    {
+      "filename": "MET_544822_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP160416.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Jug Decorated with Dolphins and Birds",
+      "object_name": "Jug, Dolphins"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544822",
+      "title": "Jug Decorated with Dolphins and Birds",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "birds",
+    "dolphins"
+  ],
+  "related_ids": [
+    "MET_544067",
+    "MET_544092",
+    "MET_548339"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي Jug, Dolphins (Jug Decorated with Dolphins and Birds)؟",
+      "a": "Jug, Dolphins مصرية قديمة، معروفة بـ«Jug Decorated with Dolphins and Birds»، تعود إلى الدولة الوسطى or عصر الانتقال الثاني، (الأسرة الثالثة عشرة–15)، مصنوعة من فخار وmanganese black وgypsum fill، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد Jug, Dolphins (Jug Decorated with Dolphins and Birds) حاليًا؟",
+      "a": "تُحفظ Jug, Dolphins (Jug Decorated with Dolphins and Birds) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود Jug, Dolphins (Jug Decorated with Dolphins and Birds)؟",
+      "a": "تعود Jug, Dolphins (Jug Decorated with Dolphins and Birds) إلى الأسرة الثالثة عشرة–15.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت Jug, Dolphins (Jug Decorated with Dolphins and Birds)؟",
+      "a": "صُنعت Jug, Dolphins (Jug Decorated with Dolphins and Birds) من فخار وmanganese black وgypsum fill.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت Jug, Dolphins (Jug Decorated with Dolphins and Birds)؟",
+      "a": "أُحضرت Jug, Dolphins (Jug Decorated with Dolphins and Birds) من MMA excavations, 1920–21.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

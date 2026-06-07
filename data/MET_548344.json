@@ -1,0 +1,134 @@
+{
+  "id": "MET_548344",
+  "names": {
+    "ar": "بردية (Book of the Dead for the Chantress of Amun, Nauny)",
+    "en": "Book of the Dead for the Chantress of Amun, Nauny",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Papyrus, funerary, Book of the Dead, Nauny; Dendur-decoded",
+  "period": {
+    "ar": "عصر الانتقال الثالث",
+    "en": "Third Intermediate Period",
+    "year_min": 21,
+    "year_max": 21
+  },
+  "dynasty": {
+    "ar": "الأسرة الحادية والعشرون",
+    "en": "Dynasty 21"
+  },
+  "material": [
+    "Papyrus",
+    "paint"
+  ],
+  "dimensions": {
+    "text": "L. 521.5 cm (206 5/16 in); H. 35 cm (13 3/4 in)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "MMA excavations, 1928–29"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 126"
+  },
+  "description": {
+    "ar": "بردية مصرية قديمة، معروفة بـ«Book of the Dead for the Chantress of Amun, Nauny»، تعود إلى عصر الانتقال الثالث، (الأسرة الحادية والعشرون)، مصنوعة من ورق البردي وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Book of the Dead for the Chantress of Amun, Nauny — Papyrus, funerary, Book of the Dead, Nauny; Dendur-decoded. Period: Third Intermediate Period, Dynasty 21, dated to ca. 1050 B.C.. Medium: Papyrus, paint. Dimensions: L. 521.5 cm (206 5/16 in); H. 35 cm (13 3/4 in). Excavation: MMA excavations, 1928–29. Country of origin: Egypt. Credit: Rogers Fund, 1930.",
+    "ar_intro": "بردية مصرية قديمة، معروفة بـ«Book of the Dead for the Chantress of Amun, Nauny»، تعود إلى عصر الانتقال الثالث، (الأسرة الحادية والعشرون)، مصنوعة من ورق البردي وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Book of the Dead for the Chantress of Amun, Nauny"
+  },
+  "images": [
+    {
+      "filename": "MET_548344_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DT11633.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Book of the Dead for the Chantress of Amun, Nauny",
+      "object_name": "Papyrus, funerary, Book of the Dead, Nauny; Dendur-decoded"
+    },
+    {
+      "filename": "MET_548344_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DT11632.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Book of the Dead for the Chantress of Amun, Nauny",
+      "object_name": "Papyrus, funerary, Book of the Dead, Nauny; Dendur-decoded"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/548344",
+      "title": "Book of the Dead for the Chantress of Amun, Nauny",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "hieroglyphs",
+    "anubis",
+    "horus",
+    "isis"
+  ],
+  "related_ids": [
+    "MET_548264",
+    "MET_545113",
+    "MET_546037",
+    "MET_548310",
+    "MET_544186",
+    "MET_544228",
+    "MET_544232",
+    "MET_544320"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي بردية (Book of the Dead for the Chantress of Amun, Nauny)؟",
+      "a": "بردية مصرية قديمة، معروفة بـ«Book of the Dead for the Chantress of Amun, Nauny»، تعود إلى عصر الانتقال الثالث، (الأسرة الحادية والعشرون)، مصنوعة من ورق البردي وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد بردية (Book of the Dead for the Chantress of Amun, Nauny) حاليًا؟",
+      "a": "تُحفظ بردية (Book of the Dead for the Chantress of Amun, Nauny) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود بردية (Book of the Dead for the Chantress of Amun, Nauny)؟",
+      "a": "تعود بردية (Book of the Dead for the Chantress of Amun, Nauny) إلى الأسرة الحادية والعشرون.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت بردية (Book of the Dead for the Chantress of Amun, Nauny)؟",
+      "a": "صُنعت بردية (Book of the Dead for the Chantress of Amun, Nauny) من ورق البردي وpaint.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت بردية (Book of the Dead for the Chantress of Amun, Nauny)؟",
+      "a": "أُحضرت بردية (Book of the Dead for the Chantress of Amun, Nauny) من MMA excavations, 1928–29.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

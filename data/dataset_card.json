@@ -1,0 +1,125 @@
+{
+  "name_ar": "مجموعة بيانات المتاحف المصرية متعددة الوسائط",
+  "name_en": "Egyptian Museums Multimodal Dataset",
+  "purpose_ar": "دعم نظام استرجاع وإجابة أسئلة (RAG) باللغة العربية حول الآثار المصرية في المتحف المصري الكبير، المتحف المصري بالتحرير، المتحف القومي للحضارة المصرية، ومجموعات مصرية مختارة في كبرى متاحف العالم.",
+  "purpose_en": "Powers an Arabic Retrieval-Augmented Generation system for Egyptian artifacts in the Grand Egyptian Museum, the Egyptian Museum at Tahrir, the National Museum of Egyptian Civilization, and major world holdings.",
+  "languages": [
+    "ar",
+    "en"
+  ],
+  "modalities": [
+    "text",
+    "image"
+  ],
+  "size": {
+    "artifacts": 225,
+    "images": 606,
+    "rag_chunks": 1315,
+    "qa_pairs": 1136,
+    "museums": 9,
+    "halls": 20
+  },
+  "sources": [
+    {
+      "name": "Wikipedia",
+      "languages": [
+        "ar",
+        "en"
+      ],
+      "license": "CC BY-SA 4.0",
+      "what": "Plain-text artifact descriptions, infobox metadata, interlanguage alignment",
+      "url": "https://www.wikipedia.org"
+    },
+    {
+      "name": "Wikimedia Commons",
+      "license": "varies (per-file in image record)",
+      "what": "Artifact photographs with curator-provided captions and credit lines",
+      "url": "https://commons.wikimedia.org"
+    },
+    {
+      "name": "The Metropolitan Museum of Art (Open Access)",
+      "license": "CC0 1.0",
+      "what": "Public-domain Egyptian artifact records and high-resolution photographs",
+      "url": "https://www.metmuseum.org/art/collection"
+    }
+  ],
+  "image_licenses": {
+    "CC BY-SA 3.0": 38,
+    "CC BY 2.0": 8,
+    "CC BY-SA 4.0": 74,
+    "CC BY-SA 2.0": 22,
+    "Public domain": 78,
+    "CC0": 20,
+    "CC BY 3.0": 13,
+    "CC BY-SA 2.0 fr": 1,
+    "Copyrighted free use": 12,
+    "CC BY-SA 3.0 fr": 10,
+    "No restrictions": 4,
+    "CC BY 4.0": 7,
+    "CC0 1.0": 317,
+    "CC BY-SA 1.0": 1,
+    "CC BY-SA 3.0 rs": 1
+  },
+  "by_museum": {
+    "ABYDOS": 1,
+    "ISTANBUL": 1,
+    "BERLIN": 2,
+    "EMC": 13,
+    "LUXOR_W": 4,
+    "VARIOUS": 7,
+    "DAHSHUR": 2,
+    "LOUVRE": 3,
+    "COPTIC_MUSEUM": 1,
+    "DENDERA": 1,
+    "LEIPZIG": 1,
+    "EDFU": 1,
+    "NYAM": 1,
+    "GIZA": 2,
+    "DEIRELBAHRI": 1,
+    "HILDESHEIM": 1,
+    "LUXOR": 2,
+    "GEM": 3,
+    "KOMOMBO": 1,
+    "MET": 166,
+    "OXFORD": 1,
+    "BM": 4,
+    "KINGSTON": 1,
+    "ASWAN": 1,
+    "ABUSIMBEL": 1,
+    "VOK": 2,
+    "SAQQARA": 1
+  },
+  "schema": {
+    "per_artifact_record": [
+      "id",
+      "names (ar/en/alt)",
+      "category",
+      "period (ar/en/years)",
+      "dynasty (ar/en)",
+      "material[]",
+      "dimensions",
+      "provenance",
+      "discovery (year/by)",
+      "current_location (museum_id/hall_id/city)",
+      "description (ar/en, with intro)",
+      "images[] (filename/license/credit/dims)",
+      "sources[]",
+      "tags[]",
+      "related_ids[]",
+      "qa_pairs_ar[]"
+    ],
+    "frontend_files": {
+      "list_view": "data/artifacts_index.json",
+      "detail_view": "data/<ID>.json",
+      "rag_chunks": "data/chunks.jsonl",
+      "museums": "data/_museums.json",
+      "halls": "data/_halls.json",
+      "qa_eval": "data/_qa_eval.jsonl",
+      "relations": "data/_relations.json"
+    }
+  },
+  "usage_notes_ar": "كل قطعة تحمل صورها وحقوقها على مستوى الصورة (لا تفترض ترخيصًا واحدًا للمجموعة). النصوص العربية مأخوذة من ويكيبيديا أو مُولّدة من بيانات منظمة عبر قواميس مصرية مُنسّقة يدويًا.",
+  "usage_notes_en": "Each image carries its own license — never assume one license for the corpus. Arabic text is sourced from Arabic Wikipedia or synthesized from structured fields via a hand-curated Egyptological glossary.",
+  "built_with": "Wikipedia/MediaWiki API, Wikimedia Commons API, The Met Museum Open Access API, Python 3 standard library + BeautifulSoup",
+  "generated_at": "2026-05-08T21:27:54.441659Z"
+}

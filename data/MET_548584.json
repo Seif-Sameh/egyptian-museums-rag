@@ -1,0 +1,133 @@
+{
+  "id": "MET_548584",
+  "names": {
+    "ar": "أدوات تجميل (Cosmetic Spoon in the Shape of Swimming Woman Holding a Dish)",
+    "en": "Cosmetic Spoon in the Shape of Swimming Woman Holding a Dish",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Cosmetic Spoon, Swimming Woman, Gazelle",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1390,
+    "year_max": -1352
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Travertine (Egyptian alabaster)",
+    "steatite"
+  ],
+  "dimensions": {
+    "text": "L. 22.5 cm (8 7/8 in)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 119"
+  },
+  "description": {
+    "ar": "أدوات تجميل مصرية قديمة، معروفة بـ«Cosmetic Spoon in the Shape of Swimming Woman Holding a Dish»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من Travertine (Egyptian alabaster) وsteatite، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Cosmetic Spoon in the Shape of Swimming Woman Holding a Dish — Cosmetic Spoon, Swimming Woman, Gazelle. Period: New Kingdom, Dynasty 18, dated to ca. 1390–1352 B.C.. Medium: Travertine (Egyptian alabaster), steatite. Dimensions: L. 22.5 cm (8 7/8 in). Country of origin: Egypt. Credit: Rogers Fund, 1926.",
+    "ar_intro": "أدوات تجميل مصرية قديمة، معروفة بـ«Cosmetic Spoon in the Shape of Swimming Woman Holding a Dish»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من Travertine (Egyptian alabaster) وsteatite، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Cosmetic Spoon in the Shape of Swimming Woman Holding a Dish"
+  },
+  "images": [
+    {
+      "filename": "MET_548584_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DT223706.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Cosmetic Spoon in the Shape of Swimming Woman Holding a Dish",
+      "object_name": "Cosmetic Spoon, Swimming Woman, Gazelle"
+    },
+    {
+      "filename": "MET_548584_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/26.2.47-68784.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Cosmetic Spoon in the Shape of Swimming Woman Holding a Dish",
+      "object_name": "Cosmetic Spoon, Swimming Woman, Gazelle"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/548584",
+      "title": "Cosmetic Spoon in the Shape of Swimming Woman Holding a Dish",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "animals",
+    "women",
+    "swimming"
+  ],
+  "related_ids": [
+    "MET_544068",
+    "MET_544450",
+    "MET_544689",
+    "MET_547692",
+    "MET_544056",
+    "MET_544060",
+    "MET_544442",
+    "MET_544453"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي أدوات تجميل (Cosmetic Spoon in the Shape of Swimming Woman Holding a Dish)؟",
+      "a": "أدوات تجميل مصرية قديمة، معروفة بـ«Cosmetic Spoon in the Shape of Swimming Woman Holding a Dish»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من Travertine (Egyptian alabaster) وsteatite، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد أدوات تجميل (Cosmetic Spoon in the Shape of Swimming Woman Holding a Dish) حاليًا؟",
+      "a": "تُحفظ أدوات تجميل (Cosmetic Spoon in the Shape of Swimming Woman Holding a Dish) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود أدوات تجميل (Cosmetic Spoon in the Shape of Swimming Woman Holding a Dish)؟",
+      "a": "تعود أدوات تجميل (Cosmetic Spoon in the Shape of Swimming Woman Holding a Dish) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت أدوات تجميل (Cosmetic Spoon in the Shape of Swimming Woman Holding a Dish)؟",
+      "a": "صُنعت أدوات تجميل (Cosmetic Spoon in the Shape of Swimming Woman Holding a Dish) من Travertine (Egyptian alabaster) وsteatite.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت أدوات تجميل (Cosmetic Spoon in the Shape of Swimming Woman Holding a Dish)؟",
+      "a": "أُحضرت أدوات تجميل (Cosmetic Spoon in the Shape of Swimming Woman Holding a Dish) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

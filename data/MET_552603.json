@@ -1,0 +1,127 @@
+{
+  "id": "MET_552603",
+  "names": {
+    "ar": "Apis figure (Apis Bull Figure)",
+    "en": "Apis Bull Figure",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Apis figure",
+  "period": {
+    "ar": "العصر المتأخر",
+    "en": "Late Period",
+    "year_min": -30,
+    "year_max": -26
+  },
+  "dynasty": {
+    "ar": "الأسرة السادسة والعشرون–30",
+    "en": "Dynasty 26–30"
+  },
+  "material": [
+    "Green faience",
+    "discolored"
+  ],
+  "dimensions": {
+    "text": "H.10 × L.10.5 cm (3 15/16 × 4 1/8 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 130"
+  },
+  "description": {
+    "ar": "Apis figure مصرية قديمة، معروفة بـ«Apis Bull Figure»، تعود إلى العصر المتأخر، (الأسرة السادسة والعشرون–30)، مصنوعة من Green faience وdiscolored، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Apis Bull Figure — Apis figure. Period: Late Period, Dynasty 26–30, dated to 664–332 B.C.. Medium: Green faience, discolored. Dimensions: H.10 × L.10.5 cm (3 15/16 × 4 1/8 in.). Country of origin: Egypt. Credit: Gift of J. Pierpont Morgan, 1917.",
+    "ar_intro": "Apis figure مصرية قديمة، معروفة بـ«Apis Bull Figure»، تعود إلى العصر المتأخر، (الأسرة السادسة والعشرون–30)، مصنوعة من Green faience وdiscolored، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Apis Bull Figure"
+  },
+  "images": [
+    {
+      "filename": "MET_552603_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/17.194.2222_gb_rp.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Apis Bull Figure",
+      "object_name": "Apis figure"
+    },
+    {
+      "filename": "MET_552603_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/17.194.2222_grey_lp.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Apis Bull Figure",
+      "object_name": "Apis figure"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/552603",
+      "title": "Apis Bull Figure",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "bulls"
+  ],
+  "related_ids": [
+    "MET_552835",
+    "MET_552836",
+    "MET_555140",
+    "MET_548339"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي Apis figure (Apis Bull Figure)؟",
+      "a": "Apis figure مصرية قديمة، معروفة بـ«Apis Bull Figure»، تعود إلى العصر المتأخر، (الأسرة السادسة والعشرون–30)، مصنوعة من Green faience وdiscolored، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد Apis figure (Apis Bull Figure) حاليًا؟",
+      "a": "تُحفظ Apis figure (Apis Bull Figure) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود Apis figure (Apis Bull Figure)؟",
+      "a": "تعود Apis figure (Apis Bull Figure) إلى الأسرة السادسة والعشرون–30.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت Apis figure (Apis Bull Figure)؟",
+      "a": "صُنعت Apis figure (Apis Bull Figure) من Green faience وdiscolored.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت Apis figure (Apis Bull Figure)؟",
+      "a": "أُحضرت Apis figure (Apis Bull Figure) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

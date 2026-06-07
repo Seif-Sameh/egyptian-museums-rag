@@ -1,0 +1,110 @@
+{
+  "id": "MET_576445",
+  "names": {
+    "ar": "Bucranium, antlers, horns, pan grave, Medjayu (Bucrania skulls with antlers)",
+    "en": "Bucrania skulls with antlers",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Bucranium, antlers, horns, pan grave, Medjayu",
+  "period": {
+    "ar": "عصر الانتقال الثاني",
+    "en": "Second Intermediate Period",
+    "year_min": -17,
+    "year_max": -14
+  },
+  "dynasty": {
+    "ar": "الأسرة الرابعة عشرة–17",
+    "en": "Dynasty 14–17"
+  },
+  "material": [
+    "Antler",
+    "bone",
+    "paint"
+  ],
+  "dimensions": {
+    "text": "W. of antlers 21.4 cm. (8 7/8 in)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt and Sudan"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 117"
+  },
+  "description": {
+    "ar": "Bucranium, antlers, horns, pan grave, Medjayu مصرية قديمة، معروفة بـ«Bucrania skulls with antlers»، تعود إلى عصر الانتقال الثاني، (الأسرة الرابعة عشرة–17)، مصنوعة من Antler وbone وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Bucrania skulls with antlers — Bucranium, antlers, horns, pan grave, Medjayu. Period: Second Intermediate Period, Dynasty 14–17, dated to ca. 1640–1550 B.C.. Medium: Antler, bone, paint. Dimensions: W. of antlers 21.4 cm. (8 7/8 in). Country of origin: Egypt and Sudan. Credit: Rogers Fund, 1916.",
+    "ar_intro": "Bucranium, antlers, horns, pan grave, Medjayu مصرية قديمة، معروفة بـ«Bucrania skulls with antlers»، تعود إلى عصر الانتقال الثاني، (الأسرة الرابعة عشرة–17)، مصنوعة من Antler وbone وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Bucrania skulls with antlers"
+  },
+  "images": [
+    {
+      "filename": "MET_576445_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP273738.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Bucrania skulls with antlers",
+      "object_name": "Bucranium, antlers, horns, pan grave, Medjayu"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/576445",
+      "title": "Bucrania skulls with antlers",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [],
+  "related_ids": [],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي Bucranium, antlers, horns, pan grave, Medjayu (Bucrania skulls with antlers)؟",
+      "a": "Bucranium, antlers, horns, pan grave, Medjayu مصرية قديمة، معروفة بـ«Bucrania skulls with antlers»، تعود إلى عصر الانتقال الثاني، (الأسرة الرابعة عشرة–17)، مصنوعة من Antler وbone وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد Bucranium, antlers, horns, pan grave, Medjayu (Bucrania skulls with antlers) حاليًا؟",
+      "a": "تُحفظ Bucranium, antlers, horns, pan grave, Medjayu (Bucrania skulls with antlers) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود Bucranium, antlers, horns, pan grave, Medjayu (Bucrania skulls with antlers)؟",
+      "a": "تعود Bucranium, antlers, horns, pan grave, Medjayu (Bucrania skulls with antlers) إلى الأسرة الرابعة عشرة–17.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت Bucranium, antlers, horns, pan grave, Medjayu (Bucrania skulls with antlers)؟",
+      "a": "صُنعت Bucranium, antlers, horns, pan grave, Medjayu (Bucrania skulls with antlers) من Antler وbone وpaint.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت Bucranium, antlers, horns, pan grave, Medjayu (Bucrania skulls with antlers)؟",
+      "a": "أُحضرت Bucranium, antlers, horns, pan grave, Medjayu (Bucrania skulls with antlers) من Egypt and Sudan.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

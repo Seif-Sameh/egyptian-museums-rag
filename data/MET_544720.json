@@ -1,0 +1,132 @@
+{
+  "id": "MET_544720",
+  "names": {
+    "ar": "نقش بارز (Block from a Relief Depicting a Battle)",
+    "en": "Block from a Relief Depicting a Battle",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Relief, battle scene",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1427,
+    "year_max": -1400
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Sandstone",
+    "paint"
+  ],
+  "dimensions": {
+    "text": "H. 61.5 × W. 115 × Th. 21 cm, 306.2 kg (24 3/16 × 45 1/4 × 8 1/4 in., 675 lb.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "MMA excavations, 1912–13"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 119"
+  },
+  "description": {
+    "ar": "نقش بارز مصرية قديمة، معروفة بـ«Block from a Relief Depicting a Battle»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من حجر رملي وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Block from a Relief Depicting a Battle — Relief, battle scene. Period: New Kingdom, Dynasty 18, dated to ca. 1427–1400 B.C.. Medium: Sandstone, paint. Dimensions: H. 61.5 × W. 115 × Th. 21 cm, 306.2 kg (24 3/16 × 45 1/4 × 8 1/4 in., 675 lb.). Excavation: MMA excavations, 1912–13. Country of origin: Egypt. Credit: Rogers Fund and Edward S. Harkness Gift, 1913.",
+    "ar_intro": "نقش بارز مصرية قديمة، معروفة بـ«Block from a Relief Depicting a Battle»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من حجر رملي وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Block from a Relief Depicting a Battle"
+  },
+  "images": [
+    {
+      "filename": "MET_544720_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/213_S3BR2_01GG.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Block from a Relief Depicting a Battle",
+      "object_name": "Relief, battle scene"
+    },
+    {
+      "filename": "MET_544720_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP112585.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Block from a Relief Depicting a Battle",
+      "object_name": "Relief, battle scene"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544720",
+      "title": "Block from a Relief Depicting a Battle",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "battles",
+    "men"
+  ],
+  "related_ids": [
+    "MET_544056",
+    "MET_544453",
+    "MET_544478",
+    "MET_544683",
+    "MET_544686",
+    "MET_544692",
+    "MET_547684",
+    "MET_547687"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي نقش بارز (Block from a Relief Depicting a Battle)؟",
+      "a": "نقش بارز مصرية قديمة، معروفة بـ«Block from a Relief Depicting a Battle»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من حجر رملي وpaint، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد نقش بارز (Block from a Relief Depicting a Battle) حاليًا؟",
+      "a": "تُحفظ نقش بارز (Block from a Relief Depicting a Battle) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود نقش بارز (Block from a Relief Depicting a Battle)؟",
+      "a": "تعود نقش بارز (Block from a Relief Depicting a Battle) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت نقش بارز (Block from a Relief Depicting a Battle)؟",
+      "a": "صُنعت نقش بارز (Block from a Relief Depicting a Battle) من حجر رملي وpaint.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت نقش بارز (Block from a Relief Depicting a Battle)؟",
+      "a": "أُحضرت نقش بارز (Block from a Relief Depicting a Battle) من MMA excavations, 1912–13.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

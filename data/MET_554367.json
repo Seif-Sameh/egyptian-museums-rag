@@ -1,0 +1,130 @@
+{
+  "id": "MET_554367",
+  "names": {
+    "ar": "كأس (Funerary Cone of the Cup-Bearer Neferperet)",
+    "en": "Funerary Cone of the Cup-Bearer Neferperet",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Cone, Davies 213, Neferperet, cup-bearer, king",
+  "period": {
+    "ar": "الدولة الحديثة",
+    "en": "New Kingdom",
+    "year_min": -1550,
+    "year_max": -1295
+  },
+  "dynasty": {
+    "ar": "الأسرة الثامنة عشرة",
+    "en": "Dynasty 18"
+  },
+  "material": [
+    "Pottery"
+  ],
+  "dimensions": {
+    "text": "Preserved H. 7 cm (2 3/4 in.); preserved W. 6.9 cm (2 11/16 in.); preserved L. 5.7 cm (2 1/4  in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "MMA excavations, 1910"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 117"
+  },
+  "description": {
+    "ar": "كأس مصرية قديمة، معروفة بـ«Funerary Cone of the Cup-Bearer Neferperet»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من فخار، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Funerary Cone of the Cup-Bearer Neferperet — Cone, Davies 213, Neferperet, cup-bearer, king. Period: New Kingdom, Dynasty 18, dated to ca. 1550–1295 B.C.. Medium: Pottery. Dimensions: Preserved H. 7 cm (2 3/4 in.); preserved W. 6.9 cm (2 11/16 in.); preserved L. 5.7 cm (2 1/4  in.). Excavation: MMA excavations, 1910. Country of origin: Egypt. Credit: Rogers Fund, 1915.",
+    "ar_intro": "كأس مصرية قديمة، معروفة بـ«Funerary Cone of the Cup-Bearer Neferperet»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من فخار، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Funerary Cone of the Cup-Bearer Neferperet"
+  },
+  "images": [
+    {
+      "filename": "MET_554367_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/LC-15_10_15_EGDP028242.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Funerary Cone of the Cup-Bearer Neferperet",
+      "object_name": "Cone, Davies 213, Neferperet, cup-bearer, king"
+    },
+    {
+      "filename": "MET_554367_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/LC-15_10_15_EGDP028257.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Funerary Cone of the Cup-Bearer Neferperet",
+      "object_name": "Cone, Davies 213, Neferperet, cup-bearer, king"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/554367",
+      "title": "Funerary Cone of the Cup-Bearer Neferperet",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "hieroglyphs"
+  ],
+  "related_ids": [
+    "MET_544692",
+    "MET_544826",
+    "MET_546012",
+    "MET_547687",
+    "MET_554915",
+    "MET_554935",
+    "MET_554936",
+    "MET_554948"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي كأس (Funerary Cone of the Cup-Bearer Neferperet)؟",
+      "a": "كأس مصرية قديمة، معروفة بـ«Funerary Cone of the Cup-Bearer Neferperet»، تعود إلى الدولة الحديثة، (الأسرة الثامنة عشرة)، مصنوعة من فخار، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد كأس (Funerary Cone of the Cup-Bearer Neferperet) حاليًا؟",
+      "a": "تُحفظ كأس (Funerary Cone of the Cup-Bearer Neferperet) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود كأس (Funerary Cone of the Cup-Bearer Neferperet)؟",
+      "a": "تعود كأس (Funerary Cone of the Cup-Bearer Neferperet) إلى الأسرة الثامنة عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت كأس (Funerary Cone of the Cup-Bearer Neferperet)؟",
+      "a": "صُنعت كأس (Funerary Cone of the Cup-Bearer Neferperet) من فخار.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت كأس (Funerary Cone of the Cup-Bearer Neferperet)؟",
+      "a": "أُحضرت كأس (Funerary Cone of the Cup-Bearer Neferperet) من MMA excavations, 1910.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

@@ -1,0 +1,122 @@
+{
+  "id": "MET_560963",
+  "names": {
+    "ar": "تمثال أوشابتي (Shabti of the Divine Consort Mutemhat Mehytenweskhet)",
+    "en": "Shabti of the Divine Consort Mutemhat Mehytenweskhet",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Shabti, Divine Consort, Mutemhat Mehytenweskhet",
+  "period": {
+    "ar": "عصر الانتقال الثالث",
+    "en": "Third Intermediate Period",
+    "year_min": -945,
+    "year_max": -924
+  },
+  "dynasty": {
+    "ar": "الأسرة الثانية والعشرون",
+    "en": "Dynasty 22"
+  },
+  "material": [
+    "Faience"
+  ],
+  "dimensions": {
+    "text": "H. 16.7 × W. 5.4 × D. 3.9 cm (6 9/16 × 2 1/8 × 1 9/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "MMA excavations, 1920–22"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 130"
+  },
+  "description": {
+    "ar": "تمثال أوشابتي مصرية قديمة، معروفة بـ«Shabti of the Divine Consort Mutemhat Mehytenweskhet»، تعود إلى عصر الانتقال الثالث، (الأسرة الثانية والعشرون)، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Shabti of the Divine Consort Mutemhat Mehytenweskhet — Shabti, Divine Consort, Mutemhat Mehytenweskhet. Period: Third Intermediate Period, Dynasty 22, dated to ca. 945–924 B.C.. Medium: Faience. Dimensions: H. 16.7 × W. 5.4 × D. 3.9 cm (6 9/16 × 2 1/8 × 1 9/16 in.). Excavation: MMA excavations, 1920–22. Country of origin: Egypt. Credit: Rogers Fund and Edward S. Harkness Gift, 1922.",
+    "ar_intro": "تمثال أوشابتي مصرية قديمة، معروفة بـ«Shabti of the Divine Consort Mutemhat Mehytenweskhet»، تعود إلى عصر الانتقال الثالث، (الأسرة الثانية والعشرون)، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Shabti of the Divine Consort Mutemhat Mehytenweskhet"
+  },
+  "images": [
+    {
+      "filename": "MET_560963_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-29943-001.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Shabti of the Divine Consort Mutemhat Mehytenweskhet",
+      "object_name": "Shabti, Divine Consort, Mutemhat Mehytenweskhet"
+    },
+    {
+      "filename": "MET_560963_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP-29943-003.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Shabti of the Divine Consort Mutemhat Mehytenweskhet",
+      "object_name": "Shabti, Divine Consort, Mutemhat Mehytenweskhet"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/560963",
+      "title": "Shabti of the Divine Consort Mutemhat Mehytenweskhet",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [],
+  "related_ids": [
+    "MET_544874",
+    "MET_553742"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال أوشابتي (Shabti of the Divine Consort Mutemhat Mehytenweskhet)؟",
+      "a": "تمثال أوشابتي مصرية قديمة، معروفة بـ«Shabti of the Divine Consort Mutemhat Mehytenweskhet»، تعود إلى عصر الانتقال الثالث، (الأسرة الثانية والعشرون)، مصنوعة من خزف فاينس، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال أوشابتي (Shabti of the Divine Consort Mutemhat Mehytenweskhet) حاليًا؟",
+      "a": "تُحفظ تمثال أوشابتي (Shabti of the Divine Consort Mutemhat Mehytenweskhet) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال أوشابتي (Shabti of the Divine Consort Mutemhat Mehytenweskhet)؟",
+      "a": "تعود تمثال أوشابتي (Shabti of the Divine Consort Mutemhat Mehytenweskhet) إلى الأسرة الثانية والعشرون.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال أوشابتي (Shabti of the Divine Consort Mutemhat Mehytenweskhet)؟",
+      "a": "صُنعت تمثال أوشابتي (Shabti of the Divine Consort Mutemhat Mehytenweskhet) من خزف فاينس.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تمثال أوشابتي (Shabti of the Divine Consort Mutemhat Mehytenweskhet)؟",
+      "a": "أُحضرت تمثال أوشابتي (Shabti of the Divine Consort Mutemhat Mehytenweskhet) من MMA excavations, 1920–22.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

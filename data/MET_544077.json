@@ -1,0 +1,119 @@
+{
+  "id": "MET_544077",
+  "names": {
+    "ar": "تمثال صغير (Lion Cub)",
+    "en": "Lion Cub",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Statuette, animal, lion",
+  "period": {
+    "ar": "العصر العتيق",
+    "en": "Early Dynastic Period",
+    "year_min": -3100,
+    "year_max": -2900
+  },
+  "dynasty": {
+    "ar": "الأسرة الأولى",
+    "en": "Dynasty 1"
+  },
+  "material": [
+    "Quartzite"
+  ],
+  "dimensions": {
+    "text": "L. 23.4 x H. 12 x W. 12.5 cm (9 3/16 x 4 3/4 x 4 15/16 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": ""
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 101"
+  },
+  "description": {
+    "ar": "تمثال صغير مصرية قديمة، معروفة بـ«Lion Cub»، تعود إلى العصر العتيق، (الأسرة الأولى)، مصنوعة من كوارتزيت، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Lion Cub — Statuette, animal, lion. Period: Early Dynastic Period, Dynasty 1, dated to ca. 3100–2900 BCE. Medium: Quartzite. Dimensions: L. 23.4 x H. 12 x W. 12.5 cm (9 3/16 x 4 3/4 x 4 15/16 in.). Credit: Purchase, Fletcher Fund and The Guide Foundation Inc. Gift, 1966.",
+    "ar_intro": "تمثال صغير مصرية قديمة، معروفة بـ«Lion Cub»، تعود إلى العصر العتيق، (الأسرة الأولى)، مصنوعة من كوارتزيت، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Lion Cub"
+  },
+  "images": [
+    {
+      "filename": "MET_544077_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP244929.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Lion Cub",
+      "object_name": "Statuette, animal, lion"
+    },
+    {
+      "filename": "MET_544077_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DT8837.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Lion Cub",
+      "object_name": "Statuette, animal, lion"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544077",
+      "title": "Lion Cub",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "lions"
+  ],
+  "related_ids": [
+    "MET_543866",
+    "MET_544066",
+    "MET_544076"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال صغير (Lion Cub)؟",
+      "a": "تمثال صغير مصرية قديمة، معروفة بـ«Lion Cub»، تعود إلى العصر العتيق، (الأسرة الأولى)، مصنوعة من كوارتزيت، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال صغير (Lion Cub) حاليًا؟",
+      "a": "تُحفظ تمثال صغير (Lion Cub) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال صغير (Lion Cub)؟",
+      "a": "تعود تمثال صغير (Lion Cub) إلى الأسرة الأولى.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال صغير (Lion Cub)؟",
+      "a": "صُنعت تمثال صغير (Lion Cub) من كوارتزيت.",
+      "evidence": "material",
+      "type": "material"
+    }
+  ],
+  "highlight": false
+}

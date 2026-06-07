@@ -1,0 +1,128 @@
+{
+  "id": "MET_569754",
+  "names": {
+    "ar": "تميمة (Amulet)",
+    "en": "Amulet",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Amulet, Ba-bird (?)",
+  "period": {
+    "ar": "الدولة الحديثة, Ramesside",
+    "en": "New Kingdom, Ramesside",
+    "year_min": -20,
+    "year_max": -19
+  },
+  "dynasty": {
+    "ar": "الأسرة التاسعة عشرة–20",
+    "en": "Dynasty 19–20"
+  },
+  "material": [
+    "Obsidian"
+  ],
+  "dimensions": {
+    "text": "H. 2.1 × W. 1 × D. 1.6 cm (13/16 × 3/8 × 5/8 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 122"
+  },
+  "description": {
+    "ar": "تميمة مصرية قديمة، معروفة بـ«Amulet»، تعود إلى الدولة الحديثة, Ramesside، (الأسرة التاسعة عشرة–20)، مصنوعة من سبج، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Amulet — Amulet, Ba-bird (?). Period: New Kingdom, Ramesside, Dynasty 19–20, dated to ca. 1295–1070 B.C.. Medium: Obsidian. Dimensions: H. 2.1 × W. 1 × D. 1.6 cm (13/16 × 3/8 × 5/8 in.). Country of origin: Egypt. Credit: Bequest of Mary Anna Palmer Draper, 1915.",
+    "ar_intro": "تميمة مصرية قديمة، معروفة بـ«Amulet»، تعود إلى الدولة الحديثة, Ramesside، (الأسرة التاسعة عشرة–20)، مصنوعة من سبج، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Amulet"
+  },
+  "images": [
+    {
+      "filename": "MET_569754_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/LC-15_43_44_EGDP035794.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Amulet",
+      "object_name": "Amulet, Ba-bird (?)"
+    },
+    {
+      "filename": "MET_569754_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/LC-15_43_44_EGDP035797.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Amulet",
+      "object_name": "Amulet, Ba-bird (?)"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/569754",
+      "title": "Amulet",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [],
+  "related_ids": [
+    "MET_545919",
+    "MET_555398",
+    "MET_569388",
+    "MET_569389",
+    "MET_569390",
+    "MET_569391",
+    "MET_569392",
+    "MET_569393"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تميمة (Amulet)؟",
+      "a": "تميمة مصرية قديمة، معروفة بـ«Amulet»، تعود إلى الدولة الحديثة, Ramesside، (الأسرة التاسعة عشرة–20)، مصنوعة من سبج، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تميمة (Amulet) حاليًا؟",
+      "a": "تُحفظ تميمة (Amulet) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تميمة (Amulet)؟",
+      "a": "تعود تميمة (Amulet) إلى الأسرة التاسعة عشرة–20.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تميمة (Amulet)؟",
+      "a": "صُنعت تميمة (Amulet) من سبج.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تميمة (Amulet)؟",
+      "a": "أُحضرت تميمة (Amulet) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

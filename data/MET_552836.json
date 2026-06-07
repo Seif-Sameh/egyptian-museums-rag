@@ -1,0 +1,112 @@
+{
+  "id": "MET_552836",
+  "names": {
+    "ar": "كأس (Cup)",
+    "en": "Cup",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Cup",
+  "period": {
+    "ar": "العصر المتأخر",
+    "en": "Late Period",
+    "year_min": -30,
+    "year_max": -26
+  },
+  "dynasty": {
+    "ar": "الأسرة السادسة والعشرون–30",
+    "en": "Dynasty 26–30"
+  },
+  "material": [
+    "Copper or bronze"
+  ],
+  "dimensions": {
+    "text": "H. 5.5 × Dia. 6.7 cm (2 3/16 × 2 5/8 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 130"
+  },
+  "description": {
+    "ar": "كأس مصرية قديمة، معروفة بـ«Cup»، تعود إلى العصر المتأخر، (الأسرة السادسة والعشرون–30)، مصنوعة من Copper or bronze، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Cup. Period: Late Period, Dynasty 26–30, dated to 664–332 B.C.. Medium: Copper or bronze. Dimensions: H. 5.5 × Dia. 6.7 cm (2 3/16 × 2 5/8 in.). Country of origin: Egypt. Credit: Theodore M. Davis Collection, Bequest of Theodore M. Davis, 1915.",
+    "ar_intro": "كأس مصرية قديمة، معروفة بـ«Cup»، تعود إلى العصر المتأخر، (الأسرة السادسة والعشرون–30)، مصنوعة من Copper or bronze، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Cup"
+  },
+  "images": [
+    {
+      "filename": "MET_552836_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP-31805-001.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Cup",
+      "object_name": "Cup"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/552836",
+      "title": "Cup",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [],
+  "related_ids": [
+    "MET_552603",
+    "MET_552835",
+    "MET_555140"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي كأس (Cup)؟",
+      "a": "كأس مصرية قديمة، معروفة بـ«Cup»، تعود إلى العصر المتأخر، (الأسرة السادسة والعشرون–30)، مصنوعة من Copper or bronze، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد كأس (Cup) حاليًا؟",
+      "a": "تُحفظ كأس (Cup) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود كأس (Cup)؟",
+      "a": "تعود كأس (Cup) إلى الأسرة السادسة والعشرون–30.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت كأس (Cup)؟",
+      "a": "صُنعت كأس (Cup) من Copper or bronze.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت كأس (Cup)؟",
+      "a": "أُحضرت كأس (Cup) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

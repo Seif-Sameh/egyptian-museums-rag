@@ -1,0 +1,126 @@
+{
+  "id": "MET_544186",
+  "names": {
+    "ar": "تمثال أبو الهول (Senwosret III as a Sphinx)",
+    "en": "Senwosret III as a Sphinx",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Sphinx, Senwosret III; 12th-Dyn-King",
+  "period": {
+    "ar": "الدولة الوسطى",
+    "en": "Middle Kingdom",
+    "year_min": -1878,
+    "year_max": -1840
+  },
+  "dynasty": {
+    "ar": "الأسرة الثانية عشرة",
+    "en": "Dynasty 12"
+  },
+  "material": [
+    "Gneiss"
+  ],
+  "dimensions": {
+    "text": "L. 73 × W. 29.5 × H. 42.5 cm, 114.3 kg (28 3/4 × 11 5/8 × 16 3/4 in., 252 lb.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": ""
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 111"
+  },
+  "description": {
+    "ar": "تمثال أبو الهول مصرية قديمة، معروفة بـ«Senwosret III as a Sphinx»، تعود إلى الدولة الوسطى، (الأسرة الثانية عشرة)، مصنوعة من Gneiss، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Senwosret III as a Sphinx — Sphinx, Senwosret III; 12th-Dyn-King. Period: Middle Kingdom, Dynasty 12, dated to ca. 1878–1840 B.C.. Medium: Gneiss. Dimensions: L. 73 × W. 29.5 × H. 42.5 cm, 114.3 kg (28 3/4 × 11 5/8 × 16 3/4 in., 252 lb.). Credit: Gift of Edward S. Harkness, 1917.",
+    "ar_intro": "تمثال أبو الهول مصرية قديمة، معروفة بـ«Senwosret III as a Sphinx»، تعود إلى الدولة الوسطى، (الأسرة الثانية عشرة)، مصنوعة من Gneiss، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Senwosret III as a Sphinx"
+  },
+  "images": [
+    {
+      "filename": "MET_544186_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DP247658.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Senwosret III as a Sphinx",
+      "object_name": "Sphinx, Senwosret III; 12th-Dyn-King"
+    },
+    {
+      "filename": "MET_544186_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DP248998.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Senwosret III as a Sphinx",
+      "object_name": "Sphinx, Senwosret III; 12th-Dyn-King"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/544186",
+      "title": "Senwosret III as a Sphinx",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "hieroglyphs",
+    "sphinx",
+    "mk-kings"
+  ],
+  "related_ids": [
+    "MET_544184",
+    "MET_544228",
+    "MET_544232",
+    "MET_544320",
+    "MET_543864",
+    "MET_543867",
+    "MET_544210",
+    "MET_544214"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال أبو الهول (Senwosret III as a Sphinx)؟",
+      "a": "تمثال أبو الهول مصرية قديمة، معروفة بـ«Senwosret III as a Sphinx»، تعود إلى الدولة الوسطى، (الأسرة الثانية عشرة)، مصنوعة من Gneiss، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال أبو الهول (Senwosret III as a Sphinx) حاليًا؟",
+      "a": "تُحفظ تمثال أبو الهول (Senwosret III as a Sphinx) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال أبو الهول (Senwosret III as a Sphinx)؟",
+      "a": "تعود تمثال أبو الهول (Senwosret III as a Sphinx) إلى الأسرة الثانية عشرة.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال أبو الهول (Senwosret III as a Sphinx)؟",
+      "a": "صُنعت تمثال أبو الهول (Senwosret III as a Sphinx) من Gneiss.",
+      "evidence": "material",
+      "type": "material"
+    }
+  ],
+  "highlight": true
+}

@@ -1,0 +1,153 @@
+{
+  "id": "MET_548360",
+  "names": {
+    "ar": "تمثال (Torso of a High General)",
+    "en": "Torso of a High General",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Statue, torso, striding general",
+  "period": {
+    "ar": "العصر المتأخر",
+    "en": "Late Period",
+    "year_min": 69,
+    "year_max": 69
+  },
+  "dynasty": {
+    "ar": "",
+    "en": ""
+  },
+  "material": [
+    "Metagraywacke"
+  ],
+  "dimensions": {
+    "text": "H. 69.9 cm (24 1/2 in.), W. 32.8 cm (12 15/16 in.), D. 27.0 cm (10 5/8 in.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 128"
+  },
+  "description": {
+    "ar": "تمثال مصرية قديمة، معروفة بـ«Torso of a High General»، تعود إلى العصر المتأخر، مصنوعة من Metagraywacke، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Torso of a High General — Statue, torso, striding general. Period: Late Period, dated to 4th century B.C.. Medium: Metagraywacke. Dimensions: H. 69.9 cm (24 1/2 in.), W. 32.8 cm (12 15/16 in.), D. 27.0 cm (10 5/8 in.). Country of origin: Egypt. Credit: Purchase, Lila Acheson Wallace Gift, Gift of Henry Walters, by exchange, Asher B. Edelman Gift, Judith and Russell Carson Gift, Ernest L. Folk III Bequest, Ludlow Bull Fund, and funds from various donors, 1996.",
+    "ar_intro": "تمثال مصرية قديمة، معروفة بـ«Torso of a High General»، تعود إلى العصر المتأخر، مصنوعة من Metagraywacke، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Torso of a High General"
+  },
+  "images": [
+    {
+      "filename": "MET_548360_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DT3997.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Torso of a High General",
+      "object_name": "Statue, torso, striding general"
+    },
+    {
+      "filename": "MET_548360_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DT3998.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Torso of a High General",
+      "object_name": "Statue, torso, striding general"
+    },
+    {
+      "filename": "MET_548360_03.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/261305.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Torso of a High General",
+      "object_name": "Statue, torso, striding general"
+    },
+    {
+      "filename": "MET_548360_04.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/261304.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Torso of a High General",
+      "object_name": "Statue, torso, striding general"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/548360",
+      "title": "Torso of a High General",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "men",
+    "hieroglyphs"
+  ],
+  "related_ids": [
+    "MET_544320",
+    "MET_544692",
+    "MET_544740",
+    "MET_544766",
+    "MET_544776",
+    "MET_547687",
+    "MET_547694",
+    "MET_548338"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال (Torso of a High General)؟",
+      "a": "تمثال مصرية قديمة، معروفة بـ«Torso of a High General»، تعود إلى العصر المتأخر، مصنوعة من Metagraywacke، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال (Torso of a High General) حاليًا؟",
+      "a": "تُحفظ تمثال (Torso of a High General) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال (Torso of a High General)؟",
+      "a": "تعود تمثال (Torso of a High General) إلى العصر المتأخر.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال (Torso of a High General)؟",
+      "a": "صُنعت تمثال (Torso of a High General) من Metagraywacke.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تمثال (Torso of a High General)؟",
+      "a": "أُحضرت تمثال (Torso of a High General) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

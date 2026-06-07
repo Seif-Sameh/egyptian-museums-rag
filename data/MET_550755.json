@@ -1,0 +1,130 @@
+{
+  "id": "MET_550755",
+  "names": {
+    "ar": "تمثال (Naophorous Block Statue of a Governor of Sais, Psamtikseneb)",
+    "en": "Naophorous Block Statue of a Governor of Sais, Psamtikseneb",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Block Statue, Governor of Sais",
+  "period": {
+    "ar": "العصر المتأخر, Saite",
+    "en": "Late Period, Saite",
+    "year_min": -664,
+    "year_max": -610
+  },
+  "dynasty": {
+    "ar": "الأسرة السادسة والعشرون",
+    "en": "Dynasty 26"
+  },
+  "material": [
+    "Greywacke"
+  ],
+  "dimensions": {
+    "text": "H. 31 × W. 16.6 × D. 17.3 cm, 12 kg (12 3/16 × 6 9/16 × 6 13/16 in., 26.5 lb.)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Italy"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 127"
+  },
+  "description": {
+    "ar": "تمثال مصرية قديمة، معروفة بـ«Naophorous Block Statue of a Governor of Sais, Psamtikseneb»، تعود إلى العصر المتأخر, Saite، (الأسرة السادسة والعشرون)، مصنوعة من غريواكي، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Naophorous Block Statue of a Governor of Sais, Psamtikseneb — Block Statue, Governor of Sais. Period: Late Period, Saite, Dynasty 26, dated to 664–610 B.C.. Medium: Greywacke. Dimensions: H. 31 × W. 16.6 × D. 17.3 cm, 12 kg (12 3/16 × 6 9/16 × 6 13/16 in., 26.5 lb.). Country of origin: Italy. Credit: Purchase, Lila Acheson Wallace Gift, 1982.",
+    "ar_intro": "تمثال مصرية قديمة، معروفة بـ«Naophorous Block Statue of a Governor of Sais, Psamtikseneb»، تعود إلى العصر المتأخر, Saite، (الأسرة السادسة والعشرون)، مصنوعة من غريواكي، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Naophorous Block Statue of a Governor of Sais, Psamtikseneb"
+  },
+  "images": [
+    {
+      "filename": "MET_550755_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/DT11707.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Naophorous Block Statue of a Governor of Sais, Psamtikseneb",
+      "object_name": "Block Statue, Governor of Sais"
+    },
+    {
+      "filename": "MET_550755_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/1982.318_01.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Naophorous Block Statue of a Governor of Sais, Psamtikseneb",
+      "object_name": "Block Statue, Governor of Sais"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/550755",
+      "title": "Naophorous Block Statue of a Governor of Sais, Psamtikseneb",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "men"
+  ],
+  "related_ids": [
+    "PSAMTIK_OFFERING",
+    "MET_548338",
+    "MET_544884",
+    "MET_545213",
+    "MET_546746",
+    "MET_553027",
+    "MET_543864",
+    "MET_543882"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال (Naophorous Block Statue of a Governor of Sais, Psamtikseneb)؟",
+      "a": "تمثال مصرية قديمة، معروفة بـ«Naophorous Block Statue of a Governor of Sais, Psamtikseneb»، تعود إلى العصر المتأخر, Saite، (الأسرة السادسة والعشرون)، مصنوعة من غريواكي، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال (Naophorous Block Statue of a Governor of Sais, Psamtikseneb) حاليًا؟",
+      "a": "تُحفظ تمثال (Naophorous Block Statue of a Governor of Sais, Psamtikseneb) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال (Naophorous Block Statue of a Governor of Sais, Psamtikseneb)؟",
+      "a": "تعود تمثال (Naophorous Block Statue of a Governor of Sais, Psamtikseneb) إلى الأسرة السادسة والعشرون.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال (Naophorous Block Statue of a Governor of Sais, Psamtikseneb)؟",
+      "a": "صُنعت تمثال (Naophorous Block Statue of a Governor of Sais, Psamtikseneb) من Greywacke.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تمثال (Naophorous Block Statue of a Governor of Sais, Psamtikseneb)؟",
+      "a": "أُحضرت تمثال (Naophorous Block Statue of a Governor of Sais, Psamtikseneb) من Italy.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

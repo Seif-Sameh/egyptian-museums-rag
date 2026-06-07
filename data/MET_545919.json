@@ -1,0 +1,132 @@
+{
+  "id": "MET_545919",
+  "names": {
+    "ar": "Asiatic captive, furniture decoration (Figure of an Asiatic captive)",
+    "en": "Figure of an Asiatic captive",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Asiatic captive, furniture decoration",
+  "period": {
+    "ar": "الدولة الحديثة, Ramesside",
+    "en": "New Kingdom, Ramesside",
+    "year_min": -20,
+    "year_max": -19
+  },
+  "dynasty": {
+    "ar": "الأسرة التاسعة عشرة–20",
+    "en": "Dynasty 19–20"
+  },
+  "material": [
+    "Ivory",
+    "red and pink pigment",
+    "white ground"
+  ],
+  "dimensions": {
+    "text": "H. 11. 8 cm (4 5/8 in), w. 4.2 cm (1 5/8 in), Th. 0.4 cm (1/4 in)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "Egypt"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 124"
+  },
+  "description": {
+    "ar": "Asiatic captive, furniture decoration مصرية قديمة، معروفة بـ«Figure of an Asiatic captive»، تعود إلى الدولة الحديثة, Ramesside، (الأسرة التاسعة عشرة–20)، مصنوعة من عاج وred and pink pigment وwhite ground، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Figure of an Asiatic captive — Asiatic captive, furniture decoration. Period: New Kingdom, Ramesside, Dynasty 19–20, dated to ca. 1295–1070 B.C.. Medium: Ivory, red and pink pigment, white ground. Dimensions: H. 11. 8 cm (4 5/8 in), w. 4.2 cm (1 5/8 in), Th. 0.4 cm (1/4 in). Country of origin: Egypt. Credit: Purchase, Fletcher Fund and The Guide Foundation Inc. Gift, 1966.",
+    "ar_intro": "Asiatic captive, furniture decoration مصرية قديمة، معروفة بـ«Figure of an Asiatic captive»، تعود إلى الدولة الحديثة, Ramesside، (الأسرة التاسعة عشرة–20)، مصنوعة من عاج وred and pink pigment وwhite ground، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Figure of an Asiatic captive"
+  },
+  "images": [
+    {
+      "filename": "MET_545919_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/web-large/66.99.50_EGDP020841.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Figure of an Asiatic captive",
+      "object_name": "Asiatic captive, furniture decoration"
+    },
+    {
+      "filename": "MET_545919_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/66.99.50_EGDP017330.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Figure of an Asiatic captive",
+      "object_name": "Asiatic captive, furniture decoration"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/545919",
+      "title": "Figure of an Asiatic captive",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "men"
+  ],
+  "related_ids": [
+    "MET_555398",
+    "MET_569388",
+    "MET_569389",
+    "MET_569390",
+    "MET_569391",
+    "MET_569392",
+    "MET_569393",
+    "MET_569394"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي Asiatic captive, furniture decoration (Figure of an Asiatic captive)؟",
+      "a": "Asiatic captive, furniture decoration مصرية قديمة، معروفة بـ«Figure of an Asiatic captive»، تعود إلى الدولة الحديثة, Ramesside، (الأسرة التاسعة عشرة–20)، مصنوعة من عاج وred and pink pigment وwhite ground، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد Asiatic captive, furniture decoration (Figure of an Asiatic captive) حاليًا؟",
+      "a": "تُحفظ Asiatic captive, furniture decoration (Figure of an Asiatic captive) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود Asiatic captive, furniture decoration (Figure of an Asiatic captive)؟",
+      "a": "تعود Asiatic captive, furniture decoration (Figure of an Asiatic captive) إلى الأسرة التاسعة عشرة–20.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت Asiatic captive, furniture decoration (Figure of an Asiatic captive)؟",
+      "a": "صُنعت Asiatic captive, furniture decoration (Figure of an Asiatic captive) من عاج وred and pink pigment وwhite ground.",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت Asiatic captive, furniture decoration (Figure of an Asiatic captive)؟",
+      "a": "أُحضرت Asiatic captive, furniture decoration (Figure of an Asiatic captive) من Egypt.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}

@@ -1,0 +1,153 @@
+{
+  "id": "MET_547699",
+  "names": {
+    "ar": "تمثال (Head Attributed to Arsinoe II)",
+    "en": "Head Attributed to Arsinoe II",
+    "alt_ar": [],
+    "alt_en": []
+  },
+  "category": "Head of a statue of Arsinoe II",
+  "period": {
+    "ar": "العصر البطلمي",
+    "en": "Ptolemaic Period",
+    "year_min": -278,
+    "year_max": -270
+  },
+  "dynasty": {
+    "ar": "",
+    "en": ""
+  },
+  "material": [
+    "Limestone (Indurated)"
+  ],
+  "dimensions": {
+    "text": "H. 12 cm (4 3/4 in); W. 9 cm (3 9/16 in); D. 9 cm (3 9/16 in)"
+  },
+  "provenance": {
+    "site_ar": "",
+    "site_en": "IFAO excavations 1922-1923"
+  },
+  "discovery": {
+    "year": null,
+    "by_ar": "",
+    "by_en": ""
+  },
+  "current_location": {
+    "museum_id": "MET",
+    "museum_ar": "متحف المتروبوليتان للفنون",
+    "museum_en": "The Metropolitan Museum of Art",
+    "city_ar": "نيويورك",
+    "city_en": "New York",
+    "country": "USA",
+    "hall_id": "",
+    "hall_ar": "",
+    "hall_en": "Gallery 134"
+  },
+  "description": {
+    "ar": "تمثال مصرية قديمة، معروفة بـ«Head Attributed to Arsinoe II»، تعود إلى العصر البطلمي، مصنوعة من Limestone (Indurated)، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en": "Head Attributed to Arsinoe II — Head of a statue of Arsinoe II. Period: Ptolemaic Period, dated to 278–270 B.C.. Medium: Limestone (Indurated). Dimensions: H. 12 cm (4 3/4 in); W. 9 cm (3 9/16 in); D. 9 cm (3 9/16 in). Excavation: IFAO excavations 1922-1923. Country of origin: Egypt. Credit: Gift of Abby Aldrich Rockefeller, 1938.",
+    "ar_intro": "تمثال مصرية قديمة، معروفة بـ«Head Attributed to Arsinoe II»، تعود إلى العصر البطلمي، مصنوعة من Limestone (Indurated)، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+    "en_intro": "Head Attributed to Arsinoe II"
+  },
+  "images": [
+    {
+      "filename": "MET_547699_01.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/DT10849.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": true,
+      "caption_en": "Head Attributed to Arsinoe II",
+      "object_name": "Head of a statue of Arsinoe II"
+    },
+    {
+      "filename": "MET_547699_02.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/38.10_front.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Head Attributed to Arsinoe II",
+      "object_name": "Head of a statue of Arsinoe II"
+    },
+    {
+      "filename": "MET_547699_03.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/38.10_lp.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Head Attributed to Arsinoe II",
+      "object_name": "Head of a statue of Arsinoe II"
+    },
+    {
+      "filename": "MET_547699_04.jpg",
+      "source": "met_museum_oa",
+      "source_url": "https://images.metmuseum.org/CRDImages/eg/original/38.10_rp.jpg",
+      "credit": "The Metropolitan Museum of Art, Open Access",
+      "license": "CC0 1.0",
+      "license_url": "https://creativecommons.org/publicdomain/zero/1.0/",
+      "is_primary": false,
+      "caption_en": "Head Attributed to Arsinoe II",
+      "object_name": "Head of a statue of Arsinoe II"
+    }
+  ],
+  "sources": [
+    {
+      "type": "met_museum_oa",
+      "url": "https://www.metmuseum.org/art/collection/search/547699",
+      "title": "Head Attributed to Arsinoe II",
+      "license": "CC0 1.0"
+    }
+  ],
+  "tags": [
+    "heads",
+    "women"
+  ],
+  "related_ids": [
+    "MET_544689",
+    "MET_547692",
+    "MET_544060",
+    "MET_544453",
+    "MET_544690",
+    "MET_544691",
+    "MET_544884",
+    "MET_547704"
+  ],
+  "qa_pairs_ar": [
+    {
+      "q": "ما هي تمثال (Head Attributed to Arsinoe II)؟",
+      "a": "تمثال مصرية قديمة، معروفة بـ«Head Attributed to Arsinoe II»، تعود إلى العصر البطلمي، مصنوعة من Limestone (Indurated)، محفوظة حاليًا في متحف المتروبوليتان للفنون، نيويورك.",
+      "evidence": "description.ar_intro",
+      "type": "identity"
+    },
+    {
+      "q": "أين توجد تمثال (Head Attributed to Arsinoe II) حاليًا؟",
+      "a": "تُحفظ تمثال (Head Attributed to Arsinoe II) في متحف المتروبوليتان للفنون في نيويورك.",
+      "evidence": "current_location",
+      "type": "location"
+    },
+    {
+      "q": "إلى أي عصر تعود تمثال (Head Attributed to Arsinoe II)؟",
+      "a": "تعود تمثال (Head Attributed to Arsinoe II) إلى العصر البطلمي.",
+      "evidence": "dynasty/period",
+      "type": "period"
+    },
+    {
+      "q": "من أي مادة صُنعت تمثال (Head Attributed to Arsinoe II)؟",
+      "a": "صُنعت تمثال (Head Attributed to Arsinoe II) من Limestone (Indurated).",
+      "evidence": "material",
+      "type": "material"
+    },
+    {
+      "q": "من أين أُحضرت تمثال (Head Attributed to Arsinoe II)؟",
+      "a": "أُحضرت تمثال (Head Attributed to Arsinoe II) من IFAO excavations 1922-1923.",
+      "evidence": "provenance",
+      "type": "provenance"
+    }
+  ],
+  "highlight": false
+}
